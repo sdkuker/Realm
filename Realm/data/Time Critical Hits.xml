@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Hair rises on the back of your neck.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>You feel the sting of power.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Chilled bones confirm just how close death was!</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>-1 from random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>-2 from random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>-1 from 1 random stat. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>-1 from 2 random stats. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>-2 from 2 random stats. -1 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>-3 from 2 random stats. -2 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>-4 from 2 random stats. -3 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Death's grip was frightening. -20 hits. -10 from all the stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>-6 from 2 random stats. -4 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>-7 from 2 random stats. -5 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>-8 from 2 random stats. -6 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>-9 from 2 random stats. -7 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>-10 from 2 random stats. -8 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>-11 from 2 random stats. -9 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>-12 from 2 random stats. -10 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Your teeth clatter to the floor, as the centuries of old age are thrust upon you. Die in one rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>a momentary touch makes your eyes widen!</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Death's caress just misses!</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>-1 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>-2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>-1 from 1 random stat. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>-1 from 2 random stats. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>-2 from 2 random stats. -1 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>-3 from 2 random stats. -2 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>-4 from 2 random stats. -2 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>-5 from 2 random stats. -3 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Skin stretches tight across your face. -20 hits. -12 from all stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>-7 from 2 random stats. -5 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>-8 from 2 random stats. -6 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>-9 from 2 random stats. -7 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>-10 from 2 random stats. -8 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>-11 from 2 random stats. -9 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>-12 from 2 random stats. -10 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Your muscles grow limp. Death claims you in 4 short rnds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Silly you. Don't you know your advanced age has already killed you.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Lucky move on your part!</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>-1 from random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>-2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>-1 from 1 random stat. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>-1 from 2 random stats. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>-2 from 2 random stats. -1 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>-3 from 2 random stats. -2 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>-4 from 2 random stats. -2 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>-5 from 2 random stats. -3 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>-6 from 2 random stats. -4 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Great age sets badly upon your body. -20 hits. -15 from all the stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>-8 from 2 random stats. -6 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>9 from 2 random stats. -7 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>-10 from 2 random stats. -8 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>-11 from 2 random stats. -9 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>-12 from 2 random stats. -10 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Sudden despair strikes. Your life passes before your eyes. After 4 inactive rds, death claims you.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Legs collapse from brittled bones. Aging process leaves you in a coma for 3 rds, then you die.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Who said you won't die of old age. They lied, because you just died.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Your luck is going to change. Count on it!</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>-2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>-1 from 1 random stat. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>-1 from 2 random stats. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>-2 from 2 random stats. -1 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>-3 from 2 random stats. -2 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>-4 from 2 random stats. -2 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>You are bone tired, age has a grip on you. -5 from all the stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>-6 from 2 random stats. -4 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>-7 from 2 random stats. -5 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Age claims you as it's prize. -20 hits. -70 to all actions for 12 rds, then you suddenly die!</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>-9 from 2 random stats. -7 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>-10 from 2 random stats. -8 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>-11 from 2 random stats. -9 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>-12 from 2 random stats. -10 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>8 rds of bone twisting agony. -50 to all actions, then you lean over and die.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Your heart stops, pain smashes thru your chest. Unable to move, you age rapidly and die in 3 rds. Peace at last.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Death's agony rips out your life force causing you to die in two rnds. -50 to all actions until then.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Your body withers and shrivels and dies of old age; all in one rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Time will get you; however it will be next time.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>-1 from 1 random stat. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>-1 from 2 random stats. -2 from 1 random stat.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>-2 from 2 random stats. -1 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>-3 from 2 random stats. -2 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>-4 from 2 random stats. -2 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>-5 from 2 random stats. -3 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Joints crack and ache. -2 to al the stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Eye sight and hearing fade as old age consumes your body. -15 to all the stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>-8 from 2 random stats. -6 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>You are not growing old gracefully. Rapid aging kills you in 3 rnds. -20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>-10 from 2 random stats. -8 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>-11 from 2 random stats. -9 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>-12 from 2 random stats. -10 from all other stats.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Your body dries up as old age squeezes out your life essence. Die in 8 inactive rds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Aging bones protest against any movement. -75 to all actions as rapid aging kills you in seven rds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>The shock of aging rapidly places you in a coma for 6 rds and then death strikes.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Body is picked up and tossed in the air for 2 rds. Body fades as age burns up flesh and blood. Not a happy death.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Time</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Your body crumbles to dust so quickly that there is nothing you can do.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

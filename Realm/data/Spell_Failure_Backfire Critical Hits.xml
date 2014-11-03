@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>An annoying insect distracts the caster. The spell fizzles and is lost, but happily, not the Spell Points. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>The caster suddenly remembers an interesting bit of trivia that causes him to lose concentration. The spell sparkles to little effect. (Luckily, not the Spell Points).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>The caster is filled with a vast sense of ennui. In his depression his spell fades into oblivion. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>An unrelenting itch causes the caster to lose concentration. The spell sputters out and for the next week the caster's ears will glow in the dark. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>25</Maximum>
+            </RollValues>
+            <Description>The caster smells an odious vapor that distracts him. The spell is lost and the caster loses 25% of the next round to a Quick Perception Check.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>26</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>The caster gets disoriented and changes facing, losing line of sight to his target. The spell is lost as the caster reorients himself.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>In the heat of battle, the caster suddenly draws his weapon (whether he has one or not) using both time and initiative. In his zeal, the spell is forgotten. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>The caster's spell short circuits and he is stunned for the next round. As a result of the screwed up spell, a cute white furry bunny materializes on the caster's head. The bunny is also quite stunned. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>The caster stumbles over his own feet and falls prone. The spell he was casting is gone forever along with the power points. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>The caster's spell goes haywire and he is stunned for the next round. As a side effect, he becomes very scary. Everyone within 50' of the caster makes a RR vs. Fear at the casters level. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>In the stress of battle the caster releases an uncontrolled spell that reverses itself and zaps him. It leaves him stunned for the next round and at �30 for three rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>The caster completely loses control of his spell but manages to Long Door himself D100 (open-ended) feet away. The caster arrives stunned and facing randomly. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>One of the caster's companions is affected by the botched spell. Randomly determine which of them is Teleported D100 (open-ended) feet away. No Resistance. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>The caster screws up his spell and it runs completely wild. An enormous surge of essaence surges through his body leaving him with no PP's and stunned. The spell explodes outward affecting all entities (at the casters level +10) within 200' of the caster. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>The caster loses control of his spell but manages to Long Door himself D100 (open-ended) feet away. The caster arrives stunned (No Parry) and facing randomly. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Can it get any worse? The caster unexpectedly pulls a muscle during casting that causes his spell to misfire. Every entity (including himself) within D100 feet of his position is randomly Teleported to a spot D100 feet from their current position. The caster takes D10 damage and is stunned for two rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Could it get any more embarrassing? Not only does the caster completely screw up the spell and stun himself, but in the surge of essaence he manages to Teleport himself D100 (open-ended) feet away. And will the shame never end! When the caster teleports, all objects and items (including artifacts) on his person are left behind and he arrives completely naked. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>The caster inadvertently smacks himself in the genitalia. The spell goes wonky and the caster is stunned for 2 rounds. As a weird side effect, the caster's skin changes to a random primary color for D100 (open-ended) days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>An unexpected sneeze blows away the caster's spell and he is stunned for 3 rounds. When the caster recovers he discovers that he has changed gender. This effect will last for D100 (open-ended) days. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>The caster unexpectedly pokes himself in the eye. He is stunned for 3 rounds and when he recovers it might take him a moment to realize that all the hair on his body has fallen out. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>The caster must have angered the Gods. While verbalizing his spell the caster bites his tongue and in the ensuing burst of essaence a portal is ripped open drawing a random demon into this plane. It will arrive in D10 rounds, D100 feet away. The caster will probably be a prime target as he is stunned for 2D10 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>105</Maximum>
+            </RollValues>
+            <Description>Whoops. The spell reverses itself and is currently taking full affect on the caster. Luckily, if possible, the caster can Resist it. But he doesn't resist the strange side effect: every day for the next two weeks a different body part turns Invisible. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>106</Minimum>
+                <Maximum>110</Maximum>
+            </RollValues>
+            <Description>Ouch. The spell goes wild and strikes one of the caster's companions. Roll randomly to determine which one, while the caster is stunned for 3 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>111</Minimum>
+                <Maximum>115</Maximum>
+            </RollValues>
+            <Description>The caster should probably give up magic. He loses control of his spell and it strikes himself and one of his companions Stunning each for 3 rounds. (No Parry). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>116</Minimum>
+                <Maximum>120</Maximum>
+            </RollValues>
+            <Description>Things could certainly be better. The caster's spell goes out of kilter and everyone within 50' of him takes an A Electrical Critical including himself. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>121</Minimum>
+                <Maximum>125</Maximum>
+            </RollValues>
+            <Description>The caster couldn't get more lucky! Every enemy of the caster takes a B Fire Critical. Though in the explosion of essaence the caster is stunned No Parry for 3 rounds and grows bright purple fur for the next two weeks. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>126</Minimum>
+                <Maximum>130</Maximum>
+            </RollValues>
+            <Description>The caster's spell explodes wildly out of control striking one of his companions for a C Impact Critical. The caster is also stunned with No Parry for 1 round. And further, the trauma of his failure sends him into Frenzy for 6 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>131</Minimum>
+                <Maximum>135</Maximum>
+            </RollValues>
+            <Description>In the stress of battle the caster releases a chaotic spell. A random monster materializes 50' away and attacks the nearest entity. The caster is downed for 3 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>136</Minimum>
+                <Maximum>140</Maximum>
+            </RollValues>
+            <Description>With a sudden burst of essaence the caster is knocked unconscious for 10 minutes. In time the caster will discover that for the next week spell enhancement devices will not work for him. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>141</Minimum>
+                <Maximum>145</Maximum>
+            </RollValues>
+            <Description>A coruscating shock of essaence knocks the caster out for D100 minutes. When he recovers, he will discover that for the next D10 days half his PP's are gone. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>146</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>A blinding flash of essaence explodes in the caster's face rendering him unconscious for D100 (open-ended) minutes. Upon awakening, the caster will be blind. The effect will last for the next day. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>155</Maximum>
+            </RollValues>
+            <Description>Essaence rips through the caster's body causing nerve damage and knocking him insensible for the next day. After recuperation the caster discovers the essaence has Cursed (Level 20) him with narcolepsy. In any stressful situation (e.g. combat) the caster must make a SD Easy Maneuver Roll every round or fall asleep for D10 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>156</Minimum>
+                <Maximum>160</Maximum>
+            </RollValues>
+            <Description>Yowza! The caster accidentally taps into raw uncontrolled essaence that short circuits his nervous system for the next two days. A blinding bolt of lightning then strikes one of the casters enemies and he explodes into a thousand tiny pieces that fly everywhere. But don't celebrate yet, everyone within 100' is stunned for two rounds by the awesome display. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>161</Minimum>
+                <Maximum>165</Maximum>
+            </RollValues>
+            <Description>What a sad display. The caster manages to stick his finger up his nose while casting his spell. The spell enters his head and zaps him asleep (magically) for then next two days. He will be unable to revive and his finger will be up his nose the entire time. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>166</Minimum>
+                <Maximum>170</Maximum>
+            </RollValues>
+            <Description>The caster miscasts his spell and in the surge of essaence gives himself a mild stroke. For the next two days the caster will be able to speak only gibberish and drool. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>171</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>The caster's spell implodes on himself setting his hair and clothes on fire taking a C Heat critical. After the flames are out, the caster will pass out for the next day. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>180</Maximum>
+            </RollValues>
+            <Description>The caster falls unconscious for the next three days, and to make it worse, a random magic item (not Artifact) on his person disintegrates (no RR). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>181</Minimum>
+                <Maximum>185</Maximum>
+            </RollValues>
+            <Description>The caster might be in trouble for this! Not only is the caster struck by his out of control spell but a random magic item (not Artifact) within 100' disintegrates (no RR). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>186</Minimum>
+                <Maximum>190</Maximum>
+            </RollValues>
+            <Description>Adventuring is fun! The caster is blasted by his own spell. In addition he takes an E Tiny and a C Unbalancing critical. (Different Rolls). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>191</Minimum>
+                <Maximum>195</Maximum>
+            </RollValues>
+            <Description>The pain of it all. Raw essaence slashes into the caster's body. He takes the following E criticals: Electricity, Unbalancing, and Stress (Same Roll). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>196</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>This one is going to hurt. The caster internalizes a massive amount of raw essaence. He takes the following E criticals: Fire, Cold, and Impact (Different Rolls). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>210</Maximum>
+            </RollValues>
+            <Description>In a stunning display, the caster manages to punch himself in the face breaking his own nose. As a result of his ineptitude and clumsiness his spell goes nuts and strikes him in the chin knocking him out. When the caster wakes up, he will be without PP for the next week and, of course, humiliated. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>211</Minimum>
+                <Maximum>220</Maximum>
+            </RollValues>
+            <Description>In a sad and pathetic moment, the caster misfires his spell and suffers nerve damage that leaves him without the ability to cast spells for the next week. In addition, one of the casters potentials (random) is lowered by one. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>221</Minimum>
+                <Maximum>230</Maximum>
+            </RollValues>
+            <Description>Too bad. The caster bites his lip giving himself 1 Hit per round bleeding. But worse, his spell misfires and tears into his body putting him into a coma for the next two weeks. On the bright side, one of his potentials (random) has been raised by one. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>231</Minimum>
+                <Maximum>240</Maximum>
+            </RollValues>
+            <Description>The caster should just retire after this. His spell runs wildly out of control and in his pathetic attempt to control it, releases it on himself. The caster is knocked unconscious. When he wakes he is mute. This effect lasts for one week at which time the caster goes blind, then deaf, then no touch, and finally no taste for one week each. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>241</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Wild. The caster manages to refocus his screwed up spell but unluckily it gives him a seizure that lasts for 10 rounds. After recuperating the caster realizes he has no PP. This effect will last for the next month along with rapidly growing hair. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>260</Maximum>
+            </RollValues>
+            <Description>Magic is not the caster's forte. His spell ricochets out of control then internalizes within him knocking him unconscious. When the caster wakes up he will find that his spell casting ability is gone and his ability to lie. (for two months). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>261</Minimum>
+                <Maximum>270</Maximum>
+            </RollValues>
+            <Description>The caster must have angered the Gods. An implosion of essaence centering on the caster blasts him to the ground and strips him of his PP for the next two months. For the next week the caster grows a prehensile tail that will remain for four months. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>271</Minimum>
+                <Maximum>280</Maximum>
+            </RollValues>
+            <Description>The caster should probably find a different line of work. And due to the faulty spell he will have the opportunity. The resulting explosion of essaence leaves the caster without spell casting ability and heavily magnetized for the next two months. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>281</Minimum>
+                <Maximum>290</Maximum>
+            </RollValues>
+            <Description>Chaotic sparks of essaense highlight the caster in an eerie glow. He then falls to the ground like a broken puppet. When he awakes, in six rounds, his spell casting ability will have been short-circuited for the next 3 months. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>291</Minimum>
+                <Maximum>300</Maximum>
+            </RollValues>
+            <Description>A burst of essaence ripples through the caster's body knocking him to the ground. When he recovers the caster will have amnesia for the next three months. During this period he may not cast spells, use skills, or even a weapon. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Backfire</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>301</Minimum>
+                <Maximum>301</Maximum>
+            </RollValues>
+            <Description>Massive amounts of power coruscate through the caster's body. It centers on his head which explodes in a disgusting pyrotechnic display. Time to bury the poor fool. </Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

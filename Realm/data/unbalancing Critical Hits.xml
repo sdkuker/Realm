@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Nary a thing extra.  +0 Hits. Looka eyes! Aways looka eyes!</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Sorry pal maybe next time.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Glancing strike.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe must parry next round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>On line but weak.  Foe must parry next round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Break foe's concentration.  You gain initiative for next round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Back strike.  +5 Hits.  Foe must parry next round at -10.  Good glancing shot.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Chest strike knocks foe back.  Foe must parry next round at -20.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Glancing leg strike.  If foe has leg armor +5 Hits.  If not; +7 Htis and foe is stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Arm strike.  Foe is stunned for next round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Shoulder strike sends foe spinning.  +7 Hits.  Foe is stunned and unable to parry for 2 rounds while regaining bearings.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Chest strike unbalances foe.  +6 Hits.  Foe is unbalanced and fights at -50 for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blow to foe's lower leg.  Foe is stunned for 2 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blow to foe's shield arm.  If foe has a shield it is torn away and +8 Hits.  If not; +12 Hits and foe is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Side strike.  +12 Hits.  Foe is stunned and unable to parry next round.  Add +10 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blow to back.  Foe stumbles 5 feet sideways and is stunned for 3 rounds.  +13 Hits.  Add +20 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Head strike breaks foe's nose.  If foe has helm he is stunned 3 rounds.  If not; foe is knocked out for at least 2 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Nicely place strike sends foe sprawling on his face.  +10 Hits.  Foe is stunned and unable to parry for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Brutal hip strike knocks foe down tears tendon and shatters joint.  Foe stunned and unable to parry for 9 hours.  Leg useless foe operates at -90. He's definately fallen and can't get up!</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Fairly weak.  +0 Hits.  Zip.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Lame side strike.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Glancing side blow.  +4 Hits and foe must parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and is at -20 next round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Leg strike unsteadies foe.  +5 Hits.  You gain initiative next round.  Foe is at -5 for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Back hit forces foe to parry next round at -20.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blow stuns foe for next round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Thigh strike bruises foe.  +6 Hits.  Foe is forced to parry at -30 next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Forearm strike disarms foe.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Elbow strike numbs foe's forearm; +8 Hits.  Foe drops his weapon and is stunned and unable to parry 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blow to foe's chest.  +7 Hits.  Confused foe is stunned and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blow bruises foe's calf.  Foe is stunned next round.  +9 Hits.  Foe is at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strike to foe's shield arm.  Foe is stunned for 2 rounds and is knocked backwards 5 feet.  +10 Hits.  Bruise -- foe at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side.  Foe is knocked sideways 3 feet and is stunned for 3 rounds.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike to foe's back knocks foe sideways 10 feet.  +12 Hits.  Foe is stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Blow to side of foe's head crushes ear area.  Foe is stunned for 6 rounds.  +9 Hits.  Foe is at -50 for 3 weeks ... impaired balance. Expect letter from his attorneys soon.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Side strike causes foe to ungracefully stumble to an embarassing prone position.  Foe is stunned and unable to parry 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Ispired back strike sends foe flying 10 feet and onto his face.  Severe nerve damage.  Foe is paralyzed from waist down.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Nope.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Weak blow.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Side strike.  Foe must parry next round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Foe is stunned next round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blow to leg.  Foe is at -40 next round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Lower back strike.  Foe reels and is stunned and unable to parry next round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast staggers foe.  +6 Hits and foe is stunned and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Skipping calf strike.  If foe has leg armor +7 Hits.  If not; +9 Hits &amp; foe is stunned 2 rounds. Moves at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Shoulder strike disarms foe and leaves foe stunned for next 2 rounds.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Knee strike knocks foe dwon.  +9 Hits.  Foe is at -80 due to broken knee and is stunned and unable to parry 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Strike to chest.  Foe is at -20 due to broken ribs.  +8 Hits.  Foe is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Bruise foe's leg.  +10 Hits.  Foe is stunned and unable to parry next round.  Foe operates at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strike to foe's weapon arm.  Foe is knocked back 5 feet and is stunned for 3 rounds.  +11 Hits.  Mild fracture.  Foe is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Shot to side knocks foe 5 feet sideways.  Foe drops anything carried in his shield hand (and any shield) and is stunned for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Precise back strike knocks foe down.  Foe is disarmed and sutnned for 6 rounds.  +14 Hits.  Add +20 to your next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Side strike spins foe 10 feet sideways.  Foe must roll on appropriate fumble table next 3 rounds.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Smooth and snazzy strike sends foe to his knees.  If foe was using 1-hand weapon it is thrown backwards 10 feet; foe is stunned 24 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Upper chest strike knocks foe 10 feet sideways.  Foe falls down and breaks both arms.  Foe is sent into a coma for 2 months.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Back strike.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side.  Foe is at -10 next round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Blow is weak but stuns foe for next round.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Calf strike.  Foe's hurt muscle impairs maneuvers by -25.  You gain the initiative next round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blow to back spins foe.  +8 Hits and foe is stunned and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Chest strike takes wind out of foe.  +10 Hits.  Foe is stunned and unable to parry next round. Foe frantically signals a 'T' with his hands; the universal sign for a short timeout.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Thigh strike.  +12 Hits.  Foe is stunned for 2 rounds.  You have initiative next 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Arm strike disarms foe.  Foe is stunned for 2 rounds.  Add 20 to your next action.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Hard hit strike.  If foe has helm; he is knocked back 10 feet and stunned for 6 rounds.  If not; foe is knocked out for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Shoulder strike spins foe.  +10 Hits.  Foe is at -25 due to a broken collar bone and is stunned and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blow breaks foe's leg.  Foe moves at -75.  +12 Hits.  Foe is stunned and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strong blow to foe's weapon arm.  Foe is knocked back 10 feet.  +10 Hits.  Foe is at -25 and drops weapon.  Foe is stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Strike to foe's shield side knocks foe 5 feet sideways.  Foe breaks ankle and falls down.  Foe is at -50.  +11 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Brutal back strike knocks foe down.  +12 Hits.  Foe is disarmed and stunned and unable to parry for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Strike to foe's shield arm.  If foe has shield; he loses it and takes +10 Hits.  If not; foe's arm is useless and he is stunned for 9 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Strike to foe;'s head sends him 10 feet backwards.  If foe has helm; +9 Hits the hem is destroyed  and foe stunned 6 rounds.  If not; foe is sent into coma for 4 weeks. Now does this really make up for you being taunted in gym class?</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Savage blow to foe's head knocks foe down.  Foe falls into coma and dies in 12 rounds due to severed vein.  Add +20 to next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Blow to back.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Side blow.  Foe is at -20 next round.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Blow cracks foe's rib.  Foe is stunned and at -10 next round.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Hard glancing blow to leg.  If foe has leg armor; +10 Hits.  If not; +12 Hits and foe is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strong back blow staggers foe.  +12 Hits.  Foe is stunned and sadly unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe is knocked down.  +12 Hits.  Foe is stunned for 2 rounds and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Glancing strike to leg.  Foe is stunned for 3 rounds.  +14 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow to shoulder spins foe.  +13 Hits.  Foe is stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe is knocked down and is unconscious.  +30 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Shoulder blast knocks foe down.  Foe is stunned and unable to parry for 2 rounds and is at -10 due to minor fracture.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Hard blow to foe's thigh knocks foe down.  +15 Hits.  Foe is stunned and unable to parry for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strike to foe's shield arm.  Foe stumbles back 3 feet and falls dwon.  +15 Hits.  Foe is stunned and unable to parry for 4 rounds and is disarmed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Awesome side shot sends foe tripping sideways. Foe breaks leg and rolls 5 feet.  Foe is at -50; is stunned and unable to parry 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Cruel head strike ... foe sees stars.  +20 Hits.  Foe is knocked 10 feet backwards and is stunned and unable to parry 12 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Blow to foe's shield shoulder.  If foe has shield; he is stunned 6 rounds.  If not; he is knocked down &amp; has a useless arm (Mr.Dole) &amp; passes out.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Pinpoint strike breaks foe's neck.  Foe falls back 5 feet- spins- and stumbles to the ground.  Foe dies of shock and suffocation in 3 rounds. You'll sleep well tonight as you replay the event again and again.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Unbalancing</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Frightening strike to foe's temple knocks foe back 20 feet.  Foe dies instantly.  Add +20 to your next 3 rolls.  Be kind now. Remeber; under differnt circumstances you'd probrably be friends......</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

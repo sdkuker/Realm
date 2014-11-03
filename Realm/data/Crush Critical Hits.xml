@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>ZIP.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Glancing blow.  Foe takes +3 Hits.  You have the initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+2 Hits.  Foe must parry next round of action.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe must parry next round.  +3 Hits.  Add +5 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Bruise foe's calf.  +6 Hits.  You gain the initiative.  Foe fights -5 for next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blow to foe's back.  +4 Hits.  Foe must parry. next round at -25.  Hard glancing strike.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blow to foe's chest.  +5 Hits.  Foe must parry next round at -25.  Foe has a bruised rib.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strike foe's thigh.  +5 Hits.  Foe is forced to parry next round at -25.  Glancing blow.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow to foe's forearm.  +5 Hits.  Foe is stunned during next round.  Add +20 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Shatter shoulder in foe's non-weapon arm.  Arm is quite useless.  Foe is stunned and unable to parry for next 2 rounds.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Strike upper chest area.  +8 Hits.  Foe is stunned for 3 rounds and unable to parry during next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blow to foe's lower leg.  Bad bruise.  +5 Hits.  Foe is stunned for 2 rounds and unable to parry next round.  Foe at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description> Blow to foe's non-weapon arm.  If foe has arm armor it is broken; otherwise the arm is badly broken and useless.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side.  +10 Hits.  Foe is stunned and unable to parry for 2 rounds.  Foe is at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike foe in back.  +12 Hits.  Muscle and cartilage.  Foe is stunned and unable to parry for 3 rounds..  Foe is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Break foe's nose.  Foe is stunned and unable to parry for 3 rounds.  +15 Hits.  Foe fights at -30 for 2 days.  Close.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Blow to foe's head.  If foe has no helmet he is dead; otherwise he is knocked down takes +20 Hits and is stunned 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blow to foe's jaw drive bone through brain.  Foe dies instantly.  +50 Hits.  Add 20% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Weak grip no extra damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Glancing blow.  +3 Hits.  You have the initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side.  +4 Hits.  Foe must parry next round at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe must parry next round at -20.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Bruise foe's calf.  +6 Hits.  You gain the initiative.  Foe fights -20 for next 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blow to foe's back.  +6 Hits.  Foe must parry next round at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blow to foe's chest.  +6 Hits.  Foe must parry for next 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strike foe's thigh.  +6 Hits.  Foe has a bruise and is forced to parry 1 round.  Foe is at -5%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow to foe's forearm.  Foe is at -10.  +9 hits.  Foe is stunned during next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Shatter elbow in foe's weapon arm.  Arm is useless.  Foe drops weapon and is stunned and unable to parry for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Strike upper chest area.  Foe is stunned and unable to parry for 2 rounds.  +10 Hits.  Foe is at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blow bruises foe's calf.  Foe is at -35.   +10 Hits.  Foe is stunned for 2 rounds and unable to parry next round.  </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blow to foe's non-weapon arm shatter's wrist.  Arm is useless.  Foe is stunned for next round. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side.  +12 Hits.  Foe has broken ribs.  Foe is stunned and unable to parry for 2 rounds.  Foe is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike to back knocks foe down and smashes tendons.  Foe is stunned and unable to parry for 4 rounds.  Foe is at -30.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Upper head hit.  If foe has no helmet he is in a coma for 3 weeks.  If foe has a helm +20 Hits and foe is stunned 12 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Blast foe's chest.  Send ribcage through heart.  Foe drops and dies.  Add 20 to your next swing.  Viscious.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blow to back of neck paralyzes foe from the shoulders down.  +25 Hits.  Foe is quite stunned.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side.  +7 Hits.  You receive initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side.  +6 Hits.  Foe must parry next round at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>You break foe's rib.  +5 Hits.  Foe is stunned during next round.  Hard blow to foe's side.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Bruise foe's calf.  +9 Hits.  You gain the initiative.  Foe fights -25 for next 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Hard blow to back.  +5 Hits.  Foe is stunned and unable to parry next round.  You have the initiative for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Hard blow to chest.  +5 Hits.  Foe fights -10.  Foe is stunned during next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strike foe's thigh.  +6 Hits.  Foe is at -5.  Add +10 to your next swing.  Foe must parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Disarm foe with a blow to forearm.  +8 Hits.  Foe is stunned during next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Shatter foe's knee.  +9 Hits.  Foe is knocked down and is stunned and unable to parry for 3 rounds.  Foe at -90.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Strike upper chest area.  Foe is stunned for 3 rounds and unable to parry during next 2 rounds.  +10 Hits.  Foe -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description> Blow bruises foe's knee.  Foe is at -40.  +10 Hits.  Foe is stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blow to foe's weapon arm.  Bad bruise.  +9 Hits.  Foe is stunned and unable to parry for next round.   Foe is at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Strike to foe's side breaks 3 ribs.  Foe is at -40.  +12 Hits.  Foe is stunned and unable to parry 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blow to back smashes muscle and breaks bone.  +20 Hits.  Foe is at  -50.  Foe is knocked down and stunned for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Blow shatters thigh.  +9 Hits and a compound fracture.  Bone severs an artery.  Foe dies after 12 rounds of inactivity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Blow to foe's abdomen destroys a variety of organs.  The poor fool expires after 6 rounds of inactivity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike to foehead.  +30 Hits.  You squash foe's eyes and destroy them.  Foe is stunned and is unable to parry 24 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+5 Hits.  Foe must parry next round at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Minor fracture of ribs.  +5 Hits.  Foe fights at -5.  You have initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Strike to foe's side.  +4 Hits.  Foe is stunned and unable to parry during next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Major calf bruise.  +10 Hits.  Foe fights -10.  You have the initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Hard blow to back.  +10 Hits.  Foe is stunned and unable to parry during next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blow to chest.  +10 Hits.  Foe has a pair of broken ribs and must fight at at -15.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blow to thigh.  Foe is stunned and unable to parry next round. +10 hits. Foe at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow to forearm.  Foe is stunned and unable to parry next round.  +10 Hits.  Foe at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blow to side of foe's head.  If foe has no helmet you crush his skull.  If foe has helm you knock him out for 4 hours.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blow to foe's shoulder area.  Minor fracture.  Foe is at -20.  Foe is stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blow breaks bone in leg.  Foe is at -50.   +12 Hits.  Foe is stunned and unable to parry for 2 rounds.  Major cartilage damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blow breaks foe's weapon arm.  Foe is stunned and unable to parry for 1 round.  Arm is useless.  +8 Hits.  Tendon damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Strike to foe's side.  +15 Hits.  Foe is knocked down.  Add +10 to your next swing.  Foe is stunned and unable to parry 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blow to foe's neck area breaks backbone and destroys spine.  +25 Hits.  Foe falls and dies in 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Blow shatter's non-weapon arm.  Bone severs vein and an artery.  Foe dies of shock and blood loss after 9 inactive rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side crushes chest cavity.  Foe drops and dies in 3 rounds.  Add +25 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blast to foe's chest area.  Destroy foe's heart.  Foe dies immediately.  +25 Hits.  Fine work.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Glancing blow.  +6 Hits.  Foe is slightly unbalanced.  You have initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+6 Hits.  Foe is stunned for 1 round.  Add +5 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Strong blow.  Foe is stunned and unable to parry next round.  Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Strike cracks foe's ribs.  +6 Hits.  Foe is at -10.  You have intiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Strike to upper leg.  Minor fracture.  +12 Hits.  Foe fights -10.  You have the initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strike to foe's lower back.  +15 Hits.  Foe is stunned and unable to parry during next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blow to chest.  +15 Hits.  Foe is stunned for 2 rounds.  Foe fights -15.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blow to thigh.  Foe is stunned and unable to parry next round.  +10 Hits.  Foe is at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow to forearm.  Foe drops weapon.  Foe is at -15.  +10 Hits.  Foe is stunned for next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blow to back of neck crushes backbone and severs spine.  +15 Hits.  Foe dies instantly.  Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blow to foe's non-weapon shoulder.  If foe has arm armor it is broken; otherwise the shoulder is shattered arm useless.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blow breaks foe's hip.  Foe is at -75 and is knocked down.  +15 Hits.  Foe is stunned 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blow to foe's elbow.  +9 Hits.  Joint is shattered.  Arm is useless.  Foe is stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Catch foe in armpit.  +30 Hits.  Crush foe's ribs and destroy side.  Foe drops and dies of nerve and organ damage in 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Neck strike shatters bone and severs an artery.  Foe cannot breathe and is inactive for 12 rounds.  The poor fool then expires.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Blast to foe's back.  +25 Hits.  Bone is driven into vital organs and foe is down for 6 rounds...then dies.  Sad.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Crush foe's skull.  +30 Hits.  Opponent dies immediately.  Add +20 to your next swing.  You have half a round left to act.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Crush</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Crush foe's hip.  +35 Hits.  Opponent is stunned for 2 rounds active the following 4 rounds at -30 then dies of nerve failure.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Stomach closely grazed.  +4 hits.  2 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+5 hits.  1 hit/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Leg shot.  +5 hits.  2 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Thigh gash.  +4 hits.  3 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Strike to foot.  +6 hits.  2 hits/round.  -5 all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Neck wound.  +6 hits.  3 hits/round.  -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strike grazes shoulder.  +6 hits.  3 hits/round.  -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Ear disintegrated.  +7 hits.  4 hits/round.  -15 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Lower leg consumed.  +10 hits.  5 hits/round.  -30 to all maneuvers.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Neat pinhole through wrist.  Enemy takes +12 hits.  5 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Strike to shoulder/neck area devours skin giving +30 hits.  10 hits/round.  -30 to all activity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Fingers of left hand vaporized.  Foe takes 14 hits.  6 hits/round.  -30 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Tendons in arm slashed in two.  Foe takes 15 hits.  7 hits/round.  Arm useless.  -35 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Left arm stripped of flesh to the elbow.  Foe takes 16 hits.  8 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Skin shucked from abdomen.  Foe takes 18 hits.  8 hits/round.  -45 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Skin purged from chest and several ribs.  Foe takes 20 hits.  10 hits/round.  -50 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Left foot vaporized.  Foe takes 22 hits. 11 hits/round.  Target at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>All flesh wiped from face.  22 hits.  11 hits/round.  Foe loses all sensory functions.  -55 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Weapon arm erased to shoulder.  Foe takes 24 hits.  12 hits/round.  -90 to all actions due to shock.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+6 hits.  3 hits/round.  Target is at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+7 hits.  3 hits/round.  Target is at -15.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+8 hits.  3 hits/round.  Foe maneuvers at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Wound to arm causes +8 hits.  4 hits/round.   -15 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Left ankle hit.  +9 hits.  3 hits/round.   -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Slice of target's neck disappears.  +10 hits.  5 hits/round.   -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strike to thigh causes +11 hits.  6 hits/round.  Foe is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe takes shot in left temple.  +2 hits but 11 hits/round.   -30 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Shot clips across hand.  +14 hits.  7 hits/round.   -30 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Bicep sliced in two.  +14 hits.  7 hits/round.   -35 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Freak shot disintegrates both of targets hands.  Foe drops screaming.  +40 hits.  17 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Shot to right hand denudes fingers.  Target takes +15 hits.  7 hits/round.   -35 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Hole materializes within upper arm through muscle and bone.  Target takes +17 hits.  8 hits/round.   -40 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Furrows cut deep into right arm.  Target takes +18 hits.  9 hits/round.   -45 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Abdomen partially obliterated.  Liver enjoys a tan.  Target takes +20 hits.  10 hits/round.  -50 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Direct strike blots out chest.  Target takes +22 hits.  11 hits/round.  Foe down for 7 rounds then at -55 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Left leg disintegrated to knee.  Target takes +24 hits.  12 hits/round.  -60 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Random sections of face and head disintegrated.  Foe drops and dies in 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's legs consumed dropping torso on stumps.  Victim bleeds violently for 2 rounds before dying.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Shot to midriff.  Target takes 9 hits.  3 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Crippling finger wound.  +9 hits.  4 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Gouge in hand delivers +10 hits.  3 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Leg strike.  +11 hits.  4 hits/round.  -25 to all maneuvers.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Strike vaporizes toes and pavement.  +12 hits.  5 hits/round.  -35 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Penetrating wound to shoulder.  +13 hits.  5 hits/round.  -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Foe takes shot in neck.  +15 hits.  7 hits/round.  -25 to all actions - foe loses voice for two days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Slashing wound to neck lowers Appearance by 20.  +14 hits.  8 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe takes shot in leg.  +16 hits.  8 hits/round.  Foe at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Deep arm wound.  Foe drops whatever he is holding.  +17 hits.  9 hits/round.  -55 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Shot blankets chest leaving brilliantly bleached empty rib cage.  Death is instantaneous.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Target's left hand ruined.  He takes 20 hits - 10 hits/round.  -35 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Target temporarily blinded and cranial hair removed.  Who loves ya baby?  Target takes +22 hits.  11 hits/round.  -45 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Right arm powdered.  Target takes +22 hits.  11 hits/round.  Foe at -50 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Deep abdominal wound causes public display of anatomy.  Target takes +24 hits.  12 hits/round.  -60 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike to chest splatters room with filthy gore.  Target takes +26 hits.  13 hits/round.  Foe operates at -60 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Left leg completely disintegrated.  Target takes +30 hits.  15 hits/round.  -75 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Left side of foe's face obliterated.  Foe dies screaming in 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Upper half of body mysteriously vanishes leaving hips and legs standing upright.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Side wound causes +9 hits.  4 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Lucky shot takes off little finger.  Target takes +7 hits - 5 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Viscious wrist strike yields 10 hits - 4 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Abdominal strike inflicts +11 hits - 4 hits/round.  Add +10 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Upper thigh strike exposes nerves.  +13 hits - 6 hits/round.   -15 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Shot next to groin scares foe badly.  He takes 15 hits - 6 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Shoulder wound.  Nerves powdered paralyzing arm.  +16 hits - 7 hits/round.  -25 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Major wound to throat.  +19 hits - 8 hits/round.  Foe is at -30 to all actions and is mute.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Shot in hip exposes bone.  +22 hits - 11 hits/round.  -40 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Hand hangs by threads.  Target takes +24 hits 12 hits/round.  -60 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Target completely disintegrated.  Foe's armour strangely remains intact standing empty.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Damage to right side causes +26 hits 11 hits/round.  Target down 3 rounds from shock.  -60 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Shot wallops shoulder destroying joint.   +28 hits - 12 hits/round.  -65 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Target amazingly takes no damage.  However everything worn or carried is suddenly missing....(everything target has on him takes a resistence roll versus disintegration).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Strike careens through abdomen leaving daylight shining in.   +26 hits 13 hits/round.  Death in 3 rounds.  Foe at -75 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Left half of target's chest blown to mist.  Foe dies of shock in two rounds.  +75 hits -80 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Right leg and hip completely disappear.  Many organs dangle.  Target hobbles in a tight circle before dying in 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Front half of target's head devoured.  Brains become optional.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe writhes in mortal agony as he dissolves in a multitude of slow soft puffs of flesh.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Shot to hand gives +8 hits.  2 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Left thumb takes it's leave.  Target takes +10 hits - 3 hits/round.  </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Two fingers mysteriously vanish.  Target takes +12 hits - 4 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Grazing chest wound.  +13 hits -  5 hits/round.  Add +20 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Kneecap strike inflicts  +15 hits - 6 hits/round.   -40 to all maneuvers.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Groin vanishes!  17 hits - 6 hits/round.  Target -40 to all actions and permanently sterile.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Arm plummets to ground.  +19 hits - 9 hits/round.  -30 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Ace shot to throat dissolves esophagus +21 hits - 11 hits/round.  Target -45 to all actions and cannot speak.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Tongue and one eye and nose eradicated.  +22 hits - 12 hits/round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Arm violated to middle of forearm.  Victim takes +26 hits - 13 hits/round.  -60 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe screams shrilly and fades away.  Only smoke remains.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Target amazed - He's standing without feet (temporarily).   +28 hits - 14 hits/round.  -70 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Shoulder and chest cleansed of flesh.   +30 hits - 5 hits/round for 4 rounds before the reaper calls.  -75 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Disintigration</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Right shoulder silently vanishes.  Foe does in a shower of blood in 2 rounds.  +32 hits and 16 hits/round.  Foe at -90.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

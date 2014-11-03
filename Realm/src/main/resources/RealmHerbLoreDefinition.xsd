@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://com.sdk.realm/RealmHerbLoreDefinitionV0.0.0.1" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://com.sdk.realm/RealmHerbLoreDefinitionV0.0.0.1">
+    <annotation>
+    	<documentation>
+    		This schema defines the herb used in the
+    		Herb Lore section of the application.
+    	</documentation>
+    </annotation>
+
+    <element name="HerbLibrary" type="tns:HerbLibraryType">
+    	<annotation>
+    		<documentation>
+    			This is the root element of the document. It cotains the
+    			list of critical hits as well as any other data about
+    			those hits.
+    		</documentation>
+    	</annotation></element>
+
+    <complexType name="HerbLibraryType">
+    	<sequence>
+    		<element name="HerbCollection" type="tns:HerbCollectionType" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="HerbCollectionType">
+    	<sequence>
+    		<element name="Herb" type="tns:HerbType" minOccurs="0" maxOccurs="unbounded"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="HerbType">
+        <annotation>
+        	<documentation>
+        		This is a definition of the severity of the hit. The
+        		severity increases as the letters progress in the
+        		alphabet.
+        	</documentation>
+        </annotation>
+        <sequence>
+        	<element name="Class" minOccurs="1" maxOccurs="1"
+        		type="token">
+        		<annotation>
+        			<documentation>
+        				This is a general description of a group of
+        				herbs. It describes some rough characteristic
+        				that they all share. This is the highest level
+        				of grouping for a collection of herbs.
+        			</documentation>
+        		</annotation>
+
+        	</element>
+        	<element name="Name" minOccurs="1" maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				This is the name of the herb.s
+        			</documentation>
+        		</annotation>
+        		<simpleType>
+        			<restriction base="NMTOKEN">
+        				<enumeration value="A"></enumeration>
+        				<enumeration value="B"></enumeration>
+        				<enumeration value="C"></enumeration>
+        				<enumeration value="D"></enumeration>
+        				<enumeration value="E"></enumeration>
+        			</restriction>
+        		</simpleType>
+        	</element>
+        	<element name="Effect" type="string" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				This is the effect the herb has on a living
+        				thang.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="AttackLevel" type="int" minOccurs="0"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				Describes the level of attack of the herb.s
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="Form" type="string" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				This is the form or shape of the herb. Flower or
+        				leaf are examples.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="Preperation" type="string" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				Describes what is needed to prepare or use the
+        				herb. Examples are brew and drink.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="CostAndRarity" type="string" minOccurs="1" maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				Describes the cost in value and units and
+        				optionally the rarity of the herb.
+        			</documentation>
+        		</annotation></element>
+        </sequence>
+    </complexType>
+
+</schema>

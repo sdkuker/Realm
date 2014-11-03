@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Hot air. +0 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 rd. Hard, hot breeze. +2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 rd. The nearby fire gives foe 3 more hits. Good blast, weak fire.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Blast unbalances foe. Foe loses initiative for 2 rds. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Foe must parry for 1 rd. +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Light burns. Foe must parry for 1 rd. +7 hits. Foe takes 1 hit per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast unbalances foe. +8 hits. Foe must parry for 2 rds. Foe takes 1 hit per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 1 rd. +9 hits. Foe loses initiative for 2 rds. Foe takes 2 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 2 rds. If foe has leg armor, he takes +7 hits and 1 hit per rd. If not, foe takes +10 hits and 3 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blast causes foe to drop whatever he was holding. +9 hits. Foe is stunned and unable to parry for 2 rds. Foe fights at -15%. Chest burns.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast. Foe is stunned for 2 rds. Foe takes 2 hits per rd and fights at -5%. +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Hot smoke blinds foe. Foe is stunned and unable to parry for 1 rd. +12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 2 rds. Foe cannot parry for 1 rd. +10 hits. Side wound. Foe takes 2 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Back blast. Foe is stunned for 2 rds. Burns cause foe to take 2 hits per rd and fight at -20%. +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blast knocks foe down. Fire destroys any of foe's organic foot and calf covering. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Fire burns foe in hip area. Foe is stunned and unable to parry for 2 rds. Foe fights at -30%. +12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Blast to foe's neck area. If foe has neck armor, he is stunned and able to parry for 3 rds. If not, foe is knocked down and takes 8 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blast to foe's head +15 hits. If foe has helm, he is knocked out and takes 7 hits per rd. If not, foe is in a coma for 1 month and loses 50% of charisma.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Hot draft +0 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 rd. Strong heat, little effect. +2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Blast unbalances foe. Foe loses initiative for 2 rds. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 2 rds. Bothersome smoke. +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Light burns. Foe must parry for 1 rd. +7 hits. Foe takes 1 hit per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Minor burns. Foe must parry for 2 rds. +8 hits. Foe takes 1 hit per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 1 rd. +8 hits. Foe takes 2 hits per rd. Wide shot, strong fire.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 2 rds. If foe is in metal armor and has leg armor. +8 hits. If not, foe takes +9 hits and 3 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe is stunned and unable to parry for 1 round. +9 hits. Foe takes 2 hits per rd and fights at -5%. Leg burns.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe is stunned 2 rds. If foe wears organic armor (leather, etc.), it is useless. +10 hits. Foe takes 4 hits per rd. Chest hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast. Foe is stunned for 2 rds and unable to parry for 12 rd. Foe takes 2 hits per rd and fights at -10%. +7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Chest blast. Foe is stunned for 2 rds and unable to parry for 1 rd. Foe fights at -15%. Add +10% to your next swing. +9 hits</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Arm strike. Burns stun foe for 2 rds. Foe takes 2 hits per rd. All cloth on foe's weapon arm is burned off and foe drops all he is holding.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Back blast. Foe is knocked down. All organic material on foe's back is destroyed. Foe is stunned for 1 rd and takes 2 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Leg strike. Any organic leg covering catches fire and can deliver 6 hits per rd. It takes 1 rd to extinguish flames. Foe is stunned for 3 rds. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Head strike. Foe is blinded and fights at -95% for 6 rds. If foe has organic helm. it is destroyed. If foe has no helm, he takes +8 hts per rd, loses 50% of head hair.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Neck strike destroys foe's throat. +20 hits. Foe takes +12 hits per rd and he is inactive for 9 rds. Foe then dies. Add 10% to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blast to foe's neck fuses vertebrae and unites skin with clothing. Foe is paralyzed permanently. +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 rd while he recovers balance. +3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 2 rds. +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Light burns. Foe must parry for 1 rd. +7 hits. foe takes 1 hit per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Minor burns. Foe must parry for 2 rds. +8 hits. Foe takes 1 hit per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Fire stuns foe for 2 rds +9 hits. Foe takes 2 hits per rd. Minor burns.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 2 rds. +9 hits. If foe has leg armor, he takes 1 hit per rd. If not, foe takes 2 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 2 rds +10 hits. Foe takes 2 hits per rd. All outer cloth covering on foe's back is destroyed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe is stunned and unable to parry for 1 rd +10 hits. Foe takes 3 hits per rd and fights at -10%. Upper leg burns.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Chest blast knocks foe down. +12 hits. If foe has arm armor, he takes 2 hits per rd. If not, his weapon arm is useless and he takes 4 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast. Foe is stnned for 2 rds and unable to parry for 1 rd. Foe takes 2 hits per rd and fights at -15%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Chest blast. Foe is stunned for 3 rds. If foe has organic chest armor, it is destroyed. If no chest armor, foe takes 6 hits per fe and fights at -25%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blast to foe's shield arm. If foe has a shield, he drops it. If it is an organic shield, it is destroyed. If foe has no shield he is stunned 6 rds, loses use of shield arm and fights at -50%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blast to foe's leg. If foe has leg armor he takes +2 hits per rd and fights at -20%. If not, massive tissue damage; foe's leg is useless and foe fights at -80%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Lower leg burns. Foe loses foot, but wound is cauterized. Foe is stunned and unable to parry for 6 rds, takes +3 hits per rd, fights at -85% plus takes +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Upper leg burns. Foe loses use of leg due to tissue loss, is stunned and unable to parry for 6 rds, takes +4 hits per rd, and fights at -90%. +18 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Chest strike. If foe has chest armor, it is destroyed and foe dies of burns in 9 rds. If not, foe's chest cavity is a hollow cinder and foe dies instantly.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's head is but a charred stump. Sadly foe cannot handle the loss and he dies instantly. Add 10% to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 rd. Not quite singeing, +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and must parry for 1 rd, +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Minor burns. Foe must parry for 2 rds. +8 hits. Foe takes 1 hit per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 1 rd, +9 hits. Foe takes 2 hits per round due to pain and suffering.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Fire stuns foe for 1 round, +10 hits. Foe takes 3 hits per rd. If foe is using a bow, it is destroyed (if metal).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 2 rds. If foe has a helm he takes 8 hits and +2 hits per rd. If not, foe takes +11 hits and 4 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe catches on fire +12 hits. Foe is stunned and unable to parry or act for 1 rd. It will take at least 2 rds to extinguish the fire. Foe takes +9 hits each rd, if afire.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 2 rds and unable to parry for 1 rd. If foe has leg armor, foe takes +10 hits and 4 hits per rd. If not, +13 hits and 6 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Neck blast. If foe has neck armor, he takes 3 hits per rd and fights at -10%. If not, foe is unconscious and takes 10 hits/rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast. Foe is knocked down +15 hits. Foe is out of action for 1 rd. Foe takes 3 hits per rd. All organic material on foe's back is destroyed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blast to foe's shield arm. If foe has a shield, he drops it. If it is an organic shield it is destroyed. If foe has no shield he is stunned 6 rds, loses use of arm and fights at -50%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foes loses his hand on his weapon arm. Severe burns. Foe is stunned and unable to parry for 3 rds and takes 5 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blast burns both of foe's arms and all of upper chest. Foe loses use of both arms and is stunned for 9 rds. +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Abdomen strike. If foe has abdomenal armor, it is destroyed and foe is knoecked out and takes 2 hits per rd. If not, foe dies in 12 rds due to organ damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Head strike. If foe has a full helm, foe's eyes are destroyed and foe is in a coma for 2 days. If not, foe dies in 6 rds due to massive shock and brain damage. +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe's side is engulfed in flames. Foe dies in 6 rds due to multiple compound fracture, tissue and organ loss, and boiling burns. +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe vaporizes foe's mid-section, destroys foe's clothing, armor, and all items he carries. Foe is cut in half and dies. Add +15 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 rd. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe feels heat. Foe loses 1 rd initiative. If foe has no armor, he loses 2 rds initiative. Either way, +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Hot unbalancing blast. Foe must parry for 1 rd, +7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Minor burns. Foe must parry for 2 rds +9 hits. Foe takes 2 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 1 rd. +10 hits. Foe takes 3 hits per rd. If foe is wearing a cloak, it is destroyed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Fire stuns foe for 2 rds +12 hits. Foe takes 3 hits per rd. If foe is wearing a cloak, it is destroyed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe reels back 3 feet. +13 hits. Foe is stunned and unable to parry for 1 rd. Foe takes 3 hits per rd. Strong flame.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Fire stuns for 2 rds, +15 hits. Foe cannot parry for 1 rd. Foe fights at -10%. Burns deliver 3 hits per rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Fire blast burns foe's legs. Foe is stunned and unable to parry for 2 rds. Foe takes 4 hits per rd and fights at -10%. +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Head strike. If foe has a helm, he is knocked out and takes +5 hits per rd. If not, foe is killed instantly, his head fully vaporized. Fine aim.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blast to foe's shield arm. If foe has arm armor, he takes 4 hits per rd and fights at -15%. If not, foe takes 5 hits per rd and loses use of arm.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Chest blast. If foe has chest armor, it is destroyed, foe takes +12 hits and is stunned 3 rds. If not, foe is knocked down, takes 6 hits per rd and fights at -60%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blast to foe's shield arm. If foe has a shield, it is destroyed and foe loses his hand and is stunned 6 rds. If not, foe loses his arm and is knocked out.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe inhales flame and gets parched throat and lungs. Foe dies in 12 painful rds. +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe's lower body is engulfed in flame. Foe dies in 9 rds as a result of organ and tissue loss. +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Chest strike. All organic material on foe's body is destroyed. Foe dies of shock and nerve damage in 6 rds. +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe is instantly dehydrated into dust. Add 10% to your next roll. Nice.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Heat</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>All that remains of foe are charred bits of teeth and bone. Add 20% to your next roll.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

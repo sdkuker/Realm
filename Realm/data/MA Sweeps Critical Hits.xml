@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Acrobatic but no extra damage.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>You have initiative next round.  +1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe must parry next round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Sweep forces foe to parry next round at -10.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Sweep staggers foe.  Foe must parry next round at -20.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Sweep forces foe to parry next round at -25.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Sweep drivs foe back 3 feet.  Foe must parry next round at -30.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Throw stuns foe for 1 round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Throw downs foe but there is a good recovery.  Foe is stunned for 1 round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity></Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Throw dislocates foe's non-weapon shoulder.  Foe is stunned and unable to parry 3 rounds and is -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Hard but unsmooth throw stuns foe for 2 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Fall bruises foe's thigh.  Foe is stunned and unable to parry 1 round.  +2 Hits.  Foe is at -5.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe lands on non-weapon arm.  Foe's arm is sprained he is at -10 and he is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Sweep unbalances foe.  +3 Hits.  Foe is stunned for 2 rounds.  Add +25 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe lands on his back.  Muscle and carilage damage.  Foe quickly recovers but is stunned and unable to parry for 2 rounds.  Foe is at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Throw downs foe and breaks his nose.  Foe is at -25.  +7 Hits.  Foe is stunned and unable to parry 2 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Throw sends foe down on his head.  If foe has helmet he is stunned 9 rounds.  If not foe is knocked out.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Snazzy throw.  Foe is stunned and unable to parry 6 round.  Foe is prone and you can finish him (if you so desire) with a knee to the solar plexus.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Shoddy follow-through.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe takes 3 extra hits and you have the initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Dazzle foe.  He must parry next round at -10.  </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Sweep unbalances foe.  +3 Hits.  Foe must parry next round at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Sweep bruises foe's leg.  Foe operates at -25 for 3 rounds.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Sweep stuns foe for 1 round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Throw knocks wind out of foe and he is stunned for 1 round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Throw stuns foe for 1 round and sprains a finger on his weapon hand.  Foe is at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Throw pulls muscle in foe's weapon arm.  Foe is stunned for 1 round.  +3 Hits.  Foe is at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Nifty throw you have foe pinned on his face and in an arm lock.  +9 Hits.  Foe is disarmed and immobilized.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Strong throw stuns foe for 2 rounds.  You have the initiative for 6 rounds.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Fall tears ligament in upper leg.  Foe is at -10.  +5 Hits.  Foe is stunned and unable to parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe breaks fall with his weapon hand and sprains 2 fingers.  Foe is at -25 and is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Sweep knocks foe 10 feet to side.  Foe stunned and unable to parry 2 rounds.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe lands on his back and is stunned and unable to parry for 2 rounds.  Torn tendon and broken bone foe is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Fall breaks ribs disarms foe and sends him rolling 10 feet.  Foe is at -30 and is stunned and unable to parry for 12 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Sweep stuns foe; kick disarms him; and another sweep knocks him flat on his back.  Foe is unconscous.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Fabulous throw sends foe flying.  Foe's neck is broken on impact and he dies after rolling 15 feet.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>You have the initiative next round.  Add +20 to your next attack.  Foe is confused.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe unbalanced and must parry next round at -20.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Sweep stuns foe for 1 round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Sweep bruises foe's leg.  Foe fights at -10.  You have the initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Sweep downs foe.  +4 Hits.  Foe is stunned for 2 rounds while trying to rally.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Throw stuns foe for 2 rounds.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Sweep knocks foe back 5 feet.  Foe is stunned and unable to parry for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Throw disarms foe.  +3 Hits and foe is stunned for 1 round.  If you want to run the time is now.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Sweep shatters foe's knee.  Foe is stunned and unable to parry 4 round operates -80.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Foe is knocked back 5 feet and has a bruised chest muscle.  Foe is stunned 2 rounds is -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Fall pulls muscle in foe's leg.  Foe stunned 2 rounds and unable to parry next round.  Foe operates at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe falls and dislocates non-weapon shoulder.  +6 Hits.  Foe is at -40 and must parry for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Sweep staggers foe.  +7 Hits.  Foe is stunned and unable to parry 2 rounds.  Add +30 to next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Throw drops foe on his back.  Vertebrae cracked and foe is at -50.  Foe is stunned and unable to parry 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Sweep dwons foe and you put him in a leg-breaking hold.  +9 Hits.  Foe is pinned and stunnned and unable to parry 15 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Throw cracks foe's skull.  If foe has helmet he is in a coma.  If not he dies of brain damage in 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Fall breaks foe's back.  +12 Hits.  Foe paralyzed from the neck down.  Add +20 next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe must parry next round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 1 round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Sweep sends foe to his knees.  Foe is stunned and unable to parry for 1 round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Sweep bruises foe's calf.  Foe operates at -20.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Sweep drops foe.  +5 Hits.  Foe is stunned and unable to parry for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Throw breaks 3 of foe's ribs.  Foe is stunned for 1 round and operates at -20.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Sweep nearly knocks foe down.  Foe is stunned and unable to parry for 1 round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Throw disarms foe and leaves him stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Smooth throw.  Foe lands on his head.  If foe has helmet he is knocked out.  If not he paralyzed from the waist down.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Throw drops foe on his non-weapon shoulder.  Arm and collar bone broken arm useless.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Foe falls and breaks leg.  Minor fracture but foe operates at -30.  Poor fool stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Throw puts foe on back and breaks shoulder blade.  Foe is at -20.  +9 Hits.  Foe stunned and unable to parry 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Break foe's wrist on weapon arm.  Arm is useless.  +10 Hits.  Fine hand throw.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Throw drops foe and you put him into a severely immobilizing arm lock.  Foe is stunned and unable to parry for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Throw bashes foe against nearest hard surface.  Foe is knocked out and you can use a killing kick if you so desire.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Throw sends foe down.  He is impaled by broken rib or his own weapon and dies in 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Sweep sends foe twisting backwards 5 feet.  Foe's spine is snapped and he is left a quadriplegic.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Unbalance foe.  You have initiative next round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Stun foe with your fine moves.  Add +10 to next attack.  Foe is stunned 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Sweep staggers foe. +2 hits. Foe is stunned and unable to parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Sweep downs foe.  Foe is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Sweep drops foe and bruises thigh.  Foe is stunned 1 round.  +5 Hits.  Foe is at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Foe slips to his knees.  +7 Hits.  Foe is stunned for 2 rounds and is unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Throw drops foe.  +8 Hits.  Foe is stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Surprising sweep sends foe reeling.  Foe is stunned for 3 rounds.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Fine throw.  Foe lands on his weapon arm is disarmed and is stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Perfect toss sends foe flying over your shoulder and 10 feet.  Foe dies on impact.  Add +10 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Foe lands on non-weapon arm. If foe has rigid arm armor +10 hits. If not foe's arm is shattered and useless +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Foe falls and breaks his hip.  Mild fracture foe is at -40.  He is stunned and unable to parry 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Throw sends foe down on his elbow.  Joint shatterd and arm is useless.  Foe is stunned 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Throw foe 10 feet.  Foe is dwon on his face disarmed atnd stunned and unable to parry 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Throw sends foe flying into nearest enemy within 10 feet.  All involved are stunned and unable to parry 3 rounds take +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Sly rolling throw sends foe into air.  Foe is left disarmed and unconscous.  You spring to your feet 10 feet away.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Fall snaps foe's neck killing him instantly.  Add +25 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Sweeps</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Using but half the round you use a rolling throw to send foe against nearest hard surface.  Foe dies you are up press on.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

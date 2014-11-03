@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Tiny bubbles... +0 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for next round.  Scary.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is spun about and loses initiative for next round.  +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Unbalancing blast causes foe to lose initiative for 2 rounds.  +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Burns force foe to parry 1 round.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Distracted foe must parry for 2 rounds.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Burns stun foe for 1 round.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Crackling blast stuns foe for 2 rounds.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Powerful blow.  Foe is stunned and unable to parry for 1 round.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Hammer blast shatters foe's shield arm; he is stunned and unable to parry for 3 rounds.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blow to back; foe is stunned and unable to parry for 1 round and fights at -5 due to burns.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blow to midsection; foe is stunned and unable to parry for 1 round and fights at -10.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Weak strike to abdomen.  Foe is stunned for 3 rounds and unable to parry next round.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Rippling backstrike breaks ribs and snaps cartilage.  Foe is stunned and unable to parry for 1 round and fights at -25.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Brutal blast knocks foe down.  Stunned for 2 rounds.  Foe fights at -50.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Crushing strike breaks hip.  Foe fights at -50 and is stunned for 3 rounds.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Strike contacts head and neck.  If foe has helm he is knocked out; if not he dies in 3 rounds.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Head strike.  If foe has helm he is knocked out; if not he dies in 3 rounds due to shock and fractures.  +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Fizzle out.  +0 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Spin foe.  Loses initiative for 1 round.  +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Unbalancing blast forces foe to parry for 1 round.  +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Minor burns.  Foe must parry for 1 round at -10.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Disconcerted foe must parry for 1 round and loses initiative for 2 rounds.  +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Staggering blast stuns foe for 1 round and inflicts 1 hit/round.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Unbalancing blast causes foe to take 2 hits per round.  Stunned for 1 round.  +12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Back blast spins foe; he takes 2 hits per round.  All small metal items on foe's back are melted.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow causes body to shake and shiver as the blast delivers 2 hits per round.  Stunned and unable to parry 1 round.  Fights at -5.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Strike shatters weapon shoulder.  Stunned for 3 rounds.  5 hits per round if metal armor is worn.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike.  Stunned and unable to parry for 1 round.  Fights at -5.  +14 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to side.  Stunned 2 rounds and unable to parry next round.  3 hits per round.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blow to feet topples foe.  Foe is down and out for 2 rounds and takes 3 hits per round.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Horizontal strike fractures ribs and burns skin.  Stunned for 2 rounds.  Fights at -25.  3 hits per round due to burns.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Calf strike burns muscle.  Stunned for 3 rounds.  Fights at -50.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Temple strike.  If foe has helm he is sent into a permanent coma; if not he dies.  +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Wedge-shaped strike severs windpipe.  Foe dies in 12 rounds.  +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blast withers body below neck.  Foe is paralyzed permanently from neck down.  +40 hits.  Add +10 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Unbalancing blast.  Foe must parry for 1 round.  +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Unbalancing blast forces foe to parry for 1 round.  +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Crackling blast causes foe to parry for 1 round at -15.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blast forces foe to parry for 1 round.  1 hit per round.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Sizzling blast stuns foe for 1 round.  +15 hits.  Add +5 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Hard blow stuns foe for 1 round.  +12 hits.  Add +5 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe is thrown back 5 feet and must parry for 2 rounds.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Leg strike; any metal greaves are destroyed; foe is stunned for 2 rounds.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Chest strike breaks both arms; foe is stunned and down for 3 rounds.  Fights at -90.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Snap breaks both arms; foe is stunned and down for 3 rounds.  Fights at -90.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Back blow.  Foe is stunned for 3 rounds and is unable to parry next round.  Foe fights at -10 due to nerve damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Stike knocks foe down.  Foe is out for 2 rounds and fights at -15 due to internal bleeding.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blistering blast sears skin.  Foe is stunned for 2 rounds fights at -25 and takes 3 hits per round.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blast breaks thigh.  Foe fights at -40 and is stunned for 3 rounds.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Strike twists and breaks hip.  Foe takes 5 hits per round and fights at -60.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe's feet are engulfed.  Foe is stunned and unable to parry for 9 rounds.  6 hits per round.  Fights at -75.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Sizzling strke blasts through both eyes and into brain killing foe.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Unbalancing blast.  Foe must parry for 1 round.  +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Irritating burns force foe to parry for 1 round.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Glancing blast.  Foe must parry for 1 round at -20.  1 hit per round.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Explosion stuns foe for 1 round.  2 hits per round.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Foe is spun about.  2 hits per round.  Stunned for 1 round.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe is forced back 5 feet.  Stunned for 2 rounds.  2 hits per round.  Add +5 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Hot strike.  Foe stunned and unable to parry for 1 rounds.  Fights at -10.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blast to shield arm.  If no shield. arms are useless due to nerve damage stunned and unable to parry for 2 rounds +15 hits; otherwise +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Impact ruptures eardrums and kills foe if he has no helm; else he is out for 3 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Focused blow takes foe down; out for 2 rounds.  +20 hits.  Add +5 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Quick strike breaks shield arm.  Stunned for 2 rounds.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blast breaks weapon arm.  Foe fights at -20.  Stunned 2 rounds.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe attempts to deflect blast with hands.  Poor fool is down for 3 rounds and takes 3 hits per round.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blast squeezes abdomen.  Foe dies in 4 rounds of internal hemmoraging and massive internal damage.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Red-hot fragments of jaw drive into foe's brain.  Foe dies in 3 rounds.  +55 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe receives a lungful of plasma.  Foe dies in 1 round.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's lungs and heart burn and implode.  +30 hits.  Add +25 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.  +3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 1 round.  +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Zap stuns for for 1 round.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Strong blast reels foe.  Stunned for 1 round.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Strike leg.  Stunned for 2 rounds.  Fights at -20 if no foot covering.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Powerful blast.  Stunned and unable to parry for 1 round; drops all held objects.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Forceful blast.  Stunned and unable to parry for 2 rounds.  3 hits per round.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blast floors foe; out for 2 rounds.  2 hits per round and fights at -10.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Precision strike knocks foe down; fights at -20 and drops held objects.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Direct hit.  Surgical strike blows head into particles of matter which scatter into the wind.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blast to shield arm stuns foe for 1 round.  If foe has a shield it is broken; otherwise foe's shoulder breaks.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Numbing blast.  Arms are useless due to nerve damage.  Fights at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Awesome chest blast stuns foe for 10 rounds and knocks him down.  Fights at -30.  +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Side strike rifles through organs.  Foe dies after 6 painful rounds of inactivity.  +35 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Heat wave!  Backbone is melted and foe dies of massive shock in 3 rounds.  +35 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Shock pulses through foe's nervous system.  Foe dies in 6 rounds.  +35 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe's body is a pulped smoking ruin.  Add +20 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Plasma</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Unfortunate foe is reduced to a molten puddle.  Fetch a mop!</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

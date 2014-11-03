@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ItemLibrary xmlns="http://com.sdk.realm/RealmItem-v0.0.0.1">
+    <ItemCollection>
+        <Item>
+            <ID>1</ID>
+            <Name>Holy Sword</Name>
+            <Will>10</Will>
+            <WillModifier>20</WillModifier>
+        </Item>
+    </ItemCollection>
+</ItemLibrary>

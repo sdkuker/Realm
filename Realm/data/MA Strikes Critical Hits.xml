@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Sorry.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Weak strike but you gain the initiative. +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Kick to foe's side yields +4 Hits and you have the initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Light but well-place strike forces foe to parry 1 rounds. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Mild chest strike forces foe to parry next round at -10. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Acrobatic move forces foe to parry next round at -25. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Strike to hip stuns foe for 1 round. +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strike to foe's lower chest stuns foe for 1 rounds. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow to top of foe's foot is slightly misplaced but quick. Foe operates at -20. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Strike to achilles tendon. Vicious bruise. Foe is at -50. +7 Hits and foe stunned 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Weak spear hand stuns foe for 2 rounds. +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Knife hand spear hand combination. Foe must roll on fumble table and is stunned 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Kick to foe's non-weapon arm. Arm is useless and +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Kick to foe's weapon arm disarms him. +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Fluid move followed by a leaping kick to foe's back knocks foe down and stuns him 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Strike to nerve in upper leg. +8 Hits. Foe stunned and unable to parry for 2 rounds and operates at -40 for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>A chop deflects foe's attack and a subsequent strike knocks him down. Foe stunned and unable to parry for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Gooseneck strike. Foe's inner ear ruptured (he hears at -50 operates at -75). Foe is knocked out by follow-up strike.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Fine artistry but no extra damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Mild blow. You gain the initiative next round. +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Side strike. Foe loses initiative next 2 rounds. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Strong but poorly aimed strike forces foe to parry next round. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Chest strike. Foe must parry next round at -20. +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Glancing kick to foe's back. Foe is stunned 1 rounds. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Strike to foe's chest stuns him for 1 round. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Back strike. Foe is stunned for 2 rounds. +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Strike to back of lower leg. Foe is stunned for 2 rounds. +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Kick to foe's head sprains neck and fractures jaw. Foe is stunned 9 rounds operates at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Spear hand to foe's chest. Foe is stunned 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to foe's weapon arm. Deep bruise. Foe is at -20. +6 Hits. Foe stunned 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blow to back of foe' s knee damages tendons. Foe is stunned 2 rounds and opeerates at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Kick foe's weapon 5 feet away and break 2 fingers. Foe stunned 2 rounds and fights at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Wheel kick knocks foe flat. Smash tendons and tear muscle. Foe is at -30. He is also stunned 9 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Strike to foe's knee shatters joint. Foe drops is at -85. He is stunned and unable to parry 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Roundhouse kick knocks foe out and fractures collarbone. Foe has sprained neck and shoulder.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Knife hand strike to foe's weapon arm breaks bone. Kick to lower back breaks backbone is at -85. He is stunned and unable to parry 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Mild strike. You have the initiative next round. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Side strike forces foe to parry next round. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Kick foe in ribs and stun him for 1 round. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Clever fake yields fine but light chest strike. Foe is stunned 1 round. +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strike to foe's back. Foe is stunned and unable to parry for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Side strike. Foe is stunned and unable to parry next round. Add +20 to next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strong wheel kick sends foe 10 feet in any desired direction. Foe is stunned 2 rounds. +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Upper leg strike. Foe has deep bruise and operates at -25. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Knife hand strike breaks foe's weapon arm leaving it useless. Follow-up punch to solar plexus knocks foe out.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Strong knife hand to upper portion of foe's non-weapon arm. Arm is broken and useless.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to back of lower leg. Foe is stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Kick disarms foe and stuns him for 1 round. Foe fights at -10 due to cartilage damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Heel kick breaks bone in foe's foot. Foe is at -50; he is also stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike to leg severs achilles tendon and drops foe. +10 Hits. Foe stunned 9 rounds acts at -80.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Flying kick to foe's back. You knock foe down disarm him and leave stunned and unable to parry for 12 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Kick to solar plexus drops foe and leaves him stunned and unable to parry 30 rounds. +30 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Sweep lays foe out and heel strike to foe's sternum collapses the ribcage. Foe is helpless and dies in 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Kick to foe's side yields +6 Hits. You have the initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Side strike forces foe to parry at -10 next round. +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Side strike. Foe is stunned next round and loses initiative for 3 rounds. +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Chest strike. Foe is stunned and unable to parry next round. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Chest strike. Foe is stunned for 2 rounds. Broken ribs. Foe is at -10. +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Upper leg strike causes deep bruise. Foe operates at -25. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Back strike. Foe is stunned for 3 rounds. +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow to nerve in upper leg. Foe is stunned 2 rounds and operates at -25 for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Superb move. Break foe's weapon. Foe is stunned for 3 rounds. Add +20 to next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Strike to top of foe's foot. Foe is stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Knife hand strike breaks foe's collarbone. Foe is stunned and unable to parry 2 rounds acts at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strike to area behind foe's knee. Tendon and cartilage damage. Foe is at -75.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Kick breaks foe's leg. Foe is stunned and unable to parry 2 rounds and operates at -75. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Open-handed blow to foe's adam's apple (neck) crushes windpipe. Foe dies in 18 rounds -- shock and asphyxiation.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Jab to foe's eyes blinds him. Crescent kick sends foe 10 feet to right or left. Sucker is at -100. He is stunned for 10 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Brutal head kick flips foe over onto his head. Skull fracture is minor but concussion severe. Foe dies of hemorrhage in 9 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Awesome spear hand strike finds seam penetrates solar plexus and ruptures the heart. Foe dies instantly.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Glancing strike makes foe respect you a little more. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Moderate strike stuns foe for 1 round. +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Side strike cracks foe's ribs and stuns foe for 1 round. +5 Hits. Foe is at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Fine side strike cracks 3 ribs. Foe is at -20. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Back strike stuns foe 1 round. You have a clear shot to foe's rear next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Chest strike. Foe is stunned 2 rounds and unable to parry 1 round. +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Hip strike spins foe. +5 Hits. Foe stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Chest strike. Foe is stunned 2 rounds unable to parry next round and operates at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Forearm strike cleanly disarms foe. +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Simultaneous open palm strikes destroy foe's hearing and balance. Foe at -95. He is stunned 24 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Combination elbow to solar plexus and back fist to face drops foe. Foe is stunned 3 rounds and unable to parry 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Heel kick breaks bone in foe's foot. Foe is at -50. +5 Hits. Fool stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Front kick to mid-section doubles foe over. You follow with knee strike which breaks foe's nose and knocks him out.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Strike to knee shatter joint. Foe drops and is stunned and unable to parry 6 rounds. Foe is at -80. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Roundhouse kick hits kidney and drops foe. Your follow-up knife hand snaps foe's neck. He is knocked out dies in 9 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Strike to stomach destroys a variety of organs. Foe drops helplessly and dies in 12 rounds. Add +10 to your next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Double palmstrike to foe's nose breaks breaks cartilage and drives bone into brain. Foe drops helplessly and dies in 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>MA Strikes</Type>
+            <Severity> E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Kick disarms foe. A follow-up chop snaps his neck and a subsequent flip sends foe 5 feet in any desired direction. Foe dies.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

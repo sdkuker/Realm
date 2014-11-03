@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Cool  breeze.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 round.  Cold wind.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 round.  Freezing breeze.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Mild blast.  Foe loses initiative for 2 rounds.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Frosty blast.  Foe must parry for 1 round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Moderate blast.  Foe must parry for 2 rounds.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Unbalancing blast.  Foe is stunned for 1 round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strong but diffuesed blast.  Foe is stunned for 2 rounds.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe is stunned and unable to parry for 1 round.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blast causes foe to drop whatever he is holding.  +10 Hits.  Foe is stunned and unable to parry for 3 rounds.  Chest strike.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast.  Foe is stunned and unable to parry for 1 round.  Frostbite.  Foe fights at -5%. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Unbalancing blast.  Foe is stunned for 2 rounds.  Pain and shock cause foe to fight at - 10%.  +11 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Foe is stunned for 2 rounds and cannot parry for 1 round.  +12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Back blast.  Foe is stunned and unable to parry for 2 rounds.  +13 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Leg strike.  Foe is knocked down.  If foe has leg armor he stunned for 2 rounds.  If not foe loses use of left foot fights at -70 (frostbite).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Head strike.  Foe is knocked down.  If foe has helmet he is stunned 3 rounds.  If not foe is stunned 6 rounds fights at -50% and loses both ears.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Neck strike.  If foe has neck armor he is stunned for 9 rounds.  If not foe loses lips cannot speak for 2 weeks and is knocked out.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe is sent into a month long coma and loses nose as a result of severe frostbite and shock.  +21 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Cold breeze.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 round.  Cold chills.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 2 rounds.  Freezing wind.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Frost laden blast forces foe too lose 2 rounds of initiative.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Freezing blast.  Foe must parry for 1 round and loses 3 rounds of vital initiative.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Mild frostbite.  Foe takes +2 Hits per round and must parry for 2 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Strong but off-center blast stuns foe for 1 round.  Foe takes +3 Hits per round due to frostbite on shield wrist.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 2 rounds.  All wood exposed on foe's back is useless and brittle.  Foe takes +2 Hits per round.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Leg strike.  Frostbite.  Foe is stunned and unable to parry for 1 round fights at -5 and takes 3 Hits per round.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe is stunned and unable to parry for 4 rounds.  If foe wears no armor or protective cloak he takes +5 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast.  Frostbite.  Foe is stunned for 2 rounds and cannot parry for 1 round.  Foe fights at -10.  +11 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to foe's non-weapon side.  Pain and shock give foe +3 Hits per round.  Foe is stunned and unable to parry for 2 rounds.  +12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Foe takes +3 Hits per round fights at -15 and is stunned for 4 rounds.  +13 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Back strike.  Foe is stunned and unable to parry for 3 rounds and takes +4 Hits per round.  +14 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Leg strike.  Foe is knocked down.  If foe has leg armor he is stunned for 3 rounds.  If not foe loses use of foot and fights at -75 (frostbite).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Hip strike.  Foe's hips is shattered.  Foe is stunned and unable to parry for 3 rounds and fights at -75.  +17 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Neck and collar strike.  If foe has neck armor he is knocked out.  If not foe's neck is frozen and shattered and foe dies in 9 inactive rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blast freeze-dries foe's head.  Foe dies in 1 round.  Foe's skull and brain are brittle and lifeless.  Add 5% to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe is slightly unbalanced and loses 1 round of initiative.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 2 rounds.  Mild frosting.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Moderate blast.  Foe must parry for 1 round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blisters give foe +1 Hit per round.  Foe must parry for 2 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 1 round.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast is strong but low.  Foe is stunned for 2 rounds.  If foe has no leg armor he takes 5 Hits per round due to shock and pain.  </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Back blast freeze dries all organic material that is exposed on foe's back.  Foe is stunned and unable to parry for 1 round.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Leg strike.  Frostbite.  If foe has leather boots or greaves they are destroyed.  Foe is stunned for 4 rounds.  +11 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe is knocked down and stunned for 6 rounds.  If foe has wrist armor he takes 3 Hits per round.  If not foe fights at -25 and takes +6 Hits per round.  </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast.  Foe is stunned for 2 rounds and cannot parry for 1 round.  Foe fights at -15.  Frostbite.  +12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to foe's side.  Shock and frostbite.  Foe fights at -20 takes 3 Hits per round and is stunned and unable to parry 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Foe takes 4 Hits per round.  If foe has chest armor he is stunned for 3 rounds.  If not foe is knocked down fights at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Thigh strike.  Foe has broken bone and frostbite.  Foe fights at -40 takes 5 Hits per round and is stunned for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Lower leg blast destroys foe's foot covering freezes both foe's feet and stuns foe for 9 rounds.  Foe takes 6 Hits per round fights at -80.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Abdomen strike.  If foe has abdomenal armor he is knocked out and takes +17 Hits.  If not foe dies of organ damage in 9 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Side strike freezes and shatters foe's pelvis.  Foe dies in 6 rounds due to shock and nerve damage.  +18 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Head strike.  Foe's eyes are destroyed; foe is in a coma for 2 weeks and is permanetly paralyzed from the neck down.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Light blast.  Foe loses initiative for 1 round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Unbalancing blast.  Foe must parry for 1 round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Chilling blast gives foe a frosty &quot;burn&quot;.  Foe takes 1 Hit per round and must parry for 1 round at -20.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 1 round.  Foe takes +2 Hits per round and fights at -5 due to facial shock.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Mild frostbite. foe is at -10. +2 hits per round. Stunned 1 round. +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blistering blast to foe's side knocks foe back 5 feet.  Foe takes +3 Hits per round and is stunned for 2 rounds.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blast to foe's non-weapon arm. Frostbite. Foe is stunned and unable to parry for 1 round takes 3 hits per round and fights at -15.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Strike to foe's non-weapon arm.  If foe  has arm armor  +20 Hits.  If not arm is useless due to nerve and skin damage and foe is stunned 5 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Neck blast.  If foe has neck armor he takes +4 Hits per round and is stunned for 6 rounds.  If not foe fights at -50 takes 5 Hits per round is stunned 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast.  Foe is stunned for 3 rounds and cannot parry for 1 round.  Foe fights at -20.  Frostbite.  +13 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blast freezes foe's non-weapon shoulder.  Arm is uselss and foe is stunned for 2 rounds.  +14 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Foe fights at -25 due to frostbite.  Foe is stunned and unable to parry for 3 rounds.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blast freezes both of foe's hands and foe loses use of both arms.  Foe is stunned for 9 rounds and takes 6 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Upper chest blast knocks foe down.  If foe has chest armor he is knocked out.  If not foe dies in 12 rounds due to a cold cold heart.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Foe's blood is entirely frozen solid.  Foe dies in 9 inactive rounds.  +18 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe's heart and lungs are suddenly frozen.  Foe dies in 6 inactive rounds of shock and suffocation.  +19 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Massive strike shatters foe's chest and freezes foe's body fluids.  Foe dies in 2 rounds.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Cold blast.  If foe has   armor he loses 1 round of initiative.  If not foe takes +6 Hits and loses 2 rounds of initiative.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Moderate blast.  Foe must parry for 1 round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Parched cold blast.  Foe is inbalanced and must parry for 2 rounds at -15.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Strong but low blast stuns foe for 1 round and destroys foe's foot covering.  If feet uncovered foe is at -20 (frostbite).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Swirling blast spins foe about.  +10 Hits.  Foe is stunned for 1 round and drops weapon.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Strong side strike.  Foe is stunned and unable to parry for 1 round and takes 4 Hits per round numbing pain.  +11 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blast to foe's weapon arm.  Foe is stunned and unable to parry 1 round takes +4 Hits per round and fights -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blast to foe's weapon arm.  Foe drops whatever is in that hand.  Foe is stunned for 3 rounds and fights at -30.  +13 Hits.  Frostbite.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Shoulder strike.  Foe loses use of shoulder due to nerve and cartilage damage.  If foe has no helmet he is knocked out for 1 day and takes +6 Hits per round.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blast to foe's non-weapon arm.  If foe has arm armor he is knocked down and takes 2 Hits per round.  If not massive frostbite foe loses use of arm and is stunned 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blast to foe's weapon arm.  Frostbite and numbing pain make arm useless and stun foe for 3 rounds.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Foe is knocked down and drops all he holds.  Foe is stunned for 12 rounds.  Shock and nerve damage.  Foe fights at -30.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blast freezes foe's throat and lungs.  Foe drops and dies in 12 rounds.  +17 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Back blast freezes and shatters foe's backbone.  Foe drops and dies in 9 inactive rounds.  Broken neck.  Massive shock.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Foes' lower body is fully frozen.  Foe dies in 6 inactive rounds.  +19 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe is a lifeless frozen statue -- well preserved but quite dead.  Add +10 to your next roll.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Cold</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe freezes solid and then shatters into thousands of pieces after falling down 20 feet behind impact point.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

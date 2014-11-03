@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Dubious strike.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Zip.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Looking bad.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Cruel blow.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Poor follow-through. You lose a claw and fight at +5 for 2 rounds. Foe takes +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Leaping chest strike yields +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Light thigh wound.  Foe takes +1 Hit per round.  +1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Mild forearm wound.  Foe takes +2 Hits per round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Leg strike.  Foe is stunned and unable to parry next round.  +4 Hits.  Foe takes +2 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Shoulder strike.  Foe takes +1 Hit per round and must parry next round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Lower leg strike.  If foe has leg armor +1 Hit.  If not; foe takes +4 Hits and +2 Hits per round.  Foe has initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Weak but precise strike to foe's arm.  Foe takes +1 Hit per round and is stunned next round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Strike to foe's face.  +4 Hits.  Foe is stunned next round and takes +2 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Sudden well-placed blow.  Foe is stunned for 2 rounds.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Leaping head strike.  If foe has helm +3 Hits and foe is stunned next round.  If not; foe is at -30 and stunned 2 rounds...ear torn.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Insulting strike to foe's nose.  If foe has full helm he is stunned 2 rounds.  If not foe has shredded nose &amp; takes +3 Hits per round; and is stunned 9 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike to foe's eyes.  If foe has full helm; he is stunned and unable to parry for 2 rounds.  If not; foe loses 1 eye &amp; is at -75; and is stunned and unable to parry 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Not enough.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>No bonus.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Light wound.  Foe takes +1 Hit per round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Thigh strike but no real penetration. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Raking foearm strike leaves nasty scar.  Foe takes +2 Hits per round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Calf strike.  Foe tears muscle is stunned 2 rounds; and is at -20.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Upper chest strike.  Foe is stunned next round.  +4 Hits.  Foe takes +1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to lower leg.  If foe has leg armor +3 Hits.  If not foe takes +6 Hits; +2 Hits per round and must parry next 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strong but imprecise arm strike.  Foe takes +2 Hits per round and is at -15 due to moderate wound.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Flying face strike.  If foe has facial armor; +2 Hits and foe must parry next round.  If not; foe takes +3 Hits per round and stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Slash foe's neck.  Foe takes +2 Hits per round and is stunned for 3 rounds.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Wrist strike.  Wound yields +2 Hits per round.  Foe is stunned for 3 rounds and unable to parry next round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Head strike.  Foe is blinded by bleeding; takes +3 Hits per round and is stunned and unable to parry for 3 rounds.  Foe at -40 while bleeding.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Slashing throat attack knocks foe down.  Foe is stunned and unable to parry for 6 rounds; takes +3 Hits per round and fights -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Real weak.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Nothing extra.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Light wound.  +2 Hits and foe takes +1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Mild chest wound.  Foe takes +2 Hits per round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Mild thigh wound stuns foe next round.  +4 Hits and foe takes +2 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Forearm strike.  Foe is forced to parry for 2 rounds.  +3 Hits and foe takes +2 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Bizarre wrist strike disarms foe.  +4 Hits.  Foe is stunned next round.  Add +10 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Strike to foe's shoulder.  Foe takes +2 Hits per round.  +5 Hits.  Foe is stunned next round at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Calf strike.  Slash muscle.  Foe is at -20.  Wound gives foe +2 Hits per round and stuns him for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Forearm strike.  Muscle and tendon slashed.  Foe fights at -25; takes +2 Hits per round; and is stunned 2 rounds.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Head strike.  If foe has helm; +3 Hits and he is stunned next round.  If not; foe has vicious scar &amp; takes +3 Hits per round; and is at -40.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Shoulder strike spins foe.  Foe is stunned and unable to parry 2 rounds.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Neck strike.  Foe is stunned and unable to parry for 2 rounds and takes +2 Hits per round.  Foe fights at -20.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Slash foe's achilles tendon.  Foe is knocked down and is stunned and unable to parry for 3 rounds.  Foe takes +1 Hit per round operates at -75.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Bizarre attack to foe's head area causes foe to strike himself.  Foe must roll on the &quot;E&quot; column on the crush critical strike table.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Ha.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Leg strike.  If foe has no leg armor; +5 Hits and he takes +1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Mild puncture.  +3 Hits and foe takes +1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Slash foe's lower chest.  If foe has no metal chest armor; +5 Hits and +3 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Thigh strike stuns foe for next round.  +6 Hits and foe takes +2 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Forearm wound.  Foe is forced to parry for 2 rounds.  +5 Hits.  Foe takes +2 Hits per round.  Add +10 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Astounding head strike.  If foe has a helm; +4 Hits.  If not; +7 Hits and foe is stunned and unable to parry for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Upper arm strike.  Foe takes +2 Hits per round.  +6 Hits.  Foe stunned and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Lower leg strike.  If foe has leg armor +3 Hits and he is stunned next round.  If not; foe is stunned 2 rounds &amp; is unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Arm strike.  Muscle and tendon torn.  Foe fights at -25; takes +2 Hits per round and is stunned 3 rounds.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Acrobatic face strike.  If foe has facial armor; +5 Hits.  If not foe's nose torn and he takes +3 Hits per round; is stunned 3 rounds and is at -40.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike to foe's weapon arm.  Foe is disarmed and stunned next round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Well-timed attack tears muscle in thumb on foe's hand.  Foe is disarmed and stunned and unable to parry 2 rounds.  Foe fights at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Strike to foe's eyes.  If foe has full helm he is blind and at -95 for 1 week.  If not foe loses 1 eye and is blind in the other...and at -100.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike to foe's eyes.  +10 Hits.  Foe is stunned and unable to parry for 6 rounds; takes +2 Hits per round and is at -95.  Blindness permanent.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Cutting strike.  +2 Hits and foe takes +1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Minor calf wound.  +2 Hits and foe takes +1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Leg hit.  +3 Hits and foe takes +1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Lower back strike.  +5 Hits.  Foe must parry next round and takes +1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Chest strike.  +6 Hits and foe is forced to parry next round.  Foe takes +2 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Thigh wound.  Foe is stunned for next round.  +7 Hits and foe takes +3 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Strike to forearm.  Foe is stunned next round and you gain initiative for next 2 rounds.  Foe takes +3 Hits per round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Bizarre strike to eyes destroys 1 eye and blinds the other eye for 2 days.  Foe is at -95 and is stunned for 24 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Inspired shoulder strike tears muscle.  Foe is at -20.  +7 Hits.  Foe is stunned and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Vicisous leg wound.  Foe takes +4 Hits per round and is stunned 3 rounds.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Sly arm strike gives foe a troublesome wound.  Foe is stunned and unable to parry for 2 rounds and takes 3 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Head strike.  If foe has helm; +4 Hits and he is stunned next round.  If not foe takes +3 Hits per round; fights at -25 and is stunned 9 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Upper thigh wound.  Muscle torn.  Foe is at -40 and takes +3 Hits per round.  +4 Hits.  Foe is stunned for 3 rounds unable to parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Dazzling leap knocks foe down.  Foe is disarmed and unconscious.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Head strike knocks foe down.  Foe has massive concussion and dies in 9 rounds due to shock and internal bleeding.  Pitiful sight.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Tiny Animal</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Unbelievable neck strike knocks foe down.  Vein and artery are severed.  Foe takes +20 Hits per round; dies after 6 inactive rounds.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

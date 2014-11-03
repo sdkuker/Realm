@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<herbLibraryType xmlns="http://com.sdk.realm/RealmHerbLoreDefinitionV0.0.0.1">
+    <HerbCollection>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Argsbaries</Name>
+            <Effect>Af 7.  Level 4 antidote for muscle poisons.</Effect>
+            <AttackLevel>4</AttackLevel>
+            <Form>Flower / Ingest</Form>
+            <CostAndRarity>38 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Eldaanna</Name>
+            <Effect>AF 2. Lvl 9 antidote for reduction poisons. Reverses the effect of the curse of the Ugliness of Orn {chan. Curses lvl 5}</Effect>
+            <AttackLevel>9</AttackLevel>
+            <Form>Leaf / Brew</Form>
+            <CostAndRarity>99 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Menelar</Name>
+            <Effect>AF 4. Lvl 7 antidote for Circulatory poisons.</Effect>
+            <AttackLevel>7</AttackLevel>
+            <Form>Cone / Brew</Form>
+            <CostAndRarity>65 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Mook</Name>
+            <Effect>AF 5. Lvl 5 antidote for Respitory Poisons</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>Berry / Ingest</Form>
+            <CostAndRarity>30 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Quilmufur</Name>
+            <Effect>AF 1. Lvl 8 antidote for Conversion Poisons.</Effect>
+            <AttackLevel>8</AttackLevel>
+            <Form>Root / Brew</Form>
+            <CostAndRarity>49 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Shen</Name>
+            <Effect>AF 3. Lvl 4 antidote for Nerve Poisons.</Effect>
+            <AttackLevel>4</AttackLevel>
+            <Form>Leaf / Ingest</Form>
+            <CostAndRarity>27 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Ul-Naza</Name>
+            <Effect>Af 9. Lvl 50 antidote for any poison. Must be taken within one day of poisoning.</Effect>
+            <AttackLevel>50</AttackLevel>
+            <Form>Leaf / Ingest</Form>
+            <CostAndRarity>430 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Arduvaar</Name>
+            <Effect>Universal antidote.</Effect>
+            <AttackLevel>61</AttackLevel>
+            <Form>powder/dissolve/drink</Form>
+            <CostAndRarity>5000gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Culan</Name>
+            <Effect>Anti-spasmodic; reduces effect of certain poisons.</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>mix/boil/drink</Form>
+            <CostAndRarity>15gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Durad</Name>
+            <Effect>Slows Morguth 50-85%.</Effect>
+            <AttackLevel>35</AttackLevel>
+            <Form>root / eat</Form>
+            <CostAndRarity>2000gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Eledil's Basket</Name>
+            <Effect>Purifies water. Slows poisons 10x. Lasts 12hrs. 1 dose/day only.</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>root/ boil/ drink</Form>
+            <CostAndRarity>8gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Himros</Name>
+            <Effect> Relieves Pangwood inflammation. Cures up to 2nd degree burns.</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>mix/apply</Form>
+            <CostAndRarity>55gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Klandun</Name>
+            <Effect>Cures Thrayniis and other forms of paralysis.</Effect>
+            <AttackLevel>30</AttackLevel>
+            <Form>fern/eat</Form>
+            <CostAndRarity>300gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Laurre</Name>
+            <Effect>Cures Morgurth.</Effect>
+            <AttackLevel>55</AttackLevel>
+            <Form>flower/eat</Form>
+            <CostAndRarity>29500gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Naza</Name>
+            <Effect>Universal Antidote. Immediate effect.</Effect>
+            <AttackLevel>50</AttackLevel>
+            <Form>leaf/chew</Form>
+            <CostAndRarity>6800 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Nelthandon</Name>
+            <Effect>Emetic (induces vomiting in 20 min).</Effect>
+            <AttackLevel>8</AttackLevel>
+            <Form>plant/eat</Form>
+            <CostAndRarity>1bp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Red Willow</Name>
+            <Effect>Lowers fever.</Effect>
+            <AttackLevel>20</AttackLevel>
+            <Form>leaf/brew</Form>
+            <CostAndRarity>5sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Silraen</Name>
+            <Effect>Analgesic. Causes sleep.</Effect>
+            <AttackLevel>16</AttackLevel>
+            <Form>powder/drink</Form>
+            <CostAndRarity>1bp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Teldalion</Name>
+            <Effect>Reduces inflammation. Cures infection.</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>bark/poultice</Form>
+            <CostAndRarity>2gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Valanar</Name>
+            <Effect>Antidote for Karfar.</Effect>
+            <AttackLevel>35</AttackLevel>
+            <Form>leaf/chew</Form>
+            <CostAndRarity>1000gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Antidotes</Class>
+            <Name>Vipersweed</Name>
+            <Effect>Antidotes for Asgurath.</Effect>
+            <AttackLevel>20</AttackLevel>
+            <Form>root/boil/drink</Form>
+            <CostAndRarity>15gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Bone Repair</Class>
+            <Name>Arfandas</Name>
+            <Effect>AF 1. Doubles rate of healingfor fractures</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>Stem / Apply</Form>
+            <CostAndRarity>2 sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Bone Repair</Class>
+            <Name>Baalak</Name>
+            <Effect>AF 12. Shatter repairs</Effect>
+            <Form>Reed / Brew</Form>
+            <CostAndRarity>160 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Bone Repair</Class>
+            <Name>Busthelas</Name>
+            <Effect>AF 22. Shatter repairs.</Effect>
+            <Form>Stalk / Brew</Form>
+            <CostAndRarity>11O gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Bone Repair</Class>
+            <Name>Edram</Name>
+            <Effect>AF 10. Mends bone.</Effect>
+            <Form>Moss / Ingest</Form>
+            <CostAndRarity>31 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Bone Repair</Class>
+            <Name>Gursamel</Name>
+            <Effect>AF 5. Mends bone.</Effect>
+            <Form>Stalk / Apply</Form>
+            <CostAndRarity>30 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Burn Relief</Class>
+            <Name>Alambas</Name>
+            <Effect>Af 4. Heals 4 square inches of any type burn.</Effect>
+            <Form>Grass / Apply</Form>
+            <CostAndRarity>66 sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Burn Relief</Class>
+            <Name>Aloe</Name>
+            <Effect>AF 0. Doubles healing rate for burns and minor cuts. Heals 5 hits if they resulted from burns.</Effect>
+            <Form>Leaf / Apply</Form>
+            <CostAndRarity>5 bp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Burn Relief</Class>
+            <Name>Culkas</Name>
+            <Effect>AF 0. Heals 10 square feet  of burns (any type).</Effect>
+            <Form>Leaf / Apply</Form>
+            <CostAndRarity>35 gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Burn and Exposure Relief</Class>
+            <Name>Jojojopo</Name>
+            <Effect>AF 0. Cures Frostbite. Heals 2-20 hits resulting from cold.</Effect>
+            <Form>Leaf / Apply</Form>
+            <CostAndRarity>9 sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Burn and Exposure Relief</Class>
+            <Name>Kelventari</Name>
+            <Effect>AF0 Heals 1st and 2nd degree burns. 1-10 hits resulting from heat.</Effect>
+            <Form>Berry/ rub</Form>
+            <CostAndRarity>19gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Burn and Exposure Relief</Class>
+            <Name>Veldurak</Name>
+            <Effect>AF2 Cures frostbite. Heals 1-50 hits resulting from cold.</Effect>
+            <Form>Kelp/apply</Form>
+            <CostAndRarity>8sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Burn and Exposure Relief</Class>
+            <Name>Vessin</Name>
+            <Effect>Cures 2nd degree (seconds) and 3rd degree (1 day) burns.</Effect>
+            <Form>clams/apply</Form>
+            <CostAndRarity>30gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Ciculatory Repair</Class>
+            <Name>Anserke</Name>
+            <Effect>AF7Stops bleeding by clotting and sealing wound. Takes 3 rds to take effect. Patient cannot move without wound reopening.</Effect>
+            <Form>Root/apply</Form>
+            <CostAndRarity>75gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Ciculatory Repair</Class>
+            <Name>Fek</Name>
+            <Effect>AF5 Stops any bleeding. Takes 1-10 rds to take effect. Patient cannot move (much) without wound reopening.</Effect>
+            <Form>Nut/brew</Form>
+            <CostAndRarity>50gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Ciculatory Repair</Class>
+            <Name>Harfy</Name>
+            <Effect>AF9 Immediately stops any form of bleeding.</Effect>
+            <Form>Resin/apply</Form>
+            <CostAndRarity>175gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Ciculatory Repair</Class>
+            <Name>Hugburtun</Name>
+            <Effect>AF6 Immediately stops any form of bleeding.</Effect>
+            <Form>Fruit/apply</Form>
+            <CostAndRarity>180gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Repair</Class>
+            <Name>Miretar'sCrown</Name>
+            <Effect>Stops bleeding of any one wound.</Effect>
+            <Form>flower/salve</Form>
+            <CostAndRarity>125gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Repair</Class>
+            <Name>Rumareth</Name>
+            <Effect>Stops bleeding. Causes drowsiness.</Effect>
+            <Form>mix/drink</Form>
+            <CostAndRarity>125gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Repair</Class>
+            <Name>Sindoluin</Name>
+            <Effect>Anti-coagulant</Effect>
+            <Form>flower/extract/drink</Form>
+            <CostAndRarity>2sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Repair</Class>
+            <Name>Tulaxar</Name>
+            <Effect>Stops bleeding.</Effect>
+            <Form>leaves/boil/drink</Form>
+            <CostAndRarity>110gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Abaas</Name>
+            <Effect>Heals 2-12.</Effect>
+            <Form>leaf/crush/eat</Form>
+            <CostAndRarity>1gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Akbutege</Name>
+            <Effect>AF1 Heals 1-10</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>3sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Arlan</Name>
+            <Effect>AF1 Heals 4-9. Wild heals 1-6.</Effect>
+            <Form>Leaf/apply</Form>
+            <CostAndRarity>13sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Carefree Mustard</Name>
+            <Effect>Heals all concussion hits (takes 1 hr).</Effect>
+            <Form>leaves/poultice</Form>
+            <CostAndRarity>10gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Cusamar</Name>
+            <Effect>AF3 Heals 15-60 (10 + 5x D10)</Effect>
+            <Form>Flower/ingest</Form>
+            <CostAndRarity>30gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Darsurion</Name>
+            <Effect>AF1 Heals 1-6</Effect>
+            <Form>Leaf/apply</Form>
+            <CostAndRarity>35bp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Draaf</Name>
+            <Effect>AF1 Heals 1-10 for each of 2 consecutive rds.</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>7sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Dugmuthur</Name>
+            <Effect>AF2 Heals 10. Instant effect.</Effect>
+            <Form>Berry/ingest</Form>
+            <CostAndRarity>9gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Fiis</Name>
+            <Effect>Heals 1-6.</Effect>
+            <Form>resin/rub</Form>
+            <CostAndRarity>8sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Gariig</Name>
+            <Effect>AF3 Heals 30. A.K.A. Grarig.</Effect>
+            <Form>Cactus/ingest</Form>
+            <CostAndRarity>55gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Grarig</Name>
+            <Effect>Heals 30. Also knows as Gariig</Effect>
+            <Form>leaf/eat</Form>
+            <CostAndRarity>60gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Gefnul</Name>
+            <Effect>AF10 Heals 100.</Effect>
+            <Form>Lichen/ingest</Form>
+            <CostAndRarity>90gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Mirenna</Name>
+            <Effect>AF1 Heals 10. Instant effect.</Effect>
+            <Form>Berry/ingest</Form>
+            <CostAndRarity>10gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Reglen</Name>
+            <Effect>AF7 Heals 50.</Effect>
+            <Form>Moss/brew</Form>
+            <CostAndRarity>75gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Rewk</Name>
+            <Effect>AF1Heals 2-20.</Effect>
+            <Form>Nodule/brew</Form>
+            <CostAndRarity>9sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Telperion</Name>
+            <Effect>Heals 10-100 hits.</Effect>
+            <Form>leaf/eat</Form>
+            <CostAndRarity>100gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Thurl</Name>
+            <Effect>AF1Heals 1-4. Brew keeps 1-2 weeks.</Effect>
+            <Form>Clove/brew</Form>
+            <CostAndRarity>2sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Winclamit</Name>
+            <Effect>AF12 Heals 30-300</Effect>
+            <Form>Fruit/ingest</Form>
+            <CostAndRarity>100gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Concussion Relief</Class>
+            <Name>Yavethalion</Name>
+            <Effect>AF4 Heals 5-50</Effect>
+            <Form>Fruit/ingest</Form>
+            <CostAndRarity>45gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Arkasu</Name>
+            <Effect>AF2 Heals 2-12 hits. Doubles rate of healing for major wounds.</Effect>
+            <Form>Sap/apply</Form>
+            <CostAndRarity>12gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Arlan</Name>
+            <Effect>AF3 Decongestant. +20 to resistance vs common cold. Speeds recovery from respitory illness by 5x.</Effect>
+            <Form>Root/ingest</Form>
+            <CostAndRarity>1bp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Athelas</Name>
+            <Effect>AF20 Capable of curing anything while patient still alive but healing only as effective as the healer. Full effect only in hands of an ordained king. Will not keep or give life.</Effect>
+            <Form>Leaf/brew</Form>
+            <CostAndRarity>300gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Attanar</Name>
+            <Effect>AF1.Cures fever.</Effect>
+            <Form>Moss/apply</Form>
+            <CostAndRarity>8gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Baranie</Name>
+            <Effect>Reduces nausea.</Effect>
+            <Form>leaves/drink</Form>
+            <CostAndRarity>3bp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Caranan</Name>
+            <Effect>Heals 2-8. Relieves pain/swelling. Max 10 doses/day.</Effect>
+            <Form>mix/eat</Form>
+            <CostAndRarity>3gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Carneyar</Name>
+            <Effect>Heals all hits and stops bleeding.</Effect>
+            <Form>flower/boil/drink</Form>
+            <CostAndRarity>400gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Delrean</Name>
+            <Effect>AF1Repels any insect. Smells foul(noticeably so; range 50')</Effect>
+            <Form>Bark/apply</Form>
+            <CostAndRarity>3sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Felmather</Name>
+            <Effect>AF15Mental summons of one friend (beasts or folk). Range 300'x user's level. Coma relief.</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>105gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Fukavar</Name>
+            <Effect>Allows mental summons one friendly individual. Range 20 miles.</Effect>
+            <Form>flower/crush/burn/inhale</Form>
+            <CostAndRarity>230gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Klynyk</Name>
+            <Effect>Removes hair for several days.</Effect>
+            <Form>oyster/apply</Form>
+            <CostAndRarity>25bp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Latha</Name>
+            <Effect>AF4.+10 to disease resistance cures comon cold. Heals 1-2 hits.</Effect>
+            <Form>Stem/brew</Form>
+            <CostAndRarity>9sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Maiana</Name>
+            <Effect>Decongestant.</Effect>
+            <Form>mix/drink</Form>
+            <CostAndRarity>5tp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Margath</Name>
+            <Effect>Anaesthetic.</Effect>
+            <Form>mix/salve</Form>
+            <CostAndRarity>1gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Trudurs</Name>
+            <Effect>AF8+10 to disease resistance for 1-10 days.</Effect>
+            <Form>Moss/brew</Form>
+            <CostAndRarity>12sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>General Purpose Herbs</Class>
+            <Name>Ukur</Name>
+            <Effect>AF1One day's nutrition.</Effect>
+            <Form>Nut/ingest</Form>
+            <CostAndRarity>34sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Life Preservation</Class>
+            <Name>Carcatu</Name>
+            <Effect>AF25Lifekeeping (1 day)</Effect>
+            <Form>Grass/apply</Form>
+            <CostAndRarity>89gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Life Preservation</Class>
+            <Name>Degiik</Name>
+            <Effect>AF10Lifekeeping (1 day)</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>100gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Life Preservation</Class>
+            <Name>Laurelin</Name>
+            <Effect>AF21Lifegiving for Elves if given within 28 days of death.</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>999gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Life Preservation</Class>
+            <Name>Nur-oiolosse</Name>
+            <Effect>AF13Lifegiving (1 day). Kills one day later unless Sorul nut (c-F-2; 1 sp) is ingested.</Effect>
+            <Form>Clove/ingest</Form>
+            <CostAndRarity>200gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Life Preservation</Class>
+            <Name>Oiolosse</Name>
+            <Effect>AF22(Ololosse). Lifegiving for elves if given within 7 days of death.</Effect>
+            <Form>Clove/ingest</Form>
+            <CostAndRarity>600gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Life Preservation</Class>
+            <Name>Olvar</Name>
+            <Effect>AF20Lifekeeping (2-20 days).</Effect>
+            <Form>Flower/ingest</Form>
+            <CostAndRarity>200gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Life Preservation</Class>
+            <Name>Pathur</Name>
+            <Effect>AF7Lifekeeping (1 hour)</Effect>
+            <Form>Nodule/brew</Form>
+            <CostAndRarity>35gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Life Preservation</Class>
+            <Name>Tyr-fira</Name>
+            <Effect>AF33Lifegiving if given within 56 days.</Effect>
+            <Form>Leaf/apply</Form>
+            <CostAndRarity>1200gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Life Preservation</Class>
+            <Name>Vulcurax</Name>
+            <Effect>AF0Lifegiving if given within 30 days.</Effect>
+            <Form>Berry/apply</Form>
+            <CostAndRarity>1000gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle &amp; Cartilage &amp; Tendon Repair</Class>
+            <Name>Arnuminas</Name>
+            <Effect>AF8Doubles rate of healing for sprains torn ligaments and cartilage damage.</Effect>
+            <Form>Leaf/apply</Form>
+            <CostAndRarity>6bp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle &amp; Cartilage &amp; Tendon Repair</Class>
+            <Name>Arpsusar</Name>
+            <Effect>AF15Mends muscle damage.</Effect>
+            <Form>Stalk/brew</Form>
+            <CostAndRarity>30gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle &amp; Cartilage &amp; Tendon Repair</Class>
+            <Name>Curfalaka</Name>
+            <Effect>AF6Mends muscle damage</Effect>
+            <Form>Fruit/ingest</Form>
+            <CostAndRarity>40gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle &amp; Cartilage &amp; Tendon Repair</Class>
+            <Name>Dagmather</Name>
+            <Effect>AF12Heals cartilage damage</Effect>
+            <Form>Spine/brew</Form>
+            <CostAndRarity>28gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle &amp; Cartilage &amp; Tendon Repair</Class>
+            <Name>Ebur</Name>
+            <Effect>AF18Repairs sprains</Effect>
+            <Form>Flower/ingest</Form>
+            <CostAndRarity>22gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle &amp; Cartilage &amp; Tendon Repair</Class>
+            <Name>Hegheg</Name>
+            <Effect>AF5Heals cartilage damage</Effect>
+            <Form>Root/paste</Form>
+            <CostAndRarity>25gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle &amp;  Cartilage &amp; Tendon Repair</Class>
+            <Name>Tarfeg</Name>
+            <Effect>AF3Repairs sprains</Effect>
+            <Form>Flower/ingest</Form>
+            <CostAndRarity>23gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve Repair</Class>
+            <Name>Belramba</Name>
+            <Effect>AF20Nerve repairs</Effect>
+            <Form>Lichen/brew</Form>
+            <CostAndRarity>60gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve Repair</Class>
+            <Name>Terbas</Name>
+            <Effect>AF4Doubles healing rate for nerve damage.</Effect>
+            <Form>Leaf/apply</Form>
+            <CostAndRarity>2gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve Repair</Class>
+            <Name>Wifurwif</Name>
+            <Effect>AF15Nerve repairs</Effect>
+            <Form>Lichen/ingest</Form>
+            <CostAndRarity>55gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve Repair</Class>
+            <Name>Yuth</Name>
+            <Effect>AF8Antidote for nerve venom.</Effect>
+            <Form>Flower/ingest</Form>
+            <CostAndRarity>29gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Baldakur</Name>
+            <Effect>AF7Restores sight.</Effect>
+            <Form>Root/brew</Form>
+            <CostAndRarity>102gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Berterin</Name>
+            <Effect>AF20Preservation of organic material (up to body size) for one day.</Effect>
+            <Form>Moss/brew</Form>
+            <CostAndRarity>19gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Febfendu</Name>
+            <Effect>AF24Restores hearing</Effect>
+            <Form>Root/brew</Form>
+            <CostAndRarity>90gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Gildarion</Name>
+            <Effect>Major organ repair. Recovery 1-10 days.</Effect>
+            <Form>Mix/salve</Form>
+            <CostAndRarity>350gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Kakduram</Name>
+            <Effect>AF6Restores hearing</Effect>
+            <Form>Fruit/ingest</Form>
+            <CostAndRarity>90gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Pasamar</Name>
+            <Effect>AF40Preserves organic material</Effect>
+            <Form>Grass/brew</Form>
+            <CostAndRarity>75gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Siran</Name>
+            <Effect>AF31Resoration of 1 organ or area. Side effect: skin disease (Pr 10% normal) and 6 hits per rd when skin exposed to full sun.</Effect>
+            <Form>Clove/ingest</Form>
+            <CostAndRarity>80gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Siriena</Name>
+            <Effect>AF27Preservation of any organic material (up to body size). Lasts 1 week.</Effect>
+            <Form>Grass/brew</Form>
+            <CostAndRarity>70gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Tarnas</Name>
+            <Effect>AF60lNausea for 1-10 hrs (-50). Repairs organ damage.</Effect>
+            <Form>Nodule/brew</Form>
+            <CostAndRarity>220gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Organ Repair &amp; Preservation</Class>
+            <Name>Wek-wek</Name>
+            <Effect>AF50Repairs organ damage.</Effect>
+            <Form>Nodule/brew</Form>
+            <CostAndRarity>220gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Agaath</Name>
+            <Effect>AF3Breathe with low oxygen (25% +) 12 hrs. Once per to days.</Effect>
+            <Form>Berry/ingest</Form>
+            <CostAndRarity>5gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Ankii</Name>
+            <Effect>Decongestant. +20 to resistance vs common cold. Speeds recovery from respitory illness by 5x.</Effect>
+            <Form>Berry/ingest</Form>
+            <CostAndRarity>100gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Atigax</Name>
+            <Effect>AF12Protects eyes in intense light or glare. Allows sight despite sudden or blinding light. Lasts 9 hrs.</Effect>
+            <Form>Root/brew</Form>
+            <CostAndRarity>40gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Awn</Name>
+            <Effect>Joining limbs.</Effect>
+            <Form>bark/boil/drink</Form>
+            <CostAndRarity>1900gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Breldiar</Name>
+            <Effect>AF7Subtracts 30 from maneuver and melee. Adds 50 to spells and missile attacks. Euphoria. Lasts 1 hr.</Effect>
+            <Form>Flower/ingest</Form>
+            <CostAndRarity>25gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Blue Eyes</Name>
+            <Effect>AF25Enhanced visioin (x3 range) plus mild infravision (min 50') for 3 hrs. 1x/day.</Effect>
+            <Form>Flower/brew</Form>
+            <CostAndRarity>15gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Elben's Basket</Name>
+            <Effect>AF15Heart stimulant. Doubles speed for 1 rd once per hour.</Effect>
+            <Form>Root/brew</Form>
+            <CostAndRarity>10gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Gylvir</Name>
+            <Effect>AF20Allows one to breathe under water (only) for 4 hrs.</Effect>
+            <Form>Algae/ingest</Form>
+            <CostAndRarity>45gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Grapeleaf</Name>
+            <Effect>AF18Intoxication and dreams (actions at -50) for 2 hours 1 days nutrition.</Effect>
+            <Form>Nectar/ingest</Form>
+            <CostAndRarity>7gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Harlindar</Name>
+            <Effect>Assures safe childbirth. Nutritionally balanced.</Effect>
+            <Form>mix/drink</Form>
+            <CostAndRarity>50gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Joef</Name>
+            <Effect>AF23Allows mental summons of one known sentient friend (100'x level of user).</Effect>
+            <Form>Powder/ingest</Form>
+            <CostAndRarity>35gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Kathkusa</Name>
+            <Effect>AF352x strength (1-10 rds). 2x hits given foes; +10 OB.</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>50gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Kilmakur</Name>
+            <Effect>AF33Protects versus flame and heat for 1-10 hrs.</Effect>
+            <Form>Root/brew</Form>
+            <CostAndRarity>65gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Kirsemal</Name>
+            <Effect>Allows adrenal maneuvering for 3 rnds (speed/leaping/strength/etc).</Effect>
+            <Form>bark/boil/drink</Form>
+            <CostAndRarity>110gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Klagul</Name>
+            <Effect>AF7Infravision (6 hrs). One sees as an Elf.</Effect>
+            <Form>Bud/brew</Form>
+            <CostAndRarity>27gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Kolandor</Name>
+            <Effect>Regenerate limbs(takes 6 months).</Effect>
+            <Form>leaves/poultice</Form>
+            <CostAndRarity>15000gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Marku</Name>
+            <Effect>AF5Infravision (6 hrs).</Effect>
+            <Form>Nut/ingest</Form>
+            <CostAndRarity>30gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Megillos</Name>
+            <Effect>AF19Increases visual perception (2x range) for 10 minutes.</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>12sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Rud-tekma</Name>
+            <Effect>AF10Bonus of +20 when casting spells or for over-cast attempts. Lasts 1 hr. Maneuver and melee bonus -20. 10% chance any spell will be cast on nearest unintended target.</Effect>
+            <Form>Fruit/ingest</Form>
+            <CostAndRarity>25gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Slagen</Name>
+            <Effect>Limb preservation.</Effect>
+            <Form>moss/apply</Form>
+            <CostAndRarity>120gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Splayfoot</Name>
+            <Effect>AF16For good in heart instills confidence and singleness of purpose (+25) for 1 to 4 hours.</Effect>
+            <Form>Seeds/brew</Form>
+            <CostAndRarity>23gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Sweet Galenas</Name>
+            <Effect>Relaxes (-75%) 1-10 rnds.</Effect>
+            <Form>leaf/burn/inhale</Form>
+            <CostAndRarity>5sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Tharm</Name>
+            <Effect>Protection from sunburn; aids tanning.</Effect>
+            <Form>kelp/apply</Form>
+            <CostAndRarity>5tp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Ucason</Name>
+            <Effect>Cures blindness.</Effect>
+            <Form>grass/burn/inhale</Form>
+            <CostAndRarity>75gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Ul-ucason</Name>
+            <Effect>Restores eyes.</Effect>
+            <Form>grass/burn/inhale</Form>
+            <CostAndRarity>250gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Yaran</Name>
+            <Effect>AF7Acute smell and taste (+50) for 1 hr.</Effect>
+            <Form>Pollen/ingest</Form>
+            <CostAndRarity>9sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Zulsendura</Name>
+            <Effect>AF22Haste (3 rds).</Effect>
+            <Form>Mushroom/ingest</Form>
+            <CostAndRarity>70gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Physical Alteration &amp; Enhancement</Class>
+            <Name>Zur</Name>
+            <Effect>AF8Enhances smell and hearing (3x range; +50 man.).    Lasts 1 hr.</Effect>
+            <Form>Fungus/brew</Form>
+            <CostAndRarity>12gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Stat Modifiers</Class>
+            <Name>Lestagii</Name>
+            <Effect>AF45Restores any stat losses other than those due to age. Affects only 1 stat.</Effect>
+            <Form>Cryst/ingest</Form>
+            <CostAndRarity>520gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Stat Modifiers</Class>
+            <Name>Merrig</Name>
+            <Effect>(AF50)Daily use increases Pr by 5. Interruption of use will not reverse addictive resistance but means loss of benefit. Withdrawal means loss of 10 from Co 15 from Re and Me.</Effect>
+            <Form>Thorn/brew</Form>
+            <CostAndRarity>90gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Stun Relief</Class>
+            <Name>Januk-ty</Name>
+            <Effect>AF2Stun relief (3rds).</Effect>
+            <Form>Root/brew</Form>
+            <CostAndRarity>110sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Stun Relief</Class>
+            <Name>Suranie</Name>
+            <Effect>AF3Stun relief (1 rd).</Effect>
+            <Form>Berry/ingest</Form>
+            <CostAndRarity>2gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Stun Relief</Class>
+            <Name>Vinuk</Name>
+            <Effect>AF4Stun relief (1-10rds).</Effect>
+            <Form>Root/brew</Form>
+            <CostAndRarity>12sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Stun Relief</Class>
+            <Name>Welwal</Name>
+            <Effect>AF3Stun relief (3rds)</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>12gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Stun Relief</Class>
+            <Name>Witav</Name>
+            <Effect>AF5Stun relief 2rds.</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>12gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Enchanted Breads</Class>
+            <Name>Alshana</Name>
+            <Effect>AF5Does/4 oz slice. Infravision (min. 300') for 1 hr. 10-slice load 290gp. Tastes of raisins and carrots; keeps 1-2 months.</Effect>
+            <Form>Bread/ingest</Form>
+            <CostAndRarity>35gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Enchanted Breads</Class>
+            <Name>Cram</Name>
+            <Effect>AF1Dose/4 oz slice. Dwarven Waybread. Five day's nutrition/slice. 10-slice load 13gp. Tastes of mushrooms and pepper; keeps 7 weeks.</Effect>
+            <Form>Bread/ingest</Form>
+            <CostAndRarity>14sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Enchanted Breads</Class>
+            <Name>Hesguratu</Name>
+            <Effect>AF10Dose/4 oz slice. 2x strength (6 rds); +10 OB and 2x hits given foes. 10-slice load 350gp. Tastes of wheat and onions keeps 1 month</Effect>
+            <Form>Bread/ingest</Form>
+            <CostAndRarity>45gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Enchanted Breads</Class>
+            <Name>Kykykyl</Name>
+            <Effect>AF6Dose/4 oz slice. Allows one to see with complete clarity (as on a cloudless day) for 1 hr regardless of weather lighting or eye injuries (unless eye destroyed) 10-slice load 440gp. Tastes of garlic carrots and ginger; keeps 2-20 weeks.</Effect>
+            <Form>Bread/ingest</Form>
+            <CostAndRarity>50gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Enchanted Breads</Class>
+            <Name>Tatharsul</Name>
+            <Effect>AF15Dose/4 oz slice. Restores nervous system to normal (in 1 to 10 rds). 10-slice load 690gp. Tastes of pumpkin and lemon; keeps 1-2 months.</Effect>
+            <Form>Bread/ingest</Form>
+            <CostAndRarity>75gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Enchanted Breads</Class>
+            <Name>Ulginor</Name>
+            <Effect>AF0Dose/4 oz slice. A slice provides a day's nutrition. 10-slice load 35sp. Tastes of cheese and spinach; keeps 1-2 months.</Effect>
+            <Form>Bread/ingest</Form>
+            <CostAndRarity>4sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Arunya</Name>
+            <Effect>AF50Causes sleep and quick unconsciousness. Olne hour's sleep equals 4.</Effect>
+            <Form>Root/brew</Form>
+            <CostAndRarity>2bp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Brorkwilb</Name>
+            <Effect>AF45Euphoric. Allows for shared dreams with family member who lies within range (100 miles x level of user).</Effect>
+            <Form>Flower/ingest</Form>
+            <CostAndRarity>9gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Galenas</Name>
+            <Effect>AF10Leaf produces smoke which affects 20' rad. Relaxes (-75) 1-10 rds.</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>5sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Gort</Name>
+            <Effect>AF20Euphoric hallucinogin. +10 to user's Pr for 2 hrs but afterwards causes user to be at -50 for 1-10 hrs.</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>10gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Hoak-foer</Name>
+            <Effect>AF30Hallucinogin. Cures mind loss and mental diseases but prevents movement (altogether) for 1-10 weeks.</Effect>
+            <Form>Flower/ingest</Form>
+            <CostAndRarity>67gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Hugar</Name>
+            <Effect>AF33Causes sleep and quick unconsciousness. One hour's sleep equals 6.</Effect>
+            <Form>Root/ingest</Form>
+            <CostAndRarity>1sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Nelisse</Name>
+            <Effect>AF15Euphoria (-50) for 1 hr. Yields 1 day's nutrition.</Effect>
+            <Form>Leaf/brew</Form>
+            <CostAndRarity>9sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Swigmakril</Name>
+            <Effect>AF25Relaxant. User takes 2x usual hits before passing out (but dies due to hits at usual #) although he operates at -30. Lasts 1-2 hrs.</Effect>
+            <Form>Flower/brew</Form>
+            <CostAndRarity>50gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Swuth</Name>
+            <Effect>AF3Invisible smoke relaxes (-75) 1-10 rds.</Effect>
+            <Form>Leaf/ingest</Form>
+            <CostAndRarity>4sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Intoxicants (Mind Alterants)</Class>
+            <Name>Takamur</Name>
+            <Effect>AF100Euphoric. Allows for shared dreams with friend similarly affected lies within range (50 miles x level of user).</Effect>
+            <Form>Grass/brew</Form>
+            <CostAndRarity>38sp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Poisons</Class>
+            <Name>Carnegurth</Name>
+            <Effect>Reddish juice causes massive blood clotting and death in 1-100 hrs.</Effect>
+            <AttackLevel>1</AttackLevel>
+            <Form>Flower/liquid</Form>
+            <CostAndRarity>53gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Poisons</Class>
+            <Name>Jeggarukh</Name>
+            <Effect>Black powder gives 10-100 hits.</Effect>
+            <AttackLevel>6</AttackLevel>
+            <Form>Bats/powder</Form>
+            <CostAndRarity>71gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Poisons</Class>
+            <Name>Karfar</Name>
+            <Effect>Reddish paste causes heart to shut down. Massive shock and death in 2-12 rds.</Effect>
+            <AttackLevel>7</AttackLevel>
+            <Form>Leaf/paste</Form>
+            <CostAndRarity>142gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Poisons</Class>
+            <Name>Klytun</Name>
+            <Effect>Golden paste causes 1-10 day coma</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>Root/paste</Form>
+            <CostAndRarity>53gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Poisons</Class>
+            <Name>Sharkasar</Name>
+            <Effect>Brown paste gives 1-10 hits.</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>Root/paste</Form>
+            <CostAndRarity>2gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Circulatory Poisons</Class>
+            <Name>Sharduvaak</Name>
+            <Effect>Brown liquid slows blood flow. Victim sluggish and at -50 for all activity and needs 2x usual sleep.</Effect>
+            <AttackLevel>3</AttackLevel>
+            <Form>Berry/liquid</Form>
+            <CostAndRarity>36gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Conversion Poisons</Class>
+            <Name>Bragolith</Name>
+            <Effect>Bluish juice causes victim to spontaneously combust. Phosphorescent green firefly juice</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>Juice/liquid</Form>
+            <CostAndRarity>120gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Conversion Poisons</Class>
+            <Name>Brithagurth</Name>
+            <Effect>Black venom causes hardening of tendons in 1-4 appendages (making them useless).</Effect>
+            <AttackLevel>2</AttackLevel>
+            <Form>Fish/liquid</Form>
+            <CostAndRarity>25gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Conversion Poisons</Class>
+            <Name>Henuial</Name>
+            <Effect>Yellow venom converts optic juices of 1-2 eyes to honey</Effect>
+            <AttackLevel>6</AttackLevel>
+            <Form>Bee/liquid</Form>
+            <CostAndRarity>80gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Conversion Poisons</Class>
+            <Name>Ondokamba</Name>
+            <Effect>Green venom turns (1-4) hands and/ or feet to stone (making each affected area -75).</Effect>
+            <AttackLevel>2</AttackLevel>
+            <Form>Bat/liquid</Form>
+            <CostAndRarity>29gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Conversion Poisons</Class>
+            <Name>Muilfana</Name>
+            <Effect>Orange tree sap. When contacted with mucous membranes turns to acid (blinds or destroys windpipe and/or esophagus).</Effect>
+            <AttackLevel>2</AttackLevel>
+            <Form>Sap/liquid</Form>
+            <CostAndRarity>52gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Conversion Poisons</Class>
+            <Name>Taynaga</Name>
+            <Effect>Browinish powder sterilizes and gives 5-50 hits.</Effect>
+            <AttackLevel>8</AttackLevel>
+            <Form>Bark/powder</Form>
+            <CostAndRarity>27gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle Poisons</Class>
+            <Name>Dynallca</Name>
+            <Effect>Tan paste destroys hearing and gives 1-10 hits.</Effect>
+            <AttackLevel>3</AttackLevel>
+            <Form>Leaf/paste</Form>
+            <CostAndRarity>14gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle Poisons</Class>
+            <Name>Kaktu</Name>
+            <Effect>Affects 1-4 appendages. Dexterity loss in each affected area reduces associated maneuver rolls by 1-100 (avg. if two are used).</Effect>
+            <AttackLevel>1</AttackLevel>
+            <Form>Flower/liquid</Form>
+            <CostAndRarity>29gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Muscle Poisons</Class>
+            <Name>Trusa</Name>
+            <Effect>Acts in 1-10 rds. Victim failing RR by 21+ is killed. Victim failing by 11-20 falls into coma and is blind; failure by 1-10 results in blindness in 1-2 eyes.</Effect>
+            <AttackLevel>4</AttackLevel>
+            <Form>Frog/paste</Form>
+            <CostAndRarity>31gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve  Poisons</Class>
+            <Name>Acaana</Name>
+            <Effect>Black paste destroys nervous system. Kills instantly.</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>Flower/paste</Form>
+            <CostAndRarity>600gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve  Poisons</Class>
+            <Name>Asgurash</Name>
+            <Effect>Brownish red snake venom. Upper body paralysis.</Effect>
+            <AttackLevel>3</AttackLevel>
+            <Form>Snake/paste</Form>
+            <CostAndRarity>31gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve  Poisons</Class>
+            <Name>Cathaana</Name>
+            <Effect>White powder instantly causes mild euphoria (victim at -50 for 1-10 rds). Brain is destroyed after 1-10 minutes.</Effect>
+            <AttackLevel>1</AttackLevel>
+            <Form>Nut/powder</Form>
+            <CostAndRarity>36gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve  Poisons</Class>
+            <Name>Juth</Name>
+            <Effect>Causes gradual insanity (1-100 weeks).</Effect>
+            <AttackLevel>2</AttackLevel>
+            <Form>Scorpion/liq</Form>
+            <CostAndRarity>41gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve  Poisons</Class>
+            <Name>Ruth-i-laur</Name>
+            <Effect>Brownish Cave-drake saliva causes rapid (1-20 rds) erosion of nervous system. Victim left at -50 to -100 activity.</Effect>
+            <AttackLevel>4</AttackLevel>
+            <Form>Drakes/liquid</Form>
+            <CostAndRarity>56gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve  Poisons</Class>
+            <Name>Slird</Name>
+            <Effect>Acts in 1-2 rds. Victim loses feeling in 1-6 extremities (head genitals hands feet) for 1-100 days.</Effect>
+            <AttackLevel>2</AttackLevel>
+            <Form>Fruit/paste</Form>
+            <CostAndRarity>13gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve  Poisons</Class>
+            <Name>Ul-acaana</Name>
+            <Effect>Nervous system destroyed. Paralyzes instantly; kills in 1-10 minutes.</Effect>
+            <AttackLevel>20</AttackLevel>
+            <Form>Flower/paste</Form>
+            <CostAndRarity>1200gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Nerve  Poisons</Class>
+            <Name>Wek-baas</Name>
+            <Effect>Acts in 1-100 rds RR failure of 31+ results in total paralysis; failure by 16-30 results in degeneration of balance and hearing in 1-10 days; RR failure of 1-15 results in sleep.</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>Fish/liquid</Form>
+            <CostAndRarity>70gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Reduction Poisons</Class>
+            <Name>Lhugruth</Name>
+            <Effect>Grey/black blood rapidly (1-10 rds) dissolves inflicted area. Affects metals and organic material. Does not affect glass/ sand/ pottery.</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>Dragon/liquid</Form>
+            <CostAndRarity>300gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Reduction Poisons</Class>
+            <Name>Ondohithui</Name>
+            <Effect>Blue/grey paste causes fatal dehydration in 1-10 minutes.</Effect>
+            <AttackLevel>3</AttackLevel>
+            <Form>Lichen/paste</Form>
+            <CostAndRarity>60gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Reduction Poisons</Class>
+            <Name>Nimnaur</Name>
+            <Effect>Milky white juices slowly (1-10 minutes) liquifies affected organ (1 organ/dose).</Effect>
+            <AttackLevel>3</AttackLevel>
+            <Form>Spider/ liquid</Form>
+            <CostAndRarity>23gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Reduction Poisons</Class>
+            <Name>Silmaana</Name>
+            <Effect>Silver powder scars skin; gives 2-20 hits.</Effect>
+            <AttackLevel>9</AttackLevel>
+            <Form>Stalk/powder</Form>
+            <CostAndRarity>4gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Reduction Poisons</Class>
+            <Name>Slota</Name>
+            <Effect>Slow (1 day) paralysis and death (1-10 days).</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>Spider/paste</Form>
+            <CostAndRarity>36gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Reduction Poisons</Class>
+            <Name>Zaganzar</Name>
+            <Effect>Bluish extract blinds by reducing optic nerve to water; gives 1-10 hits.</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>Root/liquid</Form>
+            <CostAndRarity>139gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Respiratory Poisons</Class>
+            <Name>Galenaana</Name>
+            <Effect>Green powder kills Elves; leaves others in a coma for 1-100 weeks.</Effect>
+            <AttackLevel>9</AttackLevel>
+            <Form>Leaf/powder</Form>
+            <CostAndRarity>179gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Respiratory Poisons</Class>
+            <Name>Hith-i-Girith</Name>
+            <Effect>Mist/ vapor from live (active) tree acts as depressant causing immediate and continuing sleep.</Effect>
+            <AttackLevel>4</AttackLevel>
+            <Form>Leaf/liquid</Form>
+            <CostAndRarity>12gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Respiratory Poisons</Class>
+            <Name>Jegga</Name>
+            <Effect>Brown paste gives 1-100 hits.</Effect>
+            <AttackLevel>7</AttackLevel>
+            <Form>Bats/paste</Form>
+            <CostAndRarity>92gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Respiratory Poisons</Class>
+            <Name>Jitsu</Name>
+            <Effect>Yellow venom gives 5-50 hits.</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>Clams/liquid</Form>
+            <CostAndRarity>34gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Respiratory Poisons</Class>
+            <Name>Jitsutyr</Name>
+            <Effect>Tan paste destroys lungs and kills in 1-100 rounds.</Effect>
+            <AttackLevel>2</AttackLevel>
+            <Form>Clams/paste</Form>
+            <CostAndRarity>145gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Respiratory Poisons</Class>
+            <Name>Kly</Name>
+            <Effect>Brown juice gives 3-300 hits.</Effect>
+            <AttackLevel>3</AttackLevel>
+            <Form>Berry/paste</Form>
+            <CostAndRarity>154gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Respiratory Poisons</Class>
+            <Name>Uraana</Name>
+            <Effect>Creamy paste gives 3-30 hits.</Effect>
+            <AttackLevel>6</AttackLevel>
+            <Form>Leaf/paste</Form>
+            <CostAndRarity>12gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Respiratory Poisons</Class>
+            <Name>Vuraana</Name>
+            <Effect>Pinkish paste delivers 1-100 hits.</Effect>
+            <AttackLevel>2</AttackLevel>
+            <Form>Flower/paste</Form>
+            <CostAndRarity>42gp</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Adder Venom</Name>
+            <Effect>&gt;Minimum&lt;Causes paralysis (1-100 rounds)&gt;Maximum&lt; Death with in 5 rounds</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>venom/black paste (Black Adder)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Ajkara</Name>
+            <Effect>&gt;Minimum&lt; disorient (-10% to all actions 1-10 hrs)&gt;Maximum&lt;target reveals secrets</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>incense/smoke (Jungle Flower)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Angurth</Name>
+            <Effect>&gt;Minimum&lt;Fever and nausea 2 to 20 rounds&gt;Maximum&lt;slow painful death</Effect>
+            <AttackLevel>2</AttackLevel>
+            <Form>bacteria / invisible (Flea Bite)</Form>
+            <CostAndRarity>-</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Asp Venom</Name>
+            <Effect>&gt;Minimum&lt;limb damage -50%&gt;Maximum&lt;loss of limb</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>venom/paste (Green Asp)</Form>
+            <CostAndRarity>common</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Athanar</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;weakens constitution from 5 to 50%</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>liquid/grey (Snakes)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Blade Hemlock</Name>
+            <Effect>&gt;Minimum&lt;incapacity between 1 to 10 hours&gt;Maximum&lt;kills within 1 to 6 rounds</Effect>
+            <AttackLevel>6</AttackLevel>
+            <Form>paste/inject (Plant)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Bukandas Bulch</Name>
+            <Effect>&gt;Minimum&lt;mild asthma&gt;Maximum&lt;severe asthma</Effect>
+            <AttackLevel>20</AttackLevel>
+            <Form>glands/juice (Wolves)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Cyclic Fever</Name>
+            <Effect>&gt;Minimum&lt;2-3 cycles of low grade fever&gt;Maximum&lt;3-12 cycles of fever lasting 4 dayscyclic fever causes blindness(50%) or death (25%)</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>bacteria/invisible (ticks/ lice)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Cathaana</Name>
+            <Effect>&gt;Minimum&lt;euphoria&gt;Maximum&lt;destroys mind</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>flakes/white (Nuts)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Daxamas</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;heart disease</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>leaves/flaxes (Daxa Plants)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Din Fuinen</Name>
+            <Effect>&gt;Minimum&lt;disorient -30% for 1 to 10 hrs&gt;Maximum&lt;amnesia for 1 to 100 days</Effect>
+            <AttackLevel>8</AttackLevel>
+            <Form>oil/green (Moss)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Etarka</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;slow death</Effect>
+            <Form>roots/paste (Vandar Plants)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Frulowg</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;loss of smell</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>infection/invisible (Bacteria)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Gartaan</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;severe hemophilla</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>fluid/clear (Waters of Ky)</Form>
+            <CostAndRarity>v.rare </CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Grelnixar</Name>
+            <Effect>&gt;Minimum&lt;hallucinations&gt;Maximum&lt;running death</Effect>
+            <AttackLevel>45</AttackLevel>
+            <Form>leaves/fibers (Vrel Plants)</Form>
+            <CostAndRarity>e.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Gurth-nu-fuin</Name>
+            <Effect>&gt;Minimum&lt;severs nausea from1 to 100 hours&gt;Maximum&lt;slow painful death</Effect>
+            <AttackLevel>3</AttackLevel>
+            <Form>virus / invisible </Form>
+            <CostAndRarity>--</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Heen</Name>
+            <Effect>&gt;Minimum&lt;take 5 to 50 hits&gt;Maximum&lt;ulceration</Effect>
+            <AttackLevel>20</AttackLevel>
+            <Form>seeds/powder (Plants)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Hevik</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;induces sleep for 11 to 20 hours</Effect>
+            <AttackLevel>30</AttackLevel>
+            <Form>powder/grey (Leaves)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Hulmiikak</Name>
+            <Effect>&gt;Minimum&lt;vision at - 30%&gt;Maximum&lt;loss of eyesight</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>sting/juice (Hulmiss Ants)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Igturfas</Name>
+            <Effect>&gt;Minimum&lt;disoriented for 10 to 100 hours&gt;Maximum&lt;feeblemindedness</Effect>
+            <AttackLevel>25</AttackLevel>
+            <Form>blood/brown powder (Iguri Snakes)</Form>
+            <CostAndRarity>e.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Jadaras</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;dexterity loss</Effect>
+            <AttackLevel>15</AttackLevel>
+            <Form>fluid/clear (Jadar Grass)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Jitsukar</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;kills within 1 to 100 rounds</Effect>
+            <AttackLevel>40</AttackLevel>
+            <Form>paste/brown (Clams)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Kaskamak</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;surface feeling loss</Effect>
+            <AttackLevel>12</AttackLevel>
+            <Form>paste (Moss)</Form>
+            <CostAndRarity>e.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Klabas</Name>
+            <Effect>&gt;Minimum&lt;depression at 25% to all actions&gt;Maximum&lt;nervous breakdown</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>buds/white powder (Kane Plants)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Kuwurn Yorf</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;death in three days</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>spots/gold (Mold)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Marsh Flux</Name>
+            <Effect>&gt;Minimum&lt;diarrhea and vomitting for 1 to 3 days&gt;Maximum&lt;dehydrate/coma 2 to 7 days. with a 20% chance of death.</Effect>
+            <AttackLevel>20</AttackLevel>
+            <Form>germs/ food &amp; water (Contamination)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>M.W. Trumpet</Name>
+            <Effect>&gt;Minimum&lt;headache (at -15%) for 1 to 10 hours&gt;Maximum&lt;nausea (for 1 to 100 days) or insanity</Effect>
+            <AttackLevel>4</AttackLevel>
+            <Form>pollens/white (Marsh Flowers)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>M.W. Trupmet</Name>
+            <Effect>&gt;Minimum&lt;coma for 1 to 10 days&gt;Maximum&lt;death</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>seed pod/ cream (Night Drake Plant)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Moourark</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;bones dissolve</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>venom/blue (Rark Bats)</Form>
+            <CostAndRarity>e.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Morgurth</Name>
+            <Effect>&gt;Minimum&lt;coma for 1 to 100 years &gt;Maximum&lt;brain dissolves</Effect>
+            <AttackLevel>60</AttackLevel>
+            <Form>blood/black (Black Drakes)</Form>
+            <CostAndRarity>e.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Murnan</Name>
+            <Effect>For Non-Elves Only&gt;Minimum&lt;fever and delerium last four days&gt;Maximum&lt;paralysis</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>sap/yellow (Dyre Trees)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Orn</Name>
+            <Effect>&gt;Minimum&lt;1 to 100 hits&gt;Maximum&lt;warts and scars</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>sap/green (Turid Plants)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Pakiik</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;random body growth</Effect>
+            <AttackLevel>25</AttackLevel>
+            <Form>fluid/yellow viscious (Bacteria)</Form>
+            <CostAndRarity>e.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Pangwood</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;Unshakable feelings of doom and hopelessness.-15 to all actions.</Effect>
+            <Form>fibers / brown sap (Swamp Trees)</Form>
+            <CostAndRarity>common</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Pawlun</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;loss of teeth</Effect>
+            <Form>juice/fluid (Pawf Vines)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Pentanoth</Name>
+            <Effect>&gt;Minimum&lt;loss of will for 6 to 12 hours&gt;Maximum&lt;coma for 1 to 4 days</Effect>
+            <AttackLevel>40</AttackLevel>
+            <Form>liquid/clear (Blue Kelp)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Phoroz</Name>
+            <Effect>&gt;Minimum&lt;numb limbs at -40 for 1 to 10 hours&gt;Maximum&lt;slow paralysis &amp; death</Effect>
+            <AttackLevel>4</AttackLevel>
+            <Form>pollen/clear liquid (Widow Flowers)</Form>
+            <CostAndRarity>common</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Quaking Fever</Name>
+            <Effect>&gt;Minimum&lt;swelling/fever/trembling&gt;Maximum&lt;fever/convultions/cough for 6 to 10 days.30% chance loss (1-20pts) Co.15% chance of death</Effect>
+            <AttackLevel>20</AttackLevel>
+            <Form>bacteria/invisible (Leeches)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Red Fever</Name>
+            <Effect>&gt;Minimum&lt;fever/nosebleeds/headache 7 to 10 days.vs skin -50% for 6 to 60 hrs.vs. eyes blindness.vs.lungs choke to death in agony&gt;Maximum&lt;vomitting for 10 to 14 days40% chance of death from pneumonia or peritonitis or meningitis or heart failure.</Effect>
+            <AttackLevel>25</AttackLevel>
+            <Form>germs/food-water (Contamination)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Rorkandiis</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;cartilage loss</Effect>
+            <AttackLevel>5</AttackLevel>
+            <Form>saliva/paste (Uster Hawks)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Sarnumen</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;nervous disorder operate at -50%</Effect>
+            <Form>liquid/blue (Numem Eels)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Shirolos</Name>
+            <Effect>&gt;Minimum&lt;drowsy at -100&gt;Maximum&lt;suggestive trance (immobile)</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>liquid/clear  (Mickey Finn)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Shutinis</Name>
+            <Effect>&gt;Minimum&lt;distracted for 1 to 100 hours&gt;Maximum&lt;insanity</Effect>
+            <AttackLevel>13</AttackLevel>
+            <Form>venom/fluid (Basilisk)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Spider Venom</Name>
+            <Effect>&gt;Minimum&lt;fever/delerium lasts 10 to 100 hours&gt;Maximum&lt;death or paralysis(2 types)</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>venom/paste (Giant Spider)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Surlok</Name>
+            <Effect>&gt;Minimum&lt;loss of sensitivity&gt;Maximum&lt;toe and finger rot</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>spines/fluid (Surn Fish)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Symk-Arg-Wy</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;hair loss</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>venom/fluid (Wyg Fish)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Thrang</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;loss of color vision</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>glands/ juice (Kolbolds)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Thrayniis</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;paralysis</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>blood/brown (Ayniic Fleas)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Thurviik</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;sleep for 3 hours</Effect>
+            <AttackLevel>20</AttackLevel>
+            <Form>gas/pink (Volcanic Areas)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Umakilis</Name>
+            <Effect>&gt;Minimum&lt;coma for 1 to 10 days&gt;Maximum&lt;kills instantly</Effect>
+            <AttackLevel>50</AttackLevel>
+            <Form>liquid/red (Grave Toads)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Vaxvarna</Name>
+            <Effect>&gt;Minimum&lt;severe weakness 1 to 100 days&gt;Maximum&lt;internal bleeding</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>disease/invisible (Virus)</Form>
+            <CostAndRarity>v.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Vemaak</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;hearing loss</Effect>
+            <AttackLevel>1</AttackLevel>
+            <Form>organs/yellow powder (Larn Hornets)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Water Hemlock</Name>
+            <Effect>&gt;Minimum&lt;incapacity for 1 to 10 hours&gt;Maximum&lt;kills in 6 to 10 rounds</Effect>
+            <AttackLevel>3</AttackLevel>
+            <Form>liquid/clear amber  (Hemlock)</Form>
+            <CostAndRarity>m.rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Wuchyga</Name>
+            <Effect>&gt;Minimum&lt;none&gt;Maximum&lt;light sensitivity</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>bones/white powder (Sand Lizards)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Yake</Name>
+            <Effect>&gt;Minimum&lt;mouth burns 2nd degree&gt;Maximum&lt;tongue rot</Effect>
+            <Form>juice/pale green (Yake Ferns)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Yavin Girith</Name>
+            <Effect>&gt;Minimum&lt;dizziness for 1 to 10 days at -25%&gt;Maximum&lt;mild coma/memory loss</Effect>
+            <AttackLevel>10</AttackLevel>
+            <Form>juice/golden clear (Lavender Fruit)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+        <Herb>
+            <Class>Poisons and Rotten Things</Class>
+            <Name>Yellow Rheum</Name>
+            <Effect>&gt;Minimum&lt;vomit/jaundice/fever&gt;Maximum&lt;bloody vomit for 7 to 18 days with 20% chance of death</Effect>
+            <AttackLevel>30</AttackLevel>
+            <Form>germs/bug bite (Mosquitoes)</Form>
+            <CostAndRarity>rare</CostAndRarity>
+        </Herb>
+    </HerbCollection>
+</herbLibraryType>

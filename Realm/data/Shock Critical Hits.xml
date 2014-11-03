@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Stunned for 3 rounds.  Parry at half.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Stunned for 4 rounds.  Cannot parry.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Stunned for 5 rounds.  Cannot parry.  -5 for 20 minutes.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Stunned for 10 rounds.  Cannot parry or change facing.  -25 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Stunned for 7 rounds.  Cannot parry.  -10 for 1 hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Stunned for 8 rounds.  Cannot parry.  -15 for 1 hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Stunned for 9 rounds.  Cannot parry or change facing.  -20 for 3 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Stunned for 10 rounds.  Cannot parry or change facing.  -20 for 6 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Stunned for 11 rounds.  Cannot parry or change facing.  -25 for 6 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Stunned for 12 rounds.  Cannot parry or change facing.  Disorientated.  -25 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Stunned for 13 rounds.  Cannot parry or change facing.  Disoriented.  -30 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Stunned for 14 rounds.  Cannot parry or change facing.  Disoriented.  -35 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Stunned for 2 rounds.  Parry at half.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Stunned for 4 rounds.  Cannot parry.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Stunned for 5 rounds.  Cannot parry.  -5 for 20 minutes.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Stunned for 6 rounds.  -5 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Stunned for 16 rounds.  Cannot parry or change facing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Stunned for 9 rounds.  Cannot parry.  -10 for three hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Stunned for 10 rounds.  Cannot parry or change facing.  -20 for three hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Stunned for 11 rounds.  Cannot parry or change facing.  -25 for three hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Stunned for 12 rounds.  Cannot parry or change facing.  Disoriented.  -30 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Stunned for 13 rounds.  Cannot parry or change facing.  Disoriented.  -35 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Stunned for 15 rounds.  Cannot parry or change facing.  Disoriented.  -35 for two days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Stunned for 16 rounds.  Cannot parry or change facing.  Disoriented.  -40 for two days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Stunned for 19 rounds.  Cannot parry or change facing.  Immobilized 2 rounds.  -45 for two days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Stunned for 2 rounds.  Parry at half.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Stunned for 4 rounds.  Cannot parry.  -5 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Stunned for 5 rounds.  Cannot parry.  -10 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Stunned for 6 rounds.  -15 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Stunned for 8 rounds.  Cannot parry.  -20 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe slams himself to the floor for 4 hits.  Coma.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Stunned for 11 rounds.  Cannot parry or change facing.  -20 for three hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Stunned for 12 rounds.  Cannot parry or change facing.  Disoriented.  -25 for six hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Stunned for 13 rounds.  Cannot parry or change facing.  Disoriented.  -30 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Stunned for 14 rounds.  Cannot parry or change facing.  Disoriented.  -30 for two days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Stunned for 15 rounds.  Cannot parry or change facing.  Disoriented.  -35 for two days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Stunned for 18 rounds.  Cannot parry or change facing.  Disoriented.  -40 for two days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Stunned for 24 rounds.  Immobilized 2 rounds.  Disoriented.  +1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>When foe awakes he is mindless drooling idiot.  +2 hits.  Coma.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>None</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Stunned for 3 rounds.  Parry at half.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Stunned for 4 rounds.  Cannot parry.  -5 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Stunned for 5 rounds.  Cannot parry.  -10 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Stunned for 6 rounds.  Cannot parry.  -15 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Stunned for 8 rounds.  Cannot parry.  -20 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Stunned for 10 rounds.  Cannot parry or change facing.  Disoriented.  -25 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe snaps rigid and slowly falls the air whistling audibly from his lips.  Coma.  Death if no helm.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Stunned for 13 rounds.  Cannot parry or change facing.  Disoriented.  -30 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Stunned for 14 rounds.  Cannot parry or change facing.  Disoriented.  -35 for 3 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Stunned for 15 rounds.  Cannot parry or change facing.  Disoriented.  -40 for 3 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Stunned for 16 rounds.  Cannot parry or change facing.  Disoriented.  -45 for 3 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Stunned for 17 rounds.  Cannot parry or change facing.  Disoriented.  -50 for 3 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Stunned for 21 rounds.  Immobilized 3 rounds.  -50 for one week.  +2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Random brain damage.  +3 hits.  Coma.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe stops and remains in last living position.  Pity.  Death.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Stunned for 3 rounds.  Parry at half.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Stunned for 4 rounds.  Cannot parry.  -5 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Stunned for 5 rounds.  -10 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Stunned for 6 rounds.  Cannot parry.  -15 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Stunned for 7 rounds.  Cannot parry or change facing.  -20 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Stunned for 9 rounds.  Cannot parry or change facing.  -25 for 24 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Stunned for 12 rounds.  Cannot parry or change facing.  Disoriented.  -25 for 3 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Stunned for 15 rounds.  Cannot parry or change facing.  Disoriented.  -30 for 3 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe collapses like card house in a stiff breeze.  Death.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Stunned for 19 rounds.  Cannot parry or change facing.  Disoriented.  -35 for 3 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Stunned for 25 rounds.  Immobilized for 3 rounds.  Disoriented.  -40 for one week.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Stunned for 30 rounds. Immobilized for 5 rounds. Disoriented.  -50 for one week.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe spins about clutching his head and falls.  +2 hits.  -60 for 1 week.  Unconscious.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>One last howl punctuates foe's collapse.  +5 hits.  -75 for 1 week.  Unconscious.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Roll 3 random phobias.  +7 hits.  Coma.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe crumples in an undidy heap.  Death.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shock</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's eyes glaze as he launches himself 10' backwards.  Death.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

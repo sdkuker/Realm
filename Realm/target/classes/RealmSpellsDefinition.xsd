@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://com.sdk.realm/RealmSpellsDefinitionV0.0.0.1" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://com.sdk.realm/RealmSpellsDefinitionV0.0.0.1">
+    <annotation>
+    	<documentation>
+    		This schema defines the spells used in the
+    		Spells section of the application.
+    	</documentation>
+    </annotation>
+
+    <element name="SpellLibrary" type="tns:SpellLibraryType">
+    	<annotation>
+    		<documentation>
+    			This is the root element of the document. It cotains the
+    			list spells as well as any other data about those
+    			spells.
+    		</documentation>
+    	</annotation></element>
+
+    <complexType name="SpellLibraryType">
+    	<sequence>
+    		<element name="HerbCollection" type="tns:SpellCollectionType" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="SpellCollectionType">
+    	<sequence>
+    		<element name="Herb" type="tns:SpellType" minOccurs="0" maxOccurs="unbounded"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="SpellType">
+        <annotation>
+        	<documentation>This isa spell.</documentation>
+        </annotation>
+        <sequence>
+        	<element name="Realm" minOccurs="1" maxOccurs="1"
+        		type="token">
+        		<annotation>
+        			<documentation>
+        				This is a general description of a group of
+        				herbs. It describes some rough characteristic
+        				that they all share. This is the highest level
+        				of grouping for a collection of herbs.
+        			</documentation>
+        		</annotation>
+
+        	</element>
+        	<element name="Classification" minOccurs="1" maxOccurs="1"
+        		type="token">
+        		<annotation>
+        			<documentation>
+        				This is the name of the herb.s
+        			</documentation>
+        		</annotation>
+
+        	</element>
+        	<element name="List" type="token" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				This is the effect the herb has on a living
+        				thang.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="Name" type="string" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				Describes the level of attack of the herb.s
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="Level" type="int" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				This is the form or shape of the herb. Flower or
+        				leaf are examples.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="Description" type="string" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				Describes what is needed to prepare or use the
+        				herb. Examples are brew and drink.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="AreaOfEffect" type="string" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				Describes the cost in value and units and
+        				optionally the rarity of the herb.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="Duration" type="string" minOccurs="1" maxOccurs="1"></element>
+        	<element name="Range" type="string" minOccurs="1" maxOccurs="1"></element>
+        	<element name="Type" type="token" minOccurs="1" maxOccurs="1"></element>
+        	<element name="Micellaneous" type="string" minOccurs="1" maxOccurs="1"></element>
+        </sequence>
+    </complexType>
+
+</schema>

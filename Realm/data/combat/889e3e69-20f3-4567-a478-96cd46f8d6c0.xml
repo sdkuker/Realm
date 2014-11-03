@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CombatEncounter xmlns="http://com.sdk.realm/CombatEncounter.V0.0.0.1">
+    <ID>889e3e69-20f3-4567-a478-96cd46f8d6c0</ID>
+    <Description>Test Encounter</Description>
+    <LastModified>1414957682995</LastModified>
+    <Rounds/>
+</CombatEncounter>

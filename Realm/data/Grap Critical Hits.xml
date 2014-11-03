@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Weak grip.  No bonus.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Glancing attack.  No extra damage but you have the initiative next round.  Practice.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is free but you have the initiative next round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Grazing hip strike.  You have the initiative next round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blow to lower back.  Foe must parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Passing hip strike.  Foe must parry next round at -20.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Slightly unbalancing blow to chest.  Foe must parry next round.  You have initiative 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Glancing back blow.  Foe must parry next round at -25.  You have initiative 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow to shoulder.  Foe is stunned 1 round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Grasp around weapon arm disarms foe.  +2 Hits.  Foe is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Passing chest strike.  Foe eludes entanglement but must parry next 2 rounds at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Attack results in an uneasy hold on foe's midsection.  Foe is at -50 for 2 rounds.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Infirm hold on foe's midsection.  For the next 3 rounds foe is at -50 and you have the initiative.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Grasp foe's leg.  Foe breaks free but it stunned for 2 rounds.  +3 Hits.  You have initiative 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Attack to foe's non-weapon arm.  If foe has arm armor he must parry next round.  If not arm is immobilized and foe is at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Entangle foe's leg.  Foe is knocked down and is stunned and unable to parry for 2 rounds.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Tie foe up completely.  Foe is entirely immobilized for 12 rounds and is at -60 for the following 3 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Both of foe's legs are entangled.  Foe is downed and knocked out.  +9 Hits.  Add +20 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Indecision and an opporunity lost.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Passing strike.  You have the initiative next round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe fends off attack but is forced to parry next round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Attack has punch but nothing more.  Foe must parry next round at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Unbalance foe.  +4 Hits.  Foe must parry next round.  You have initiative for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blow to chest stuns foe for 1 round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blow to back stuns foe for 1 round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Unbalancing strike.  Foe spins free  but is stunned for 1 round and must parry the following round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Slipping grasp around foe's waist is weak.  Foe is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Grasp around weapon arm disarms foe and sprains his wrist.  Foe is stunned 2 rounds and fights at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Entangle foe's leg.  +4 Hits.  Foe is stunned and unable to parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Attack yields a weak hold around foe's lower chest.  Foe is at -50 for 3 rounds.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Entangle foe's non-weapon  arm.  If foe has arm armor he is at -30 until he drops it.  If not foe is at -40.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Infirm grasp on foe's midsection.  For the next 6 rounds foe is at -50 and you have the initiative.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Entangle foe's leg.  Foe is knocked down and is stunned and unable to parry for 2 rounds.  Pulled muscle leaves foe at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Both of foe's legs are tied up.  Foe is downed disarmed and stunned and unable to parry 6 rounds.  Ankle sprain foe is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Attack completely entangles and immobilizes foe.  The pitiful creature is left prone but conscious.  Broken leg leaves foe at -40.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Attack yields vicous hold around foe's neck.  Foe is knocked out.  Sprained neck leaves foe at -90.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Grazing side strike.  You receive the initiative next round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe recovers but is forced to parry next round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Glancing attack.  Foe is stunned for 1 round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Flailing attack.  Foe is stunned 1 round and must parry the following round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Your attack produces a weak grasp around foe's waist.  Foe is at -25 for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Attack yields slipping grasp around foe's leg.  Foe is stunned and unable to parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe breaks free of hold around thigh but is stunned and unable to parry 1 round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Grasp around foe's chest.  Foe is at -50 for 3 rounds.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Grasp around both of foe's legs.  Foe slips away but is knocked down and prone for 1 round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Entangle non-weapon arm. If foe has arm armor he is at -50 until he drops it. If not foe is at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Attack results in loose grasp on foe's midsection. Foe is stunned for 2 rounds and is at -50 for the following 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Entangle weapon arm. Foe is stunned and unable to parry for 2 rounds and is at -50 during the following round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Grasp around foe's chest breaks rib and leaves foe stunned and unable to parry for 3 rounds.  Foe fights at -5.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Entangle foe's foot. Foe stumbles falls and breaks shoulder. +8 Hits. Foe is stunned 6 rounds and fights at -30.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Pin both of foe's arms to chest.  Foe is stunned and unable to parry 4 rounds then fights at -95.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Entangle and completely immobilize foe's legs.  Foe falls is disarmed breaks weapon arm and is knocked out. +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Grapple foe's neck. If foe has neck armor he is at -75 due to neck sprain and stunned 3 rounds. If not he dies of broken neck.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Glancing blow.  You receive the initiative next round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Side strike unbalances foe.  You have initiative for 2 rounds.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Hard but misplaced strike. Foe eludes grip but is stunned for 1 rounds.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Strike to foe's shield arm. If foe has shield +3 Hits. If not arm is caught for 6 rounds (and immobile) and foe stunned 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Attack yields weak hold around foe's chest.  Foe is at -30 for 3 rounds.  You have initiative 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Attack results in slipping grip around foe's waist.  Foe is at -50 for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Attack produces hold around leg. Grip is slipping but foe stunned 3 rounds.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Grasp around foe's chest.  Foe is stunned and unable to parry for 1 round and is at -20  the following 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Grasp around leg knocks foe down.  Tight grip.  Foe is prone and immobile 2 rounds. +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Entangle leg.  Foe is stunned for 2 rounds and unable to parry next round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Attack yields loose hold around foe's midsection.  Foe is stunned and unable to parry 1 round and is at -70 the following 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Entangle foe's weapon arm.  Foe hangs onto weapon but the arm is immobilized.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Entangle foe's leg.  Foe is knocked down stunned and unable to parry 2 rounds and disarmed. Fall breaks non-weapon arm.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Tie up both of foe's arms so they are immobile.  Foe is stunned for 9 round and cannot fight.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Entangle and completely immobilize foe's legs.  Foe falls and is left stunned and unable to parry for 30 rounds.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Grapple foe's neck.  If foe has neck armor he is left disarmed and stunned and unable to parry 3 rounds.  If not he dies in 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Grapple foe's head.  If foe has neck armor he is left disarmed and stunned and unable to parry 3 rounds.  If not he dies in 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Glancing attack.  You have the initiative next round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Lame attack but foe must parry next round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Strong passing blow.  Foe is stunned for 1 round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Disjointed attack and a little luck allow foe to escape grasp. Foe is stunned for 1 round.  You have initiative 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Attack to upper leg. Foe is spun about and breaks loose but is stunned and unable to parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Attack produces a hold around foe's leg.  Foe slips away but is stunned 2 rounds and is unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe breaks free of hold around shield arm.  Foe is stunned 2 rounds and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Grasp around foe's leg. Foe is stunned and unable to parry 1 round and is at -25 the following 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Attack fo foe's non-weapon arm.  If foe has arm armor +6 Hits.  If not foe is stunned and unable to parry 3 rounds takes +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Grasp foe around neck and knock him down.  Foe has torn neck muscles is at -20.  Foe is prone and immobile for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Entable weapon arm. Foe is stunned and unable to parry for 2 rounds and at -75% round following.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Entangle foe's leg. Foe is knocked down and stunned and unable to parry for 2 rounds.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Grapple weapon arm. Foe is disarmed and is left stunned for 3 rounds. Torn ligaments and pulled muscle leave foe at -40.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Entangle both of foe's arms and pin them to his chest.  Foe cannot move his arms and has mobility reduced by -75.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Entangle foe's foot. Foe stumbles falls breaks weapon on impact and is stunned 2 rounds. If no chest armor roll &quot;D&quot; crush critical.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Wrap up both of foe's legs. Foe tumbles to ground and is knocked out.  Foe is at -95 due to 2 broken arms and a broken ankle.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Attack results in strangling hold. Foe is unable to break free and dies after 9 rounds of amazingly helpless struggling.  Grim.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Grapple</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Crush foe's windpipe.  Foe dies instantly due to massive shock and savage asphyxiation. Add +25 to your next roll.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

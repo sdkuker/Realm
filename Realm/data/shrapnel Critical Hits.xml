@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>A grazing shot; no extra hits. Your gun just jammed......Sorry</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Just a nick.......for +1.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe may not attack next rnd. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>You gain initiative next rnd. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blow to foot. Foe receives 1 hit per rnd unless armored. +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Glancing shots to back of foe's neck. Foe must parry next rnd at -30. +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Two strikes to foe's collar area. He is knocked back parrying at -20 next rnd. Foe receives 2 hits/rnd and +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Two shots to foe's leg. If armored +4 hits. If not +10 hits. Foe is stunned for next 3 rnds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Hit along wrist. Foe receives 2 hits/rnd. Foe is stunned next rnd. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Strikes to shoulder/collar area. Foe is stunned for 5 rnds and arm is useless. Activity at -30 and foe receives 4 hits per rnd. +55 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blow along neck upper chest and arm. Foe knocked down stunned for 4 rnds. Foe receives 4 hits/rnd. +17 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Tendons in both legs are slashed. Foe is at -50 and is taking 4 hits/rnd. He is out for 2 rnds and stunned for 5 more. Too bad.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe's left side and arm are perforated. Foe is at -40 stunned and unable to parry for 6 rnds. Foe takes 3 hits/rnd and +18 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe pummeled in the side and hit. Immobilized until aided. He takes 6 hits/rnd and +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Hit foe's back and upper leg. He is bloody and knocked 10 feet away. Foe unable to parry for 5 rnds. 6 hits per rnd and +18 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Foe loses one ear and nose is lacerated. Hearing at -50. Stunned for 10 rnds if armored or out 3 hours if not. Foe receives 5 hits/rnd and +23 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Malicious blow to foe's face. He loses nose cheekbone and a part of his skull. Foe is in coma until revived. Receives 4 hits/rnd and +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Hip is destroyed. More importantly the head is messily separated from the shoulders. Bye.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>You shoot off a piece of foe's equipment. +0 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>You have initiative next rnd as foe checks for damage. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Slash foe's side. He must parry next rnd. +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe must parry next rnd at -40 as the metal is too close for comfort. +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Strikes to calf and hand give +7 hits. Foe is at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strike to the back and upper arm. Foe is stunned and unable to parry for 2 rnds. Foe receives 2 hits/rnd and +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe hit in side and upper arm. +10 hits. He is stunned for 3 rnds and takes 5 hits/rnd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Two strikes to the thigh and one to the forearm sadden foe. Foe receives 4 hits/rnd and +11 hits. Foe is stunned 3 rnds and unable to parry. He is at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blows along forearm and opposite shoulder. Arms less than useless. Foe receives 4 hits/rnd and 12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Elbow shattered with forearm left dangling. Foe receives 6 hits/rnd as foe sees this and passes out. +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Neck and arm strikes cause 6 hits/rnd and +14 hits. Foe at -20 and stunned for 5 rnds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Foe's leg riddled. He is at -50 with 4 hits/rnd and also stunned for 5 rnds. +17 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe's left arm takes multiple lacerations. Receives 3 hits/rnd and operates at -40. Foe is stunned next rnd and cannot parry. +18 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Strikes to the side and leg. Foe experiences 9 hits/rnd for bleeding. Stunned and unable to parry for 5 rnds before passing out from shock. +21 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strikes blow away ear and pierce hip. Foe at -30 cannot parry for 2 rnds stunned for 6 rnds and takes 8 hits/rnd. +27 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Impact to middle and upper back and back of head. If unarmored foe dies; otherwise he is stunned for 10 rnds. Takes 8 hits per rnd and +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe brutalized in strikes to the side cheek neck and brain. Foe dies in 2 prone rnds. Add 10 to your next attack. +35 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Poor sucker is without the lower half of his body and has a hole where his eye was to boot. It was quick. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Hit foe's weapon destroying it and breaking one of foe's fingers. +2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Foe stunned next rnd. +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Hit foe's side in poorly aimed fire. +9 hits. You have the initiative.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Blows to the sides cause foe to parry for 2 rnds. +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>You shatter one of foe's ribs. Foe is stunned for 2 rnds takes 2 hits/rnd and is knocked on his back. +11 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Strike foe's knee and calf. Foe receives 4 hits/rnd and foe ist at -40. +12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strike across foe's back and buttocks ---- ouch. He takes 2 hits/rnd and is stunned for 3 rnds. +13 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe staggers and parries for 3 rnds after receiving minor wounds to the chest and groin. Foe receives 3 hits/rnd and +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe stunned for 5 rnds by strikes to the calf and thigh of both legs. He is down and taking 5 hits/rnd and is at -50. +16 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe drops possessions after being struck in teh arms. Foe takes +17 hits stunned 5 rnds -25 on actions and bleeds. Receives 6 hits/rnd. Give up.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>You cut foe down at the knees. Foe is immobilized and at -100. Receives 10 hits/rnd and foe is stunned for 12 rnds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Multiple strikes along the upper body. Foe is stunned for 8 rnds and cannot parry for 4 rnds. Receives 2 hits/rnd and +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Leg muscles and tendons slashed by strikes to calf and thigh. Foe stunned and unable to parry for 8 rnds takes 5 hits/rnd and is at -75. +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blows to both arms and chest break several indigenous bones. Foe is stunned for 12 rnds takes 8 hits/rnd and is unable to parry. +27 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Several side and back wounds cause foe to parry in a stunned state for the next 13 rnds. Foe takes 9 hits/rnd and +28 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe knocked down. Strikes kill an unarmoured foe. Otherwise he is stunned unable to parry for 12 rnds receiving 9 hits/rnd. +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Foe makes an excellent ventilator with holes in the leg side and chest. He expires in 1 rnd. +32 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe knocked back 15 feet without an arm and gashes in the neck. He is paralyzed by a broken spine and dies in 8 rnds. +35 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe takes strikes to the chest and face. Lungs fill with blood making breathing difficult. Poor fool expries in 3 messy rnds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Foe is staggered by your effort. He is stunned next rnd. +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Foe impressed with your hail of fire is stunned for 2 rnds. +7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Solid hit to shoulder balde. Foe is stunned for 4 rnds and is unable to parry for 2 rnds. He takes 2 hits/rnd. +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe takes 3 side strikes. He is stunned for 6 rnds and bleeds taking 4 hits/rnd. +11 hits. Add 10 to your next action.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe hit in hip and along both sides. He is stunned and unable to parry for 4 rnds is at -45 and takes 2 hits/rnd. +13 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Foe doubles over with hits to the shin thigh and groin. He receives 5 hits/rnd is prone for 4 rnds and permanently sterile. +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strikes to lower back paralyze foe's legs. he is down (at -80 to all action) and taking 4 hits/rnd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Major wounds to foe's chest. He is stunned and unable to parry for 3 rnds. He takes 5 hits/rnd. +19 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>You lacerate foe's thigh and shatter a hip joint. He is in a week long coma taking 5 hits/rnd. +22 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe loes hand and arm is severly mangled. He is unable to parry for 5 rnds and is stunned for 20 rnds. Receives 6 hits/rnd. +24 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>The side of foe's head springs 3 leaks. Too late to call a plumber; he's dead. Very gory.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Shoulder is smashed. Foe spins back 10 feet. He is stunned and unable to parry for 7 rnds. Arm is useless. Receives 6 hits/rnd. +26 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Hits in the shin knee hip and side down foe in a convulsive heap. He is down for 24 rnds and at -90. He takes 8 hits/rnd. +27 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strike destroys foe's weapon and neatly separates his arm from his bod. Foe is in shock and prone taking 8 hits/rnd. +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Severe blows to foe's side and abdomen. Foe is stunned and unable to parry for 5 rnds. He is taking 10 hits/rnd and is at -95. +32 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Sent spinning foe is struck in the spine the kidneys and he loses a hand. This one is history in one rnd. +33 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Several strikes take out the liver spleen and intestines. Poor slob fights for one messy rnd then drops. +34 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>A classic example of unanesthetized surgery. You remove a plethora of vital organs. A bit sloppy. Foe is out and dies in 3 rnds. +35 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe hit in the heart and brain for a prompt demise. Good shot. Add +20 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Foe urinates in fear. +7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>You have initiative for the next 3 rnds. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe fumbles weapon and is unable to parry when he is stunned next rnd. +12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Grazing head strkes stun foe for 3 rnds. He takes 2 hits/rnd. +13 hits. Add 25 to next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Several ribs shatter in blancing blows. Foe takes 2 hits/rnd and is stunned for 2 rnds with no parry. +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Arm and leg strike. If armoured foe takes +12 hits. If not he takes +17 hits and is bleeding at 4 hits/rnd is at -40 stunned for 10 rnds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Multiple back blows send foe flying 10 feet. Unable to parry foe is stunned for 12 rnds. He takes 6 hits/rnd and is at -70. +19 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe knocked back with chest strikes. Aorta damage causes 20 hits/rnd. Lung lacerations will suffocate foe in 4 rnds. He is prone meanwhile. +21 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Both thighs and groin very severely slashed. Foe takes 10 hits/rnd is down and stunned for 20 rnds. +23 hits. Embarrassing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>You deliver ugly wounds to foe's arms and shoulders. Limbs are useless. Foe is at -60 stunned and unable to parry for 5 rnds. +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>You expose foe's chest cavity appropriate for pre med anatomy course. He is dead. + 15 to your next action.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Muscles and tendons in foe's arm and leg are torn beyond recognition. He takes 12 hits/rnd and is down for 20 rnds. +28 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Foe loses both legs to your razing assault. He is in shock taking 14 hits/rnd and will die anyway in 6 rnds. +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Bone splintered from one shoulder to the other. Additonal thigh wound. Foe is prone taking 14 hits/rnd and equipment is destroyed. +32 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Witless loser charges you as you sever his spine hand and lacerate the side of this head. He falls in a helap quite lifeless.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Disemboweling stream of metal pummels foe's leg abdomen and chest. He lapses into unconsciousness before dying in 4 rnds. +35 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Spinal shot induces a bizarre twist. Arteries in chest and arm also severed. Foe is paralyzed and dies in 3 rnds. +40 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>A steady stream nails the sucker in brain neck heart abdomen and groin. Your allies within 50 feet ad +10 to their next attacks. You are out of ammunition.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Shrapnel</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe bursts into a bloody pulp. Yuck.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

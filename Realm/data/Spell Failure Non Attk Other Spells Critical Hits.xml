@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>You stumble across the incantation and delay the casting of the spell for one round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>You cannot remember the final words for the spell. Lose the spell but not the spell points.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>Your head pounds. You have to stop casting (you lose the spell, but not the spell points). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>A momentary mental lapse causes you to forget your place in the spell. You lose the spell points but not the spell points. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>While casting, you notice that shadows are beginning to move. You immediately stop casting (lose the spell and 1 spell point.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>A muscle cramp in your jaw causes your spell to fail. Lose the spell and half the normal spell points (rounded up). You are stunned for one round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>You are seeing stars. You must cancel the spell. Lose the spell and half the normal spell points (rounded up). You are stunned for one round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>You internalize the spell. You take 2d10 hits and are stunned for 2d10 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>125</Maximum>
+            </RollValues>
+            <Description>The spell strays to points unknown. You are stunned for threee rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>126</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>For some reason the spell does not work. You are stunned for four ronds while you try and figure it out. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>You have been working too hard. The spell misfires badly. You take 1d10 hits and are stunned for 1 d10 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>185</Maximum>
+            </RollValues>
+            <Description>The spell misfires in your head. Take 2d10 hits while you are knocked down. You are unable to function for one hour. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>186</Minimum>
+                <Maximum>191</Maximum>
+            </RollValues>
+            <Description>Severe power feedback knocks you down. Take 1d10 hits and an 'A' Impact critical. You are unable to function for 1d10 hours. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>192</Minimum>
+                <Maximum>195</Maximum>
+            </RollValues>
+            <Description>You have just acquired a nervous disorder (GM's discretion). You lose all spell casting ability for 1d10 weeks. You slam yourself into the nearest solid object (take 5d10 hits)and knock yourself out for 12 hours. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>196</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>You suffer a mild stroke. Take 20 hits and lose all spell casting ability for two weeks. In addition you will have a -50 penalty for 1d10 days. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>You internalize the spell. Take 4d10 hits and you are knocked out for 2d10 hours. You have lost all spell casting ability for 1d10 weeks. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>300</Maximum>
+            </RollValues>
+            <Description>You now suffer from a nervous disorder(GM's discretion). You are stunned for 2d10 rounds and can no longer cast this spell. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Other</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>301</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>You suffer a severe stroke. You drop into a coma dor 1d10 months.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

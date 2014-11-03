@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Your targets grace distracts you. You lose the spell and one power point. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>You remember a childhood incident that was traumatizing. You lose the spell but not the spell points. Operate at -10 for five rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>The magic blurs your vision. You lose the spell and half the number of spell points rounded up. Stunned for 1 round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>The planets are not aligned correctly! Your spell has absolutely no effect and you lose the spell points. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Your target must be blessed! Your spell has no effect and you lose double the normal number of spell points.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Power backlash! The spell fails entirely. You are stunned for 8 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>The target's will is stronger than yours! You collapse on the ground taking 1d10 hits and are stunned for 9 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>The spell internalizes. You take 4d10 hits and are knocked unconscious for 12 hours. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>125</Maximum>
+            </RollValues>
+            <Description>The spell affects a random target to the right of the intended target. You are stunned for 1 round and take 1d10 hits from the mental strain. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>126</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>You lose control and the spell hits a target to the left of the intended target. Make another attack against a random target within range. You are stunned for 1 round and take 1d10 hits from the wild attack. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>The spell affects a random victim that can be anywhere within 500'. The power backlash short circuits your brain. Take 25 hits and you are unable to function for 1d10 hours. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>185</Maximum>
+            </RollValues>
+            <Description>The spell lodges in your head. You suffer brain damage and operate at -75% modification for 1d10 months or until brain is repaired. You lose all spell casting ability for 1 week. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>186</Minimum>
+                <Maximum>191</Maximum>
+            </RollValues>
+            <Description>The spell misfires and internalizes inside your head. Take 35 hits. You lose spell casting abiltiy for 1d10 weeks. There is a 40% chance of falling into a 1d10 day coma. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>192</Minimum>
+                <Maximum>195</Maximum>
+            </RollValues>
+            <Description>You suffer a masssive stroke! Take 10d10 hits and fall into a month-long coma. At the end of the coma you will seem fine but will die 1d10 hours later. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>196</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>The spell completely short circuits your nervous system. You are paralyzed from the waist down 1d10 years. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>The spell completely internalizes. You lose all spell casting ability for 1d10 weeks and will be in a coma 1d10 weeks. Take 8d10 hits. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>300</Maximum>
+            </RollValues>
+            <Description>Severe nervous disorder causes you to lose all your spell casting avbility for 1d10 months. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Force Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>301</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Massive internalization of spell. Instant brain death.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

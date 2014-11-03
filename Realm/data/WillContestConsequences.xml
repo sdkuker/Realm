@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:WillContestConsequenceLibrary
+	xmlns:tns="http://com.sdk.realm/RealmWillContestConsequencesDefinitionV0.0.0.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://com.sdk.realm/RealmWillContestConsequencesDefinitionV0.0.0.1 ../src/main/resources/WillContestConsequenceDefinition.xsd ">
+	<tns:WillContestConsequenceCollection>
+		<tns:WillContestConsequence>
+			<tns:Description>Character Masters Item: Item is completely under the control of the character. Character gains a permanent +25 bonus for all future Will Contests with this item. The GM may allow the item to initiate weekly or monthly Will Contests to attempt to regain control (the character gets an additional +25 bonus during these contests).
+			</tns:Description>
+			<tns:PermanentBonus>-25</tns:PermanentBonus>
+			<tns:RollValues>
+				<tns:Minimum>-67</tns:Minimum>
+				<tns:Maximum>-1000</tns:Maximum>
+			</tns:RollValues>
+			<tns:TemporaryBonus>0</tns:TemporaryBonus>
+			<tns:DurationInRoundsOfTemporaryBounus>0</tns:DurationInRoundsOfTemporaryBounus>
+		</tns:WillContestConsequence>
+		<tns:WillContestConsequence>
+			<tns:Description>Character In Control:  The item is under control of the character. The control is not absolute, however, and the item may initiate another Will Contest under certain circumstances (GM discretion). The next time a Will Contest occurs between this item and this character, the character gets an additional +25 bonus.
+			</tns:Description>
+			<tns:PermanentBonus>0</tns:PermanentBonus>
+			<tns:RollValues>
+				<tns:Minimum>-149</tns:Minimum>
+				<tns:Maximum>-66</tns:Maximum>
+			</tns:RollValues>
+			<tns:TemporaryBonus>-25</tns:TemporaryBonus>
+			<tns:DurationInRoundsOfTemporaryBounus>1</tns:DurationInRoundsOfTemporaryBounus>
+		</tns:WillContestConsequence>
+		<tns:WillContestConsequence>
+			<tns:Description>Item Struggling: The item makes a strong effort to resist, but it is under control of the character. The item may initiate another Will Contest immediately the next round with an additional +25 bonus to its roll.
+			</tns:Description>
+			<tns:PermanentBonus>0</tns:PermanentBonus>
+			<tns:RollValues>
+				<tns:Minimum>-65</tns:Minimum>
+				<tns:Maximum>-51</tns:Maximum>
+			</tns:RollValues>
+			<tns:TemporaryBonus>-25</tns:TemporaryBonus>
+			<tns:DurationInRoundsOfTemporaryBounus>1</tns:DurationInRoundsOfTemporaryBounus>
+		</tns:WillContestConsequence>
+		<tns:WillContestConsequence>
+			<tns:Description>Character Gains: Character is gaining influence over the item; for the moment the character may wield the item, as he desires. During the next Will Contest, the character gets an additional +25 bonus.
+			</tns:Description>
+			<tns:PermanentBonus>0</tns:PermanentBonus>
+			<tns:RollValues>
+				<tns:Minimum>-50</tns:Minimum>
+				<tns:Maximum>-26</tns:Maximum>
+			</tns:RollValues>
+			<tns:TemporaryBonus>-25</tns:TemporaryBonus>
+			<tns:DurationInRoundsOfTemporaryBounus>1</tns:DurationInRoundsOfTemporaryBounus>
+		</tns:WillContestConsequence>
+		<tns:WillContestConsequence>
+			<tns:Description>Contest in Question: The struggle is still undecided, and for the moment the character may wield the item, as he desires. The character might not even be aware that the contest took place.
+			</tns:Description>
+			<tns:PermanentBonus>0</tns:PermanentBonus>
+			<tns:RollValues>
+				<tns:Minimum>-25</tns:Minimum>
+				<tns:Maximum>25</tns:Maximum>
+			</tns:RollValues>
+			<tns:TemporaryBonus>0</tns:TemporaryBonus>
+			<tns:DurationInRoundsOfTemporaryBounus>0</tns:DurationInRoundsOfTemporaryBounus>
+		</tns:WillContestConsequence>
+		<tns:WillContestConsequence>
+			<tns:Description>Item Gains: Item is gaining influence over the character; he feels strongly inclined to obey the item's wishes. During the next Will contest, the item gets an additional +25 bonus.
+			</tns:Description>
+			<tns:PermanentBonus>0</tns:PermanentBonus>
+			<tns:RollValues>
+				<tns:Minimum>26</tns:Minimum>
+				<tns:Maximum>50</tns:Maximum>
+			</tns:RollValues>
+			<tns:TemporaryBonus>25</tns:TemporaryBonus>
+			<tns:DurationInRoundsOfTemporaryBounus>1</tns:DurationInRoundsOfTemporaryBounus>
+		</tns:WillContestConsequence>
+		<tns:WillContestConsequence>
+			<tns:Description>Character Struggling:  Character makes a valiant effort to resist, but he is under control of the item and will pursue its purposes and alignment. He may initiate another Will Contest immediately the next round with an additional +25 bonus to his roll.
+			</tns:Description>
+			<tns:PermanentBonus>0</tns:PermanentBonus>
+			<tns:RollValues>
+				<tns:Minimum>51</tns:Minimum>
+				<tns:Maximum>65</tns:Maximum>
+			</tns:RollValues>
+			<tns:TemporaryBonus>0</tns:TemporaryBonus>
+			<tns:DurationInRoundsOfTemporaryBounus>0</tns:DurationInRoundsOfTemporaryBounus>
+		</tns:WillContestConsequence>
+		<tns:WillContestConsequence>
+			<tns:Description>Item in Control: The character is under the control of the item and will pursue its purposes and alignment. the control is not absolute, however, and the character may initiate another Will Contest under certain circumstances (GM discretion): being separated from the item, causing the death or hurt to someone important to the character, etc. It should be noted that a controlled answer would not usually voluntarily be separated from the item. The next time a Will Contest occurs between this item and this character, the item gets an additional +25 bonus.
+			</tns:Description>
+			<tns:PermanentBonus>0</tns:PermanentBonus>
+			<tns:RollValues>
+				<tns:Minimum>66</tns:Minimum>
+				<tns:Maximum>149</tns:Maximum>
+			</tns:RollValues>
+			<tns:TemporaryBonus>0</tns:TemporaryBonus>
+			<tns:DurationInRoundsOfTemporaryBounus>0</tns:DurationInRoundsOfTemporaryBounus>
+		</tns:WillContestConsequence>
+		<tns:WillContestConsequence>
+			<tns:Description>Item Masters Character: Character is completely under the sway of the item and will pursue both its alignment and purpose. Permanent +25 bonus for the item in all future Will Contests with this character. If the item is separated from the character, the character will desperately seek to get it back; at the GM's discretion, gradual successful RR's can reduce and eventually eliminate this urge (but unsuccessful RR's will intensify the urge). The GM may allow the character to initiate daily, weekly, or monthly Will Contests to attempt to regain control of himself (the item gets an additional +25 bonus during these contests).
+			</tns:Description>
+			<tns:PermanentBonus>25</tns:PermanentBonus>
+			<tns:RollValues>
+				<tns:Minimum>150</tns:Minimum>
+				<tns:Maximum>10000</tns:Maximum>
+			</tns:RollValues>
+			<tns:TemporaryBonus>0</tns:TemporaryBonus>
+			<tns:DurationInRoundsOfTemporaryBounus>0</tns:DurationInRoundsOfTemporaryBounus>
+		</tns:WillContestConsequence>
+	</tns:WillContestConsequenceCollection>
+</tns:WillContestConsequenceLibrary>

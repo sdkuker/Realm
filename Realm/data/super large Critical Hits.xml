@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+10 hits- but your weapon breaks in half. Shoddy workmanship. Probrably not Dwarven.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>+20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>+15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Blow severs vein and artery. Foe is stunned for 12 rounds; drops then dies. Awesome.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blow shatters bone. +30 hits and 10 hits per round due to compund fracture. Foe is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Light wound. +12 hits. Foe bleeds at 1 hit per round. Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Blow cuts muscle and causes light wound. +20 hits. Foe is at -20 and takes 5 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Blow cuts tendons. +15 hits and foe fights -25. Add +20 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Blow shatters bone. +35 hits. Foe takes 10 hits per round; is stunned 2 rounds; and fights at -30.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Melee</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Foe is blinded. +20 hits and foe fights at -100. Foe is stunned and unable to parry (par-tay) for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+10 hits but you drop your weapon and it will take 2 rounds to get it back. Bum luck buddy.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blow gives foe light wound. +12 hits. Foe takes 3 hits for round and fights -10. Your weapon breaks.Not your typical '66' Crit is it! If this occurs to one of Dans characters then he is dead instantly. (See S. Kuker for details.)</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>+20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Massive blow to neck crushes bone and breaks spine. Foe dies in 1 round but drops instantly. Add +25 to next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike foe in leg and sever vein. +25 hits. Foe drops in 2 rounds and dies. Foe can fight in the interim.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Light wound. +13 hits and foe must parry next round. Foe takes 2 hits per round. Add +20 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Blow stuns foe for 1 round and foe is unable to parry. +25 hits. Foe is at -20 and is quite upset.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Knock foe down. +20 hits. Foe is down for 2 rounds and unable to parry. Add +25 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Heavy wound. +35 hits and foe is stunned for 3 rounds unable to parry. Foe fights at -40 and takes 10 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Projectile</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Strike through foe's eye. You kill foe instantly. Add +20 to your next swing. 20% chance your weapon is stuck in foe for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+10 hits but you fumble your weapon for remainder of round. You are stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blow gives foe light wound. +15 hits. Foe takes 5 hits per round; fights -10 and yields initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Light wound. +12 hits. Foe takes 4 hits per round and you have the initiative next 2 rounds. Add +10 next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Blow to lower skull area kills foe instantly. Foe staggers for 1 round before dropping. Add +20 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Crush bones in foe's neck. 50% chance foe is paralyzed from neck down. 50% chance that foe is killed. You have half round left to act.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Hard blow. +30 hits. Foe is stunned for 3 rounds and is unable to parry during next round. Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Knock foe down. +25 hits. Foe is down and unable to parry for next 2 rounds. Add +10 to your next swing. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Heavy wound. +28 hits and foe is at -40. Foe is unable to parry and stunned for next 3 rounds. Foe takes 10 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Vicious blow to foe's leg. Foe takes 12 hits per round and fights at -50. Foe is stunned and unable to parry for 6 rounds. +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Energy</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Awe inspiring strike drives bone through both lungs. Foe takes 100 hits &amp; falls in a coma; and dies in 18 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+10 hits; but you fumble your weapon for remainder of round. You must parry next round... at -5.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+18 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Heavy wound. +20 hits. Foe is stunned and unable to parry next round. Foe fights -15 and takes 10 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Light wound. +13 hits. Foe takes 5 hits per round; fights -10 and yields the initiative. Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Light wound. +12 hits. Foe takes 4 hits per round and must parry next round. Add +20 to your next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Hard blow. +25 hits. Foe is stunned for 2 rounds and is unable to parry next round. Foe takes 3 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>You cut foe's skull in half. Weapon is stuck in carnage for 6 rounds. Add +10 to all friendly swings for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike through heart kills foe. +20 hits. 25% chance foe falls on you out of spite. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Serious compound fracture. +30 hits and foe is stunned &amp; unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Knock foe down with a vicious blow. +40 hits. 50% chance of coma -- 50% chance foe is down and unable to parry for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Strike severs vast number of blood vessels. +25 hits and foe is stunned unable to parry; for 9 rounds. Foe is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Strike through foe's ear. +15 hits. Foe dies of massive brain damage in 3 rounds. Add +20 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Explosives</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Incredible strike severs an artery and vein and breaks foe's spine. Takes +50 hits- falls and dies after 2 rounds of agony. Apparently the song Ebony and Ivory plays continually in foes brain until it expires.....</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+10 hits but you must parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+18 hits. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Strike foe's heart and kill sucker. Add +20 to your next swing you are however; covered with foe's blood. +50 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Heavy blow breaks bones in foe's upper body. +30 hits. Foe is stunned and unable to parry for 2 rounds. Flat strike.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Hard blow. +24 hits and foe fights at -20. Foe is stunned for 3 rounds and unable to parry. Foe takes 5 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Heavy wound. Foe is stunned and unable to parry for 3 rounds. Foe takes 20 hits per round and fights at -25. +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Strike to foe's neck severs a variety of blood vessels and knocks foe down. Foe expires in 3 rounds due to shock. +35 hits. Nice....for a Stone Cold Killer....what would your momma say?.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Strike drives bone through foe's heart. Foe dies instantly- but your weapon is stuck in foe for 12 rounds. +40 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Catch foe between the eyes and shatter the skull. Foe dies instantly. You have a half round to act. Add +25 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Strike foe through leg and sever vein. Foe is stunned and unable to parry for 6 rounds. Foe then dies. +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Awesome blow knocks foe down. Foe breaks back and neck and suffocates in 12 rounds. +25 hits. Add +20 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Strike through foe's eye hits home and rips through brain. +24 hits. Foe drops immediately and dies. Fine blast.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Magnificent abdomenal strike drops foe in a heap. +35 hits and foe dies of shock in 4 rounds. You are stunned next round. Easy Listening version of Ebony and Ivory plays continually for ten seconds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Strike through side kills foe after a chain reaction of broken bones splinter. You are covered with foe's blood. +100 hits. </Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

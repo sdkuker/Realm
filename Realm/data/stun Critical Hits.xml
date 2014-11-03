@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>You might have a chance next round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>No extra damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Weak strike gives +1 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe somewhat dazed. He is stunned next round and is at -10 for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Stun foe for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Mild blow stuns foe for 2 rounds and all maneuvers are at -10 for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe stunned for 2 roudns and must parry at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Your attack stuns foe for 3 rounds. Add +10 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe stunned for 4 rounds. He may not parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Lucky strike shocks foe. He is stunned for 10 rounds and is unable to parry for 5. +7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Foe drops weapon. He is stunned for 5 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Foe unbalanced by your attack. Stunned for 6 rounds and may not maneuver for 3. +1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Shocking blast spins foe. He is stunned for 7 rounds and orientation rolls are at -30 for 10 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe knocked down. He is stunned for 8 rounds and may not parry for 3. +2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe stunned and unable to parry for 9 rounds. Add +15 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Blast disorients foe. He is stunned for 10 rounds and at -25 for one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Stunning blast knocks foe back 3 meters. He falls and is out for 15 rounds. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Impact sends foe into spasms. He is stunned for 20 rounds and is at -40 for 3 hours. Foe has whiplash.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Foe shrugs off attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe operates at -10 for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is stunned and must parry at -20 next round. +1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Weak impact sees foe stunned for the next 2 rounds but little else.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Foe stunned for 3 rounds and must parry at -20 next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Unspectacular strike stuns foe for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe knocked to his knees and stunned 5 rounds. He is at -30 to maneuvers next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe stunned 6 rounds. +3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Stunning blast immobilizes foe's arms for 7 rounds. He is stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Impact throws foe back 3 meters. He is stunned and unable to parry for 15 rounds. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Foe dazed. He drops his hand-held equipment and stares glassy-eyed for 8 rounds. No activity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Foe knocked over and stunned for 9 rounds. Numb legs prevent him from standing again for 10 rounds. +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Muscle lock. Foe may not move for 10 rounds. Unlucky; isn't he.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe stunned for 11 rounds and may not parry for 3. Add +10 to your next action.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe knocked onto his back and is immobiliezed for 12 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Impact frazzles foe's brain. He is stunned for 15 rounds and is at -20 for one day.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe rocked by strike. He falls prone for 20 rounds and takes 1 hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe knocked out for 24 rounds and is at -50 for 6 hours after he comes around.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Foe is lucky this time.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Foe stunned for 1 round. Big deal.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Stun foe for 2 rounds and he is at -20 for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Modertely discouraging attack stuns foe 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Forceful impact stuns foe 4 rounds during which he must parry at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Glancing strike spins foe. He is stunned and unable to parry for 5 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Foe stunned 6 rounds. Lingering disorientation puts him at -10 for 1 hour. +3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Stunning blast causes minor cellular disruption. Foe stunned and at -30 for 7 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe stunned for 8 rounds and is at -20 for 12 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blast overloads foe's neurons momentarily. He is stunned; blinded and unable to parry for 9 rounds. +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Forceful attack drops foe for 20 rounds. He is inert and quite helpless. +13 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Scrambling burst leaves foe drooling. He is stunned and unable to parry for 10 rounds. A pathetic sight.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blast knocks foe down. He is stunned and parries at -50 for 11 rounds. Add +15 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe swallows own tongue. He is stunned 12 rounds and is at -40 for 15 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Staggering blast. Foe stunned and unable to parry for 3 rounds; then falls prone for an additional 10 rounds. +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Cruel blow stuns foe 14 rounds. He is at -20 for 5 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Confusing blast leaves foe cross-eyed. He is stunned 18 rounds and perceives at -50 for 1 day.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe knocked prone for 24 rounds and then slips into a 10 day coma.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Brutal attack leaves foe stunned and unable to parry for 30 round.s He is then at -40 for 25 hours. +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Foe stunned for 1 round and is at -20 for 2 rounds thereafter.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Attack leaves foe stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is stunned 5 rounds and loses the use of an arm for 24 rounds. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Blast paralyzes foe from waist down for 7 rounds. If standing he falls over and takes 5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Foe stunned for 8 long rounds. Add +20 to your next two attacks against this opponent.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Attack leaves foe stunned and unable to parry for 9 rounds. +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe gasps for air. He is stunned. 10 rounds while parrying at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe is incapacitated by attack. He is out for 11 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe drops to the ground and is left writhing in spasms. He is stunned and unable to parry for 12 rounds. +7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe snaps rigid and falls over breaking an arm in the process. He is out for 24 rounds and at -40 for 2 days thereafter. +18 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Foe collapses into a jiggling; mushy heap after scattering his equipment. He is out for 13 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike spins foe. He is stunned and at -40 to orientation attempts for 14 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strike leaves neurons misfiring for quite some time. Foe is stunned 15 rounds and is at -50 for 20 hours. Sad but true.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blast leaves one side of foe's body paralyzed for 16 rnds. He is at -70.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe drops motionless for 17 rounds though he retains all of his senses. +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Foe wishes he were somewhere else. He is stunned and unable to parry for 18 brutal rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe is left a babbling idiot for 3 days after the attack. He is quite incapable of defending himself.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Direct hit leaves foe totally spazed-out. He is stunned and unable to parry for 50 rounds. +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Foe stunned 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Blow leaves foe stunned and unable to parry for 3 rounds. Add +10 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Malignant damage stuns foe for 5 rounds and puts him at -10 for 2 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe loses the use of his legs for 3 days. He is stunned for 8 rounds. +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe stunned and loses control of neck muscles for 12 rounds. Head flops about at random.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Foe staggers off in a random direction for 16 rounds not at all sure of what's going on.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 20 rounds and he is unable to parry for 10. Add +20 to your next attack against this opponent.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe dazed for 24 rounds. He is incapable of taking any action. Poor fool.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blast knocks foe down. He is out for 28 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe falls on his face. He is stunned and unable to parry for 32 rounds. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe falls sending himself into a coma for 20 days. When he comes to he will be at -30 for an additional 20 days. +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Foe falls on top of his own equipment causing random malfunctions. He is out for 36 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Control of arms and legs is lost temporarily. Foe drops prone for 40 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 45 rounds and is at -50 for 2 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Disrupting strike causes foe's heart to sieze up. He drops. Unless tending to foe will die in 10 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe sent into coma for 30 days and incapable of subconscious activity. +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Motor control sporadic. Foe is stunned and unable to parry for an incredible 25 hours. Very sad.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Blow sends foe reeling. He collapses 6 meters away not to regain consciousness for 30 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Stun</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Sadly foe dies next round due to massive nerve failure.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

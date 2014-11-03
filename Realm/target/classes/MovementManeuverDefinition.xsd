@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://com.sdk.realm/RealmMovementManeuverDefinitionV0.0.0.1" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://com.sdk.realm/RealmMovementManeuverDefinitionV0.0.0.1"   xmlns:jaxb="http://java.sun.com/xml/ns/jaxb"
+  jaxb:version="1.0"
+  xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
+  jaxb:extensionBindingPrefixes="xjc">
+  <annotation>
+    <appinfo>
+      <jaxb:globalBindings>
+        <xjc:simple />
+      </jaxb:globalBindings>
+    </appinfo>
+  </annotation>
+
+<!-- remember you added the xjc stuff to get the @XmlRootElement annotation to appear in the root class. -->
+
+    <element name="MovementManeuverLibrary" type="tns:MovementManeuverLibraryType">
+    	<annotation>
+    		<documentation>
+    			This is the root element of the document. It contains the
+    			list of movement maneuvers as well as any other data about
+    			those maneuvers.
+    		</documentation>
+    	</annotation></element>
+
+    <complexType name="MovementManeuverLibraryType">
+    	<sequence>
+    		<element name="MovementManeuverCollection" type="tns:MovementManeuverCollectionType" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="MovementManeuverCollectionType">
+    	<sequence>
+    		<element name="MovementManeuver" type="tns:MovementManeuverType" minOccurs="0" maxOccurs="unbounded"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="MovementManeuverType">
+        <annotation>
+        	<documentation>
+        		This is a definition of the severity of the maneuver.
+        	</documentation>
+        </annotation>
+        <sequence>
+
+
+        	<element name="RollValues" type="tns:DiceRollRangeType"
+        		minOccurs="1" maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				Defines the values of the rolls that must be
+        				rolled for the maneuver to be selected. Note that
+        				these values are unique within a type and
+        				severity combination.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="TrivialManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="RoutineManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="EasyManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="LightManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="MediumManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="HardManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="VeryHardManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="ExtremelyHardManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="SheerFollyManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="AbsurdManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="InsaneManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+         	<element name="PhenomenalManeuverResult" type="string"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="VirtuallyImpossibleManeuverResult"
+        		type="string" minOccurs="1" maxOccurs="1">
+        	</element>
+        </sequence>
+    </complexType>
+
+    <complexType name="DiceRollRangeType">
+    	<annotation>
+    		<documentation>
+    			I am a range of numbers on a dice roll.
+    		</documentation>
+    	</annotation>
+    	<sequence>
+    		<element name="Minimum" type="int" minOccurs="1"
+    			maxOccurs="1">
+    			<annotation>
+    				<documentation>
+    					This is the minimum roll required to be within
+    					my range. This is an inclusive value i.e. if the
+    					minimum value is 35 and a roll is 35 it falls
+    					inside this range.
+    				</documentation>
+    			</annotation>
+    		</element>
+    		<element name="Maximum" type="int" minOccurs="1" maxOccurs="1">
+    			<annotation>
+    				<documentation>
+    					This is the maximum roll required to be within
+    					my range. This is an inclusive value i.e. if the
+    					maximum value is 56and a roll is 56it falls
+    					inside this range.
+    				</documentation>
+    			</annotation></element>
+    	</sequence>
+    </complexType>
+
+    <simpleType name="MovementManeuverDifficultyType">
+    	<restriction base="string">
+    		<enumeration value="routine"></enumeration>
+    		<enumeration value="easy"></enumeration>
+    		<enumeration value="light"></enumeration>
+    		<enumeration value="medium"></enumeration>
+    		<enumeration value="hard"></enumeration>
+    		<enumeration value="veryHard"></enumeration>
+    		<enumeration value="extremelyHard"></enumeration>
+    		<enumeration value="sheerFolly"></enumeration>
+    		<enumeration value="absurd"></enumeration>
+    		<enumeration value="trivial"></enumeration>
+    		<enumeration value="insane"></enumeration>
+    		<enumeration value="phenomenal"></enumeration>
+    		<enumeration value="virtuallyImpossible"></enumeration>
+    	</restriction>
+    </simpleType>
+</schema>

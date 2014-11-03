@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://com.sdk.realm/RealmWillContestConsequencesDefinitionV0.0.0.1" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://com.sdk.realm/RealmWillContestConsequencesDefinitionV0.0.0.1">
+    <annotation>
+    	<documentation>
+    		This schema defines the critical hits used in the
+    		application.
+    	</documentation>
+    </annotation>
+
+    <element name="WillContestLibrary" type="tns:WillContestLibraryType">
+    	<annotation>
+    		<documentation>
+    			This is the root element of the document. It cotains the
+    			list of critical hits as well as any other data about
+    			those hits.
+    		</documentation>
+    	</annotation></element>
+
+    <complexType name="WillContestLibraryType">
+    	<sequence>
+    		<element name="WillContestCollection" type="tns:WillContestCollectionType" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="WillContestCollectionType">
+    	<sequence>
+    		<element name="WillContest" type="tns:WillContestType" minOccurs="0" maxOccurs="unbounded"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="WillContestType">
+        <annotation>
+        	<documentation>
+        		This is a definition of the severity of the hit. The
+        		severity increases as the letters progress in the
+        		alphabet.
+        	</documentation>
+        </annotation>
+        <sequence>
+        	<element name="Id" minOccurs="1" maxOccurs="1" type="int">
+        		<annotation>
+        			<documentation>
+        				This is a general description of a group of
+        				hits. It describes some rough characteristic
+        				that they all share. This is the highest level
+        				of grouping for a collection of critical hits.
+        			</documentation>
+        		</annotation>
+
+        	</element>
+        	<element name="ContestantOne" minOccurs="1" maxOccurs="1"
+        		type="tns:WillContestantType">
+        		<annotation>
+        			<documentation>
+        				This is the severity of the critical hit. As the
+        				values increase through the alphabet, the
+        				critical hit becomes more severe. This is the
+        				secord highest level of goruping of hits.
+        			</documentation>
+        		</annotation>
+
+        	</element>
+        	<element name="ContestantTwo" type="tns:WillContestantType"
+        		minOccurs="1" maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				Defines the values of the rolls that must be
+        				rolled for the hit to be selected. Note that
+        				these values are unique within a type and
+        				severity combination.
+        			</documentation>
+        		</annotation>
+        	</element>
+
+
+        	<element name="Rounds" type="tns:WillContestRoundCollectionType" minOccurs="1" maxOccurs="1"></element>
+        </sequence>
+    </complexType>
+
+    <complexType name="DiceRollRangeType">
+    	<annotation>
+    		<documentation>
+    			I am a range of numbers on a dice roll.
+    		</documentation>
+    	</annotation>
+    	<sequence>
+    		<element name="Minimum" type="int" minOccurs="1"
+    			maxOccurs="1">
+    			<annotation>
+    				<documentation>
+    					This is the minimum roll required to be within
+    					my range. This is an inclusive value i.e. if the
+    					minimum value is 35 and a roll is 35 it falls
+    					inside this range.
+    				</documentation>
+    			</annotation>
+    		</element>
+    		<element name="Maximum" type="int" minOccurs="1" maxOccurs="1">
+    			<annotation>
+    				<documentation>
+    					This is the maximum roll required to be within
+    					my range. This is an inclusive value i.e. if the
+    					maximum value is 56and a roll is 56it falls
+    					inside this range.
+    				</documentation>
+    			</annotation></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="WillContestantType">
+    	<sequence>
+    		<element name="Id" type="string"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="WillContestRoundType">
+    	<sequence>
+    		<element name="RoundNumber" type="int" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="ContestantOneTotalWill" type="int"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="ContestantTwoTotalWill" type="int"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="ConsequenceValue" type="int" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="ConsequenceDescription" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="ContestantOnePermanentModifier" type="int"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="ContestantOneTemporarytModifier" type="int"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element
+    			name="ContestantOneTemporaryModifierExpirationRound" type="int"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="Id" type="int" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="WillContestRoundCollectionType">
+    	<sequence>
+    		<element name="WillContestRound" type="tns:WillContestRoundType" minOccurs="0" maxOccurs="unbounded"></element>
+    	</sequence>
+    </complexType>
+</schema>

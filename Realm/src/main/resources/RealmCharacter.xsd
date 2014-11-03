@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://com.sdk.realm/RealmCharacter-v0.0.0.1" 
+	elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema" 
+	xmlns:tns="http://com.sdk.realm/RealmCharacter-v0.0.0.1">
+    <annotation>
+    	<documentation>
+    		This schema defines the critical hits used in the
+    		application.
+    	</documentation>
+    </annotation>
+
+    <element name="CharacterLibrary" type="tns:CharacterLibraryType">
+    	<annotation>
+    		<documentation>
+    			This is the root element of the document. It cotains the
+    			list of critical hits as well as any other data about
+    			those hits.
+    		</documentation>
+    	</annotation></element>
+
+    <complexType name="CharacterLibraryType">
+    	<sequence>
+    		<element name="CharacterCollection" type="tns:CharacterCollectionType" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="CharacterCollectionType">
+    	<sequence>
+    		<element name="Character" type="tns:CharacterType" minOccurs="0" maxOccurs="unbounded"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="CharacterType">
+        <annotation>
+        	<documentation>
+        		This is a definition of the severity of the hit. The
+        		severity increases as the letters progress in the
+        		alphabet.
+        	</documentation>
+        </annotation>
+        <sequence>
+        	<element name="ID" type="string" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				This is the id of the character itself.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="Name" minOccurs="1" maxOccurs="1"
+        		type="string">
+        		<annotation>
+        			<documentation>
+        				name of the character.
+        			</documentation>
+        		</annotation>
+
+        	</element>
+        	<element name="PlayerID" minOccurs="1" maxOccurs="1"
+        		type="string">
+        		<annotation>
+        			<documentation>
+        				Id of the player that owns the character.
+        			</documentation>
+        		</annotation>
+
+        	</element>
+        	<element name="ObservationSkill" type="int" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation></documentation>
+        		</annotation>
+        	</element>
+        	<element name="Initiative" type="int" minOccurs="1"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation></documentation>
+        		</annotation>
+        	</element>
+        	<element name="Level" type="int" minOccurs="1"
+        		maxOccurs="1">
+        	</element>
+        	<element name="ArmorType" type="int" minOccurs="1"
+        		maxOccurs="1">
+        	</element>
+        	<element name="DefensiveBonus" type="int" minOccurs="0"
+        		maxOccurs="1">
+        		<annotation>
+        			<documentation>
+        				This is being deprecated. This value should now
+        				come from the total of the defensiveAttributes.
+        				Remove this element totally in a release or so.
+        			</documentation>
+        		</annotation>
+        	</element>
+        	<element name="HasShield" type="boolean" minOccurs="1"
+        		maxOccurs="1">
+        	</element>
+        	<element name="HasAdrenalDefense" type="boolean"
+        		minOccurs="1" maxOccurs="1">
+        	</element>
+        	<element name="StalkSkill" type="int" minOccurs="1"
+        		maxOccurs="1">
+        	</element>
+        	<element name="SenseAmbushSkill" type="int" minOccurs="1"
+        		maxOccurs="1">
+        	</element>
+        	<element name="AlertnessSkill" type="int" minOccurs="1"
+        		maxOccurs="1">
+        	</element>
+        	<element name="Perception" type="int" minOccurs="1"
+        		maxOccurs="1">
+        	</element>
+
+        	<element name="InitiativeModifier" type="int" minOccurs="0"
+        		maxOccurs="1">
+        	</element>
+        	<element name="DefensiveAttributes"
+        		type="tns:CharacterDefensiveAttributesType" minOccurs="0"
+        		maxOccurs="1">
+        	</element>
+        	<element name="HitPoints" type="int" minOccurs="0"
+        		maxOccurs="1">
+        	</element>
+        	<element name="Will" type="int" minOccurs="0"
+        		maxOccurs="1"></element>
+        	<element name="WillModifier" type="int" minOccurs="0"
+        		maxOccurs="1"></element>
+        	<element name="HitPointsModifier" type="int" minOccurs="0" maxOccurs="1"/>
+        </sequence>
+    </complexType>
+
+
+    <complexType name="CharacterDefensiveAttributesType">
+    	<sequence>
+    		<element name="QuicknessBonus" type="int" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="RacialModifier" type="int" minOccurs="1" maxOccurs="1"></element>
+
+    		<element name="ArmorChoice" type="int" minOccurs="1" maxOccurs="1"></element>
+    		<element name="ArmorOnArmor" type="int" minOccurs="1" maxOccurs="1"></element>
+    		<element name="ShieldChoice" type="int" minOccurs="1" maxOccurs="1"></element>
+    		<element name="SkillChoice1" type="int" minOccurs="1" maxOccurs="1"></element>
+    		<element name="SkillChoice2" type="int" minOccurs="1" maxOccurs="1"></element>
+    		<element name="SpecialAbility" type="int" minOccurs="1" maxOccurs="1"></element>
+    		<element name="MiscItemChoice" type="int" minOccurs="1" maxOccurs="1"></element>
+    		<element name="AdrenalineDefense" type="int" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+</schema>

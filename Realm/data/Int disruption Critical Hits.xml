@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>A near miss. No extra damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>You may resolve your fire before this opponent's next round. +2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is stunned next round and must parry for the next two rounds. +3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe must parry next three rounds. +4 hits. Add +5 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Burst muscle in foe's lower leg. Foe stunned for one round and receives 1 hit per round. Move at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Minor flesh wound along foe's back. +5 hits. Foe stunned for two rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Minor disrupting strike to foe's chest. Foe is stunned and unable to parry for three rnds and receives 3 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Minor thigh disruption. Foe knocked down and stunned for 2 rounds. +5 hits. Foe takes 3 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blast along forearm. +5 hits. Foe takes 3 hits per round and is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Non-weapon shoulder bursts from inside. Arm useless; will fall off if foe takes more than 25% activity; stunned no parry for 6 rnds +10 hits 5 hits/rnd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Break foe's collar bone. +6 hits. Foe is stunned for 4 rounds and may not parry for two rounds. Foe at -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Disrupt tendons in lower leg. Foe at -50 and knocked to one knee. Foe stunned for 3 rnds and takes 2 hits per rnd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Disrupt foe's bicep. +7 hits and 3 hits per round. Foe at -30 and stunned for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Strike foe in the side. Internal bleeding delivers 7 hits per round. Foe stunned 8 rounds. Add +10 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Disrupting blast along foe's back. Foe takes 4 hits/rnd and is stunned for 5 rnds. +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Blow off foe's ear. +9 hits. Foe takes 5 hits per round and hearing is at -50. Foe stunned for 10 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Disurpting strike to middle of face stunned and unable to parry for 12 rnds 5 hits/rnd. Add +5 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike disrupts foe's neck severing his head from the rest of his body. Foe dies immediately. +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Glancing blow. +0 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Soft strike to foe's side. You may fire before the opponent for the next three rnds. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side delivers +5 hits. Foe must parry next round at -30.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe stunned for the next three rounds. +5 hits and foe takes 1 hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Disrupt foe's lower leg. Foe moves at -50 and takes 4 hits per round. +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Disrupting blast along foe's lower back. He is stunned and may not parry for 4 rounds. +7 hits takes 1 hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blow to foe's chest drops him to the ground. Foe takes 4 hits per round and is stunned for 5 rounds. +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Energy dissipation shreds foe's thigh muscle. Foe takes 4 hits per round. +9 hits. Foe moves at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blast to foe's forearm. Hand useless. +9 hits. Foe takes 5 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Elbow in foe's weapon arm disrupted. Joint is destroyed and arm useless. +10 hits. Foe stunned and unable to parry for 10 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blow to foe's neck. Foe stunned for 6 rounds and may not parry for 3 rounds. Foe oeprates at -10. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Muscles burst in foe's calf. Foe at -50 and receives 5 hits per round. +11 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Non-weapon arm disrupted. Foe at -40 and takes 6 hits/rnd. He is stunned and unable to parry for 7 rnds. Arm useless.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side. +12 hits. Foe takes 8 hits per round. He is stunned for 12 rounds and oeprates at -40.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike to back of foe's head. the subsequent brain disruption kills foe instantly. +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Blast disrupts hip destroying the joing +15 hits stunned for 10 rnds before passing out. Add +20 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Blast blows out side of foe's head. Foe drops and takes 5 hits per round  for three rounds before dying.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Head strike destroys brain. Foe is dead.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 hits. Add +10 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Minor disrution of foe's side. +7 hits. Foe takes 2 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Blow stuns foe for 3 rounds. +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Disrupting strike hits foe along side of chest. Foe stunned and unable to parry for 2 rounds. Foe takes 3 hits per round. +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Major wound to lower leg. Foe takes 5 hits per round and is knocked to one knee. He is stunned for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blast across foe's back tears skin. Foe takes 3 hits per round and is stunned for 5 rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Disruption in upper chest drops foe for 3 rounds. Foe takes 3 hits per round. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Pulverizing blast to foe's upper thigh. +11 hits. Foe falls and is stunned for 5 rounds. He takes 5 hits/round and moves at -75.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Strike rips into foe's forearm. Arm useless. Foe takes 4 hits per round and operates at -40. +12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe's knee is destroyed. He loses lower leg and takes 5 hits per round. Foe drops and is out for 10 rounds. Afterwards he is at -70. +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blow to collar area. Foe is stunned for 12 rounds choking. He operates at -80. +13 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Foe's calf muscle destroyed tendons disrupted and bone shattered. Foe is at -50; takes 6 hits/rnd. Add +10 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Non-weapon arm disrupted and useless; muscles destroyed; bone fractured. Stunned for 12 rnds; takes 4 hits/rnd. +14 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blow to side of lower abdomen. +15 hits. Internal bleeding causes 6 hits/rnd. Foe fights for 24 rnds then dies due to organ failure.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Shot pulps foe's brain. He dies instantly. +25 hits. Add +15 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Foe's chest explodes from the inside. Heart destroyed. Foe drops then dies next round. +35 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Blast shatters backbone and exposes upper chest cavity. Foe dies instantly. +45 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's head explodes. He is very dead permanently.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>You may attack before this opponent in the next Fire Phase. +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+6 hits. Foe is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Minor side wound causes foe to takes 3 hits per round. He is stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Blast to foe's upper leg. +7 hits. He is stunned and unable to parry for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Wound foe's groin. Shocked he is stunned for 7 rounds and unable to parry for 4 rounds. +8 hits. Add +10 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Disruption of foe's lower back paralyzes him from the waist down. He is down and out for 20 rounds. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast in chest collapses foe's lungs and breaks ribs. Foe operates at -50 for 4 rounds then slips into a coma. He dies 6 rounds thereafter. +12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blast in upper leg. Foe falls and takes 6 hits per round. He is at -90. Add +10 to your next action.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Forearm destroyed. Foe takes 7 hits per round and is stunned for 5 rounds. He is at -40.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blast to the face destroys foe's eyes ears nose and throat. He dies after 4 painful rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Massive cellular disruption in foe's shoulder. +14 hits. Foe stunned for 6 rounds and operates at -60.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blast destroys foe's foot. He is at -50 for 5 rounds before passing out. Foe takes 5 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe's non-weapon arm explodes and is messily removed from his body. Stunned and uanble to parry for 18 rounds 5 hits/rnd +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Variety of foe's abdominal organs explode. He takes 8 hits per round and is at -80 for 4 rounds before expiring. +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Shattering blast destroys foe's kidneys and severs spine. +40 hits. Foe drops then dies next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Disgusting strike guts through opponent. He is disemboweled and dies instantly. Add +20 to your next action.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Back blow sends foe reeling. Broken in half foe drops and dies next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Head shot destorys brain in a gruesome display. Foe's lifeless headless body tossed back 3 meters.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+ 6 hits. Foe loses his next attack opportunity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+8 hits. Foe is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Minor disruption gives foe 1 hit per round. He must parry for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Attack disrupts foe's side. +9 hits. Foe takes 3 hits per round and is stunned for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blow to leg shatters several bones and shreds muscle. Foe is -70 and takes 4 hits per round. Add +10 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Minor disruption to foe's lower back. Foe is stunned and unable to parry for 5 rounds. He takes 4 hits per round. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe's chest ruptured. He takes 6 hits per round. In 3 rounds he drops and after 3 more he dies.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Major groin injury. Vitals destroyed. FOe stunned for 14 rounds and takes 2 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Disrupting strike severs arm above the elbow. Foe takes 5 hits/rnd and is stunned for 8 rounds. He is at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Burst destroys lungs. Heart explodes. Foe falls and is inactive for 3 agonizing rounds before dying. +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blast inside shoulder sends arm flying. Foe stunned and unable to parry for 12 rounds +22 hits 6 hits/round. Add +10 to your next attack.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Shuddering blast scraps leg. Bone muscle and blood vessels burst. Foe knocked down stunned for 6 rounds. He takes 6 hits/round. +24 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe's weapon arm burst open. It is destroyed. Foe takes 6 hits per round and is stunned for 36 rounds. +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe's backbone shattered by blast. He falls and dies after 6 quiet rounds due to massive organ failure. +40 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike disrupts hip joint. Leg is lost. Foe lapses into unconsciousness dying in 6 rounds. +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Foe's arm and side destoryed by disrupting blast. He is stunned and unable to parry for 8 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Internal explosion sends rib fragments flying. Foe drops and dies immediately. Add +20 to all actions for the next 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Internal Disruption</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's body ripped apart by cruel disrupting blast. He is no more. Good work.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

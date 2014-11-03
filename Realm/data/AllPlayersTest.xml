@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PlayerWarehouse xmlns="http://com.sdk.realm/PlayersV0.0.0.1">
+    <PlayerCollection>
+        <Player>
+            <Name>AmberTheDog</Name>
+            <ID>550</ID>
+        </Player>
+        <Player>
+            <Name>Michelle</Name>
+            <ID>548</ID>
+        </Player>
+        <Player>
+            <Name>Marie</Name>
+            <ID>549</ID>
+        </Player>
+        <Player>
+            <Name>Stevie</Name>
+            <ID>546</ID>
+        </Player>
+        <Player>
+            <Name>Beth</Name>
+            <ID>547</ID>
+        </Player>
+    </PlayerCollection>
+</PlayerWarehouse>

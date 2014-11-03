@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PlayerWarehouse xmlns="http://com.sdk.realm/PlayersV0.0.0.1">
+    <PlayerCollection>
+        <Player>
+            <Name>Bill</Name>
+            <ID>1</ID>
+        </Player>
+        <Player>
+            <Name>Dan</Name>
+            <ID>2</ID>
+        </Player>
+        <Player>
+            <Name>Ian</Name>
+            <ID>3</ID>
+        </Player>
+        <Player>
+            <Name>Ross</Name>
+            <ID>4</ID>
+        </Player>
+        <Player>
+            <Name>Shawn</Name>
+            <ID>5</ID>
+        </Player>
+        <Player>
+            <Name>Terese</Name>
+            <ID>6</ID>
+        </Player>
+        <Player>
+            <Name>Tom</Name>
+            <ID>7</ID>
+        </Player>
+        <Player>
+            <Name>Turl</Name>
+            <ID>8</ID>
+        </Player>
+        <Player>
+            <Name>Demos</Name>
+            <ID>9</ID>
+        </Player>
+        <Player>
+            <Name>Fausto</Name>
+            <ID>10</ID>
+        </Player>
+        <Player>
+            <Name>Phoebos</Name>
+            <ID>11</ID>
+        </Player>
+        <Player>
+            <Name>NPC 1</Name>
+            <ID>12</ID>
+        </Player>
+        <Player>
+            <Name>NPC 2</Name>
+            <ID>13</ID>
+        </Player>
+        <Player>
+            <Name>NPC 3</Name>
+            <ID>14</ID>
+        </Player>
+        <Player>
+            <Name>NPC 4</Name>
+            <ID>15</ID>
+        </Player>
+        <Player>
+            <Name>NPC 6</Name>
+            <ID>17</ID>
+        </Player>
+        <Player>
+            <Name>NPC 5</Name>
+            <ID>16</ID>
+        </Player>
+        <Player>
+            <Name>NPC 8</Name>
+            <ID>19</ID>
+        </Player>
+        <Player>
+            <Name>NPC 7</Name>
+            <ID>18</ID>
+        </Player>
+        <Player>
+            <Name>NPC 9</Name>
+            <ID>20</ID>
+        </Player>
+        <Player>
+            <Name>Zon2 Replicator</Name>
+            <ID>23</ID>
+        </Player>
+        <Player>
+            <Name>Zon Replicator</Name>
+            <ID>22</ID>
+        </Player>
+        <Player>
+            <Name>Calebyrn</Name>
+            <ID>25</ID>
+        </Player>
+        <Player>
+            <Name>Angarog</Name>
+            <ID>24</ID>
+        </Player>
+        <Player>
+            <Name>Aldawen</Name>
+            <ID>27</ID>
+        </Player>
+        <Player>
+            <Name>Crandon</Name>
+            <ID>26</ID>
+        </Player>
+    </PlayerCollection>
+</PlayerWarehouse>

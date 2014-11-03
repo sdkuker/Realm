@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MovementManeuverLibrary xmlns="http://com.sdk.realm/RealmMovementManeuverDefinitionV0.0.0.1">
+  <MovementManeuverCollection>
+    <MovementManeuver>
+      <RollValues>
+        <Minimum>-9999</Minimum>
+        <Maximum>-201</Maximum>
+      </RollValues>
+      <TrivialManeuverResult>Fail to act.</TrivialManeuverResult>
+      <RoutineManeuverResult>Fall down. + 2 Hits. You are out 3 rounds.</RoutineManeuverResult>
+      <EasyManeuverResult>Fall. Knock self out.  You are out for 12 rounds + 9 hits.</EasyManeuverResult>
+      <LightManeuverResult>Fall.  Break arms.  + 10 hits.  You are out for 6 rounds.</LightManeuverResult>
+      <MediumManeuverResult>Fall.  + 15 Hits.  Break arm.  You are out for 9 rounds.</MediumManeuverResult>
+      <HardManeuverResult>Fall.  Break arms.  + 20 hits.  You are out 18 rounds.  Arms useless.</HardManeuverResult>
+      <VeryHardManeuverResult>Fall.  Break both arms and neck.  + 30 hits.  You are out 60 rounds.</VeryHardManeuverResult>
+      <ExtremelyHardManeuverResult>Fall sends you into a coma fro 3 years.  + 30 hits.  Broken spine.</ExtremelyHardManeuverResult>
+      <SheerFollyManeuverResult>Fall breaks neck.  You die in 3 rounds.</SheerFollyManeuverResult>
+      <AbsurdManeuverResult>Fall crushes skull.</AbsurdManeuverResult>
+      <InsaneManeuverResult>Fall smashes upper body to a pulp.</InsaneManeuverResult>
+      <PhenomenalManeuverResult>Fall breaks every bone in body.</PhenomenalManeuverResult>
+      <VirtuallyImpossibleManeuverResult>SPLAT!</VirtuallyImpossibleManeuverResult>
+    </MovementManeuver>
+    <MovementManeuver>
+      <RollValues>
+        <Minimum>-200</Minimum>
+        <Maximum>9999</Maximum>
+      </RollValues>
+      <TrivialManeuverResult>10</TrivialManeuverResult>
+      <RoutineManeuverResult>Fail to act.</RoutineManeuverResult>
+      <EasyManeuverResult>Fall down.  Lose 2 rounds.  + 2 hits.</EasyManeuverResult>
+      <LightManeuverResult>Fall down.  + 3 hits.  You are out for 4 rounds.</LightManeuverResult>
+      <MediumManeuverResult>Fall.  Break wrists.  + 10 hits.  You are out for 6 rounds.</MediumManeuverResult>
+      <HardManeuverResult>Fall Break let.  + 15 hits.  you are out 9 rounds.</HardManeuverResult>
+      <VeryHardManeuverResult>Fall.  Break arms.  + 20 hits.  You are out 18 rounds.  Arms useless.</VeryHardManeuverResult>
+      <ExtremelyHardManeuverResult>Fall.  Break back and legs.  + 25 hits.  Paralysis of lower body.</ExtremelyHardManeuverResult>
+      <SheerFollyManeuverResult>Fall.  You smash your backbone and are in a coma for 1 year.</SheerFollyManeuverResult>
+      <AbsurdManeuverResult>Fall paralyzes you from neck down.</AbsurdManeuverResult>
+      <InsaneManeuverResult>Fall crushes skull.</InsaneManeuverResult>
+      <PhenomenalManeuverResult>Fall drives legs up into abdomen making life difficult.</PhenomenalManeuverResult>
+      <VirtuallyImpossibleManeuverResult>Fall smashes every bond in body.  You may speak (2 rnds).</VirtuallyImpossibleManeuverResult>
+    </MovementManeuver>
+  </MovementManeuverCollection>
+</MovementManeuverLibrary>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blast knocks foe out.  Upon recovery foe fights at -75% due to shattered shoulder.  +25 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>+30 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Blast crushes foe's skull.  Foe drops and dies of brain damage in 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blast destroys foe's eyes.  Foe is permanently blind fights at -95% and is stunned for 12 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Strong blast.  Foe is stunned and unable to parry for 2 rounds.  +30 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Side strike.  Foe is stunned and unable to parry for 4 rounds and fights at -20% due to broken bone.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Chest blast.  Wound gives foe +5 Hits per round.  Creature fights -30%.  +30 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Foe is paralyzed from the neck down on a permanent basis.  +40 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Strike shatters foe's chest and sends bone through the heart.  Foe dies instantly.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+18 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blast destroys foe's lungs.  Foe drops and dies after 6 long rounds.  +30 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+25 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+25 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+30 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Leg strike.  Foe is stunned and unable to parry for 1 rounds.  +25 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Strike crushes foe's chest cavity and destroys foe's heart.  Foe dies instantly.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike through foe's ear results in massive brain damage.  Foe dies after 6 inactive rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Side strike.  Foe is stunned and unable to parry for 3 rounds.  +35 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Broken bone causes foe to fight at -20%.  Wound yields +5 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Foe is knocked down.  Severe wound.  Foe takes +10 Hits per round and fights at -50%.  +40 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Blast destroys foe's nervous system.  Foe collapses and dies in 9 rounds.  +50 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature Spell</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Strike to foe's head.  Poor creture dies instantly.  Add 20% to your next roll.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

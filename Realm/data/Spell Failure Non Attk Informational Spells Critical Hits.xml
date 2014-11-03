@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Momentary lapse in concentration delays the casting of the spell for one round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>You only gain one small bit of information. Unfortunately, that information is outdated or incorrect.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>You gain half of the desired information, but it is incorrect.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>The information you gain is correct, but you have no idea what the topic was!</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>You gain correct information about a similar topic to that which you were seeking. You are so surprised, you are stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>You cannot make out the information due to extraneous feedback.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>You gain a bit of ominous information about your own death! You are stunned for one round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>You gain one piece of very specific, incorrect information. However, you experience power feedback (take 1d10 hits).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>125</Maximum>
+            </RollValues>
+            <Description>Power feedback causes the information to be garbled. You are stunned for two rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>126</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>You gain useless information about an unknown target. In addition, there is so much information that you are stunned for three rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>You strain too hard to get the information. Your spell fails utterly and you take 3 hits and are stunned for 5 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>185</Maximum>
+            </RollValues>
+            <Description>Something just is not right here. The massive overload in your head knocks you down (take 5 hits). Spend 5d10 minutes recovering (no other actions allowed).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>186</Minimum>
+                <Maximum>191</Maximum>
+            </RollValues>
+            <Description>The utter nothingness that you discern takes you close to death. Take 2d10 hits and an 'A' impact critical as you recover. You must spend one hour doing nothing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>192</Minimum>
+                <Maximum>195</Maximum>
+            </RollValues>
+            <Description>You have seen your own death! You collapse to the ground(take 3d10 hits and you are unconsious for 1d10 hours). You now suffer from Paranoia.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>196</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>You are the victim of a mild stroke. Take 4d10 hits and lose all spell casting ability for one week. In addition you will have a -40 penalty for 1d10 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>The spell short circuits. Take 20 hits and knock yourself out for 9 hours. You lose all spell casting ability for 4 weeks.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>300</Maximum>
+            </RollValues>
+            <Description>You now have a nervous tick. You are stunned for 1d10 rounds. Anytime you attempt to cast this spell in the future will result in deterioration of a nervous tick (eventually, you will become a quivering blob).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Non-Attk Info</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>301</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>You have seen Armageddon. This results in brain shut-down. You are in a coma for 3 months.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>That gnat just landed in your ear. You must begin casting the spell again (but do not lose the power points). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>Your fingertips spark and surprise you. You lose the spell (and one power points). You operate at a -50 modification next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>Minor power backlash. You lose the spell (and half the number of power points -rounded down). Stunned for 1 round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>You realize you are casting the wrong spell. You must start over. Lose the power points. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>You feel a spider crawling up your back! You lose the spell and the power points.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>The spell fails! Flames rolls down your arm. You take 5 hits and are stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>The elements refuse your call! You are knocked back 3 feet(taking 2d10 hits)and are stunned for six rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Instead of launching the elements engulf you. Take 20 hits and a 'B' critical strike. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>125</Maximum>
+            </RollValues>
+            <Description>The elemental attack strays to the right of the intended target. You are stunned for three rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>126</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>An unforseen cosmic shift causes the spell to veer to the left of the target (striking the nearest target). This sudden change causes mental strain; take 5 hits and you are stunned for one round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>You get the polarity backwards! The elements travel 180' from the intended direction (hitting any available target). In the wake you take 5d10 hits and a 'C' critical strike. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>185</Maximum>
+            </RollValues>
+            <Description>The elements cannot be controlled! Your brain is fried (lose all spell casting ability for 1 week). You operate at -50 for 3 months (or until brain is repaired). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>186</Minimum>
+                <Maximum>191</Maximum>
+            </RollValues>
+            <Description>The spell explodes immediately as you cast it! Make a point blank attack on yourself You are in a coma for 1 week (and lose spell casting ability for 2 weeks). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>192</Minimum>
+                <Maximum>195</Maximum>
+            </RollValues>
+            <Description>The elements attack you. Take 10d10 hits and d10 'C' critical strikes. After the assault you will fall into a coma for 5 weeks. After the coma you will seem fine; but will die 6 hours later. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>196</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>The power is too much to control. The elements refuse to rise to your command. The spell internalizes and paralyzes your torso. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>The elements control you! Take 8d10 concussion hits and a dlO 'E' critical strikes. After displaying your failure you will fall into a coma for 3 weeks (and lose spell casting ability for d10 weeks). </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>300</Maximum>
+            </RollValues>
+            <Description>You slip into the elemental planes for d10 rounds. When you return you realize that you have lost all your spell casting ability for d10 months. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Spell Failure Elem Attk</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>301</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>All of the elements visit you at once.  All that is left is a charred mass of flesh.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

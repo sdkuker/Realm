@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>What radiation?</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Warm draft.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>The experts say it's nothing to worry about.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Bright flash reduces target's vision by 50% for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Afterglow reddens target a shade.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Microbes on target's skin have a rough time of it.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>A few cells spontaneously mutate but quickly die off.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Target will feel queasy (-10) in an hour. It will last for only 4 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Target's vision becomes hazy in 30 minutes (perception at -20). It will last until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Some tactile sensation will be lost to the target (operates at -5) until treated. Effect manifests itself after an hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Rays course through body. Target has 50% chance of producing mutated offspring.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Minor loss of hand-eye coordination manifested in 2 hours. Static maneuvers at -15. Effect will last for 2 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>A minor skin cancer will develop within a year.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Mild burn. Target at -10 for 2 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Lingering rad buildup has a 50% chance of producing a cancer within 5 years.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Mild burn. Target at -5 for 5 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Insidious exposure delivers 4 hits that may only be healed by anti-radiation treatment.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Second degree burn gives target 5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Flash burns give target 10hits. Target is -15 for 7 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>They're only sub-atomic particles.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Fast neutrons stay clear of target. Lucky.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Target has little to worry about.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Zip.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Walking in front of a neon sign would be more dangerous.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>+2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Target may (50% chance) develop tumour within 5 years.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Target will feel ill. -15 to actions for 6 hours beginning in one hour.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Telepathic target loses 1-10 PP's. All targets at -10 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Target will have a headache in 10 min which will last for 1-10 hours during which target will be at -20. It will recur 1 day later.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Bitter chromosome damage to target's reporductive organs. Offspring has a 75% chance of being mutants.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Loss of hand-eye coordination for 5 days. Static maneuvers at -20 during that time.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Target has difficulty concentrating. Reduce temporary Reasoning stat by 10 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Rays give minor burn. Target takes 4 hits and is at -10 for 2 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Exposure gives target 7 hits which may only be healed by anti-radiation treatment.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Target irradiated and loses hair in two days. He operates at -20 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Burns crack target's skin. Target takes 1 hit per round and is at -10 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Bright flash blinds target for 1-10 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Target at -20 until treated and will deliver a cancer within 6 months.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Nothing worse than a day at the beach.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>This could have been really bad.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>A mild headache is the end result.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Insignificant damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+4 hits; may only be healed by anti-radiation treatment.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Mild radiation sickness. Hair falls out in three days and target is at -30 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Target has a 10% chance of fainting each minute. He is out for 1-10 hours and at -20 for 5 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Mild radiation sickness. Hair falls out; sores develop in 1-5 days. Target at -30 until treated. 50% chance of a cancer within a year.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Rad accumulation will produce a cancer within a year.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Telepathic target loses 1-10 PP's and is stunned for 6 rounds. All targets at -15 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Hot rays sterilize target. +5 hits. Sad.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Target loses hand-eye coordiantion and is at -40 to all maneuvers until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Violent electromagnetic radiation raises sores on target's skin. He is at -30 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Lingering radiation sickness. target at -50 within one day. Hair and teeth begin to fall out. target will die in 30 days unless treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Target receives second degree burns. He is at -30 for 6 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Electromagnetic waves damage a random interal organ. It will cease to function in 1-10 days. Tough.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Target sees flash. He is blinded for 1-10 days then at -30 to vision from then on.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Heavy rad dose reduces temporary Constitution stat by 20. Permanent Constitution is lost at the rate of 1 point/hour until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Target's skin flash-fried. +30 hits. Target knocked out and takes 4 hits per round. He will die in 2-20 hours unless treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Target looks a little red but it's nothing serious.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 hits. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+4 hits. These may only be healed by anti-radiation treatment.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Mild irradiation. Target at -10 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Rad build-up will produce a cancer in target within the next 5 years.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Target's vision blurs. Perceiption is at -30 until treated. +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Organ damaged. One of target's internal organs will fail in 1-10 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Rays weaken target. his temporary Strength stat is reduced by 15 while the temporary Constitution stat falls by 5.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Waves give target +20 hits that may only be healed by anti-radiation treatment. Target stunned 6 rnds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Telepathic target loses Psion casting abililty for 1 day. All target's are at -20 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Rays sterlize target. target will die in 10 hours due to organ failure.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Beams daze target. He is stunned for 20 rounds and is at -50 for all activities until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Radiation sickness. Hair lost teeth and fingernails fall out and sores appear within 1 day. Target at -40; will die in 1-10 days unless treated. Telepaths lose 1-10 PP's. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Rad build-up will produce a malignant tumour within 6 months. Target at -40 until treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Selective rays destroy target's eyes. +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Severe burns give target 3 hits per round. He is at -30. +17 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Target zapped. He is blinded and stunned for 10 rounds then operates at -60. He will die in one day unless treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Severe exposure. Target slips into coma and dies in 1-10 hours.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Target's blood boils. He drops immediately and dies in 6 rounds due to massive interal damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Target was lucky this time.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+5 hits. It must have been those cool sun glasses.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+8 hits. These may only be healed by anti-radiation treatment.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Radiation sickness. Target loses hair teeth and nails within a day. He is at -50 for 5 days after which he dies.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Severe exposure drops all of target's temporary stats by 1-10. Really bad.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Sizzling beams raise blisters on target's red-hot skin. He is at -60 until treated and takes 1 hit per round whenever he moves. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Severe Radiation sickness. Target will die within a day unless treated and is at -50 while he waits. +12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Deadly rays course through target. In ten minutes he is struck by severe nausea (operates at -60) lasting 1-10 days. Target then dies.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Severe burns. Target at -70 until treated. He is stunned for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Telepathic target loses Psion casting ability for 1-10 years. All targets at -50 until treated. +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Widespread cellular damage gives target +40 hits and sends him into a coma. He will die in 1-10 minutes.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Target dazed. He is stunned and unable to parry until treated. +17 hits. These hits may only be healed by anti-radiation treatment.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Target's skin blackened. He takes 4 hits per round and is at -80 until treated. Permanent Quickness and Agility stats are reduced by 2-20 points each.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Target is blinded and sent into a coma. Severe radiation sickness will kill target within a day unless treated.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Horrible rays reduce all of target's temporary stats by 2-20 and all permanent stats by 1-10. +19 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>A multitude of target's interal organs fail. Target drops and dies in 1-10 rounds. Telepathic targets lose all Psion Power.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Blistering rays fry target. He is sent into a coma and dies in 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Sizzling burst leaves but a few remains of target's former self. Sad.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Radiation</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Target glows white before vanishing utterly.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

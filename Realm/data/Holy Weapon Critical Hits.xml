@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Perhaps a confession would do you some good. +0H. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Precision strike, but next time use the weapon's other end. +1H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>You invent a new maneuver, unfortunately, it's not a very good one. +3H. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Small chiming noise as you nick foe's armament. +2H and parry 1 rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>You had hoped for much more. +3H and 1 rd parry, +5 to all actions .</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Strike to Foe's foot. +6H, 20 rds parry, -5 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Foe isn't worried much as he takes a step back. +4H, 1 rd parry, 1 rd stun.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Strike causes little damage, but does unbalance foe. Bleed 1/rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Leg strike unbalances foe for 3 rds. +7H, 2 rds parry, 1 rd stun.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Strike to upper arm. With armor: take 3H, 2 rds parry, - 5 to all actions. Without armor: +6H, 1 rd no parry, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Weapons lock; set foe's weapon ablaze. Anyone touching it for 3 rds takes an "A" Holy Spell crit. +5H, 2 Bleed hits/rd, -5 to all actions, -1 corruption pt.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Shield arm is knocked away, foe cannot use it nxt rd. With shield 2H, 1 rd parry, -10 to all actions. W/out shield 8H, 1 rd stun, -10 to all actions, +10 to all ally actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Foe's evasions fail to deceive you. +5H, 2 rd stun no parry, 2/rd bleed, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strike sets randon limb ablaze. It is unusable and burns until put out. +8H, 5/rd bleed, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Your placement of your blow makes up for its lack of force. +10H, 1 rd stun no parry, 3/rd bleed, -15 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Catch foe in side of knee as he steps back. +15H, 5 rds stun, -25 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Foe brings his shield up and you strike low. His leg is broken and barely usable. +15H, 1 rd stun no parry, -40 to all actions. 1 corruption pt.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Foe stumbles forward and you bring the pommel of your weapon down on his head. +20H, 2 rd stun no parry, -20 to all actions, 2 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike to neck. Foe thinks your attk weak till he sees all the blood. Death occurs in 9 rds. +20H, 8/rds bleed, 3 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Did we forget to tythe? +1H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>You cause light damage to foe's garments. +2H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe clumsily evades most of the damage. +4H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Your little love tap startles foe. +4H, 1 rd must parry, -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Small sparks as you knock off a piece of foe's armor. +4H, 1 rd stun.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blow lands on foe's calf. +7H, 1 rd stun, 1/rd bleed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Hip strike cuts belt loose if foe wears one. +6H, 2 rds stun.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Shower of sparks blinds for 1 rd. 1 rd stun, -100 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Flat of your weapon lands on foe's leg leaving a nasty bruise. +6H, 1 rd stun no parry, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Good shot to upper leg causes foe some pain. W/Armor: +5H, 1 rd stun no parry, -10 to all actions. W/out armor: +3H, 2 rds stun, 2/rd bleed, -15 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe turns, avoiding a master stroke to the head, which lands on his hip, shattering it. +9H, 4 rds stun, - 90 to all actions, 1 corruption.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Strike to foe's abdomen doubles him over. W/breastplate: +3H, 1 rd stun no parry, -10 to all actions. W/o breastplate +8H, 2 rds stun, 2/rds bleed, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Shot to foe's funny bone leaves arm numb for 2 rds. +10H, 1 rd stun no parry, -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Parry attempt breaks foe's hand. +8H, 1 rd stun, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>If foe has blood, he's got less of it now. +10H, 1 rd stun, 5/rd bleed, -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Disarm foe, literally. The arm and the weapon fly backwards. +10H, 2 rds stun no parry, 6/rd bleed, -30 to all actions. 1 corruption pt.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>A feint works, foe's shield out of place. Bring the flat of your weapon down on foe's head. +20H, 2 rds stun, 4 rds no parry, -30 to all actions, 2 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Shot to foe's side causes a large gash. If not wearing chest armor he is dead. +18H, 4 rds stun no parry, 4/rd bleed, -75 to all actions, 3 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blow to foe's armpit crushes lungs. He dies of suffocation in 6 ghastly rds. +25H, 3 rds stun no parry, -50 to all actions, 4 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Divine shot, with a weak following. +2H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>A light bruise will be the only evidence of your strike. +4H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Clip foe's shield losing some of your momentum. +6H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Tis merely a flesh wound. +5H, 1/rd bleed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Glancing blow to head yields little blood. 1 rd stun, 1/rd bleed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Catch foe on the upper leg. must parry 3 rds, -20 to all actions, 3/rd bleed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Shot across shoulder blades staggers foe. 2 rds stun, -5 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Strong swing surprises foe with it's force. +3H, 1 rd stun, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Solid blow to chest. Armor helps a little. =10H, must parry 2 rds, -5 to all actions, +10 to all ally actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Strike to foe's forearms destroys any armor there. W/greaves: +4H, 1 rd stun, 2 rds no parry, 1/rd bleed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe ducks and you hit the back of his head. If helmed he is knocked out for a day. If no helm, he is dead. +20H, -75 to all actions, 3 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Frantic evasion from foe still yields a shoulder strike. W/shield: +5H, 1 rd no parry, -10 to all actions. W/out shield: +7H, 2 rds no parry, -20 to all actions</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Foe blocks w/shield but your weapon still connects. +6H, 2 rds stun no parry, -40 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Crushing blow to forearm causes muscle and tendon damage. Arm is useless. Stunned 6 rds, 4/rd bleed, -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>All of foe's efforts to evade your blow fail. Shield arm is useless w/2 minor fractures. +8H, stunned 2 rds, 3 rds no parry, -30 to all actions, 1 corruption pt.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Initial swing misses, but the back-swing catches foe in side of head. Out cold for 6 hrs. +16H, 3/rd bleed, -40 to all actions, 2 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Foe screams prayer out. Then you silence him. Death occurs in 6 torturous rds. +20H, 2 rds stun no parry, -50 to all actions. 3 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Strike to foe's face. If helmed, death in 2 rds. If not, it is immediate. +30H, 2 rds no parry, 4 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Shot to foe's forehead causes permanent sight loss and death in 3 rds. If not helmed, he dies immediately. +30H, 3 rds no parry, 4/rd bleed, -100 to all actions, 5 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>You barely nick foe's forehead. +3H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>A feint from your foe negates the full effect. +5H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Catch foe on top of head, but its weakness merely causes foe to flinch. +6H, ust parry 1 rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Great shot with a weak follow-up. +6H, must parry 1 rd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Attk does little but open foe up for your next attk. Stunned 1 rd, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Solid swing connects with foe's hip. +10H, 1 rd parry, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Crossing strike catches foe's weapon arm, bruising it. 1 rd stun no parry. -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Catch foe hard in back. Any items worn there are torn free. +10H, 1 rd stun, -15 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Precision strike would have made your teacher proud. +5H, 1 rd stun, 1/rd bleed, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Solid shot to elbow hinders foe's attks. W/armor: +8H, 1 rd stun, -10 to all actions. w/out armor: +10H, Stunned no parry 2 rds, 1/rd bleed, -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Cry your deity's name and charge enemy, plunging weapon into his heart. Yes, he's very dead. +25H, +10 to all ally actions. 4 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Foe attempts to fend off blow with his shield arm. With shield: +7H, 1 rd stun no parry. W/out shield: +4H, 2 rds no parry, 3/rd bleed, -30 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blow to back causes damage to nerves. +14H, 1 rd stun, 2 rds no parry, -40 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe brings up weapon and you strike him in the elbow. Joint is shattered and useless. +15H, 2 rds no parry, 2/rd bleed, 1 corruption pt.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe grapples your weapon arm, but a well placed elbow shot knocks him out. +15H, 2 rds stun, 3 rds no parry, +10 to all ally actions, 2 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blow to chest speeds up heart, bursting it/dead in 4 rds. +30H, 4 rds no parry, -50 to all actions, 1 corruption pt.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Drive weapon into foe's gut. A variety of organs are destroyed. Immediate death. +35H, 5/rd bleed, -50 to all actions, 4 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Destroy foe's shield and arm on the way to his heart, immediate death. +30H, 2 rds no parry, +10 to all ally actions. 5 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's head is taken clean off. It rolls about the battle field inspiring fear in foe's nearby. +40H, +20 to all ally actions 2 rds, 6 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Foe utters a prayer at his luck. +4H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>You knock any neck items or armor off. You have the initiative. +7H.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>You should have paid more attention during weapon training. +6H, 1 rd stun.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Life flashes before foe's eyes, along with your weapon. +2H, 1 rd stun, 1 rd must parry, +20 to all ally actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Precision strike, but not quite as strong as you had hoped. +3H, 1 rd stun, -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Strike to knee causes light cartilage damage. +10H, must parry 2 rds, -15 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Weapon flares as you strike your enemy. +12H, 1 rd stun, no parry. 2/rd bleed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Good shot. Unfortunately, not near any vital location. +14H, 1 rd stun no parry, 1/rd bleed, -5 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Solid body shotFoe stumbles back 10 feet. +15H, 2 rds stun no parry. -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blow numbs foe's weapon arm. With greaves: +10H, Must parry 2 rds, -30 to all actions for 6 rds. W/out greaves: +15H, no parry 2 rds, -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Cleave foe from shoulder to waist in one mighty swing, immediate death. +20H, +10 to all ally actions, 5 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Excellent shot to foe's shield shoulder causes major fracture. With shield: +12H, stunned 3 rds, unable to parry 1 rd, -10 to all actions. W/out shield: +18H, stunned unable to parry 2 rds, -20 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Solid strike to front of foe's knee. The joint is shattered. +16H, stunned 4 rds, -60 to all actions, 1 corruption pt.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Ring foe's head like a bell, is there a church nearby? He goes out like a light. +25H, -40 to all actions, 2 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Leg is taken clean off, foe dies in 6 rds from blood loss. +30H, 10H/rd bleed, -75 to all actions, 3 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike to foe's face. If helmed he dies in 3 rds. If no helm, death occurs immediately. +25H, 6H/rd bleed, -90 to all actions. 4 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Strike to foe's back shatters his spine, sending his bone fragments into organs. Death. +35H, -80 to all actions, 5 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Not a good day to be a bad guy. Righteous blow to side of head kills target instantly. +40H, -50 to all actions, +20 to all ally actions for 2 rds, 6 corruption pts.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Holy Weapon Crit</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike to foe's midsection starts a holy fire that consumes his body by the end of the rd. +20 to all ally actions for 3 rds, 7 corruption pts.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

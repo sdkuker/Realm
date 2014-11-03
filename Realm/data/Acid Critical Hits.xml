@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Only a drop.  +0 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 round.  +2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Nearby splash gives foe +3 hits foe loses 1 round of initiative.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Blast unbalances foe.  He loses 1 round of initiative.  +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Foe must parry for 1 round.  +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Light burns cause foe to parry for 1 round.  +3 hits and 1 hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Sizzling but weak blast stuns foe for 1 round.  +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and forced to parry for the next 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Chest strike.  If foe has metal armour stunned 3 rounds.  If not wearing metal armour stunned for 4 rounds.  +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blast stuns all within 5' of foe for 1 round.  Foe drops all he is holding.  Fights at -15.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike.  Foe is stunned and unable to parry for 1 round.  +7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 3 rounds.  Foe fights at -5 for 6 rounds.  +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strike to foe's upper chest stuns him for 2 rounds and he cannot parry for 1 round.  +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Back blast stuns foe for 2 rounds.  He is unable to parry for 3 rounds.  +12 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe knocked down.  If foe has metal armour legging he loses use of legs due to nerve damage; if not +15 hits and stunned/unable to parry for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Hip strike.  If foe has hip armour +10 hits and stunned for 6 rounds; if not stunned for 3 rounds and at -50 due to shock and nerve damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Neck strike.  If foe has neck armour stunned for 3 rounds; if not stunned 4 rounds and +8 hits.  If no head covering splash into ear drives foe insane.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blast to head.  +15 hits.  If helmed foe is knocked out and takes 1 hit per round; if not foe drops into a coma for 1 month.  -85 to appearance.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Try again.  +0 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for next round.  +3 hits.  Foe is spun about.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe loses 1 round of initiative and takes +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe must parry next round.  +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blow unbalances foe.  +9 hits and 1 hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Foe loses 3 rounds of initiative.  +8 hits and 1 hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 1 round.  +8 hits and 2 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 2 rounds.  Foe's clothing is destroyed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Leg strike.  Foe is stunned and unable to parry for 1 round.  Fights at -5.  +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Foe is stunned 2 rounds.  +15 hits.  If foe is wearing organic armour it is useless and he fights at -15.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike.  Foe is stunned for 2 rounds cannot parry for 1 round and fights at -10.  +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Shield arm strike.  If foe has a shield he is stunned for 4 rounds; if not arm is useless and he is stunned and unable to parry for 2 additional rounds.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Arm strike burns foe.  Stunned for 2 rounds and takes 2 hits per round.  All cloth on weapon arm is burnt off and he drops all he is holding.  +11 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Back blast.  Foe is stunned and unable to parry for 3 rounds.  Muscles destroyed.  Foe fights at -15.  +13 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Leg strike.  Any organic legging is dissolved causing 6 hits per round.  Foe is stunned for 4 rounds.  +14 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Head strike.  Foe is blinded and fights at -95.  If foe has organic helm it is destroyed.  If no helm 8 hits per round and loses 50% of hair.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Neck strike destroys foe's throat.  +20 hits.  12 hits per round and he is inactive for 9 rounds before dying.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blow to back of neck paralyzes foe from shoulders down.  +20 hits.  Foe is very very mad.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and must parry next round.  +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and must parry next round.  +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Light burns.  Foe must parry for 1 round.  +7 hits and 1 hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Foe must parry for 2 rounds.  +8 hits and 2 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and must parry for 2 rounds.  +10 hits.  Add +5 to your next action.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 2 rounds.  +10 hits.  If foe has leg armour 1 hit per round; if not 3 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 2 rounds.  +10 hits and all foe's clothing and leather are destroyed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Upper leg strike.  Foe is stunned and unable to parry for 1 round.  +10 hits and foe fights at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Chest strike if foe has non-magical metal armour it becomes fused and arms unusable; if not knock out for 6 days.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast stuns foe for 3 rounds and he cannnot parry for 1 round.  Fights at -15.  +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to shield arm.  If foe has metal shield he is stunned for 6 rounds and takes +12 hits; if not +15 hits and foe is knocked down and arm is useless.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Foe loses the hand on his weapon's arm.  Foe is stunned and unable to parry for 3 rounds and takes 5 hits per round.  Severe burns.  +16 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blast to thighs.  If foe has leg armour 2 hits per round and fights at -20; if not massive leg damage (muscle/tissue) and fights at -85.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Lower leg burns.  Foe loses foot but wound is sealed.  Stunned and unable to parry for 6 rounds.  +3 hits per round.  Fights at -15.  +23 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Upper leg burns.  Foe loses use of leg due to tissue loss.  Stunned and unable to parry for 7 rounds.  4 hits/round.  Fights at -20.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Chest strike destroys foe's heart and lungs.  If foe has metal armour it is fused to his chest and he dies in 5 rounds.  If not foe dies instantly.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's head is no longer available for use.  Acid smoke surrounds the body.  +15 to friendly witnesses for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and must parry next round.  +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and must parry next round.  +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Minor burns.  Foe must parry for 2 rounds.  +8 hits and 1 hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 1 round and fights at -10 for 2 rounds.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Foe is spun about.  +13 hits.  Foe fights at -10 for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 2 rounds.  If foe has helm he takes +8 hits and 2 hits per round.  If not he takes +11 hits and 4 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strike to foe's shield arm.  If foe has no shield or metal armour he is knocked out for 1 day.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+10 hits.  If foe has abdomen armour he takes 2 hits per round; if not 5 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Neck blast knocks foe out.  Foe cannot speak for 2 months and takes 4 hits per round.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back blast.  Foe is down for 1 round and 3 hits per round.  Fights at -20.  +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to weapon arm.  Arm is useless and foe is stunned for 3 rounds.  +13 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike knocks out foe due to shock blood loss and nerve damage.  Foe takes 3 hits per round.  +18 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Lower back strike stuns foe for 20 rounds and adds 3 hits per round.  +15 hits.  Nerve and shock damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>If foe has abdomen armour it is destroyed foe is out knocked down and takes 2 hits per round.  If not foe dies in 12 rounds due to organ loss.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>If foe has full helm his eyes are destroyed and he is in a coma for 2 days.  If not foe dies in 6 rounds due to massive brain damage.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Chest strike knocks foe back 10'.  Massive nerve damage.  Foe dies of fatal shock in 3 rounds.  +22 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Acid vaporizes foe's midsection.  Destroys foe's clothing armour and all he was carrying.  Foe is cut in half and dies.  Add +15 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 round.  +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe feels burns.  If foe has armour he loses 1 round of initiative if not he loses 2 rounds.  +5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and must parry next round.  +7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe reels from blast.  +15 hits and foe is stunned for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Foe reels back 10 feet.  +20 hits and foe is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Foe is staggered.  +20 hits and 3 hits per round.  If foe has non-magical non-metal weapon it is destroyed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Impact and acid stuns foe for 4 rounds.  Foe takes 3 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strike to foe's weapon arm.  Foe drops weapon.  Foe fights at -10 and takes 3 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Leg strike foe is knocked down.  Stunned for 2 rounds.  Cannot parry for 1 round.  +13 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Head strike.  If foe has helm it is destroyed and foe is in a coma for 2 months; if not foe's brain liquifies and he dies.  +10 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike.  Foe is stunned and unable to parry for 4 rounds.  Minor shock.  Fights at -25.  +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Shoulder strike shatters foes weapon arm muscles and cartilage damage.  Arm is useless foe is stunned for 6 rounds and takes 3 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description></Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe inhales acid and he loses throat and lungs.  Foe dies in 12 rounds.  + 20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Foe's lower body turns to mush.  Foe dies in 9 rounds due to loss.  +20 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Side strike melts foe's lower body and internal organs.  Foe dies in 6 rounds.  +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Chest strike destroys both of foe's lungs.  Blast throws foe back 10'.  Foe dies in 3 gasping rounds.  +30 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Acid</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>All that remains of foe is a puddle of flesh.  +20 to your next roll.  YAH!</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

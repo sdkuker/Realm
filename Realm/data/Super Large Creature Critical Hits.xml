@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>The strength of the strike is not up to the challenge.  +10 Hits.  Your weapon breaks in half.  Shoddy workmanship.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Strike lands with little result.  You had better get serious soon!  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>The beast is made of stronger stuff than you had hoped.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>Strike glances off foe and damages his surroundings.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>Solid but nowhere near a vital spot.  Bruise foe's calf muscle.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blow is placed solidly against foe's side.  His vitals are beyond reach at this moment.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Strike threatens foes's eyes and he flinches momentarily then with a roar re-establishes his self-presumed dominance.  +7 Hits.  He looks at your eyes strangly.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>You find a weak point.  Unexpectedly foe reels and falls down.  His shoulder is shattered.  He gets up slowly and menacingly.  You seem to have gained his exclusive attention.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Although not deadly this strike leaves a visible and encouraging wound.  You may win yet!  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Blow to foe's upper arm.  Discoloration and various bruises mark your success.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Your strike hits no vitals but you can hear the ribs in foe's side crackle.  Foe fights on in some pain. (ribs are not broken).   +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Heavy and hard.  Your strike is effective.  Foe's abdomen is damaged.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Blow severs vein and artery.  Foe is stunned for 12 rounds drops then dies.  Awesome.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Your onslaught lands with a resounding thud.  Blow shatters bone.  +30 Hits and 10 Hits per round due to compound fracture.  Foe is at -25%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Violent strike causes Light wound.  +12 Hits.  Foe bleeds at 1 Hit per round.  Add +10% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Side strike.  Foe steps to the side and takes the damage in his ribs.  Bones are broken.  Blow cuts muscle and causes light wound.  +20 Hits.  Foe is at -20% and takes 5 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Titanic blast sends foe stumbling despite his bulk (but does not go down). Blow cuts tendons.  +15 Hits and foe fights -25%.  Add 20% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Mighty is your strike.  Its your turn to give.  A portion of foe's chest rips open and blood sprays on all bystanders within 10 feet.  Blow shatters bone.  +35 Hits.  Foe takes 10 Hits per round is stunned 2 rounds and fights -30%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Normal</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Violent and terrible strike to foe's face.  His eyes are badly damaged.  Foe is blinded and falls over. You have him now. +20 Hits and foe fights -100%.  Foe is stunned and unable to parry for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+10 Hits.  You drop weapon and will take 2 rounds to get it back.  Bum luck buddy.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blow gives foe light wound.  +12 Hits.  Foe takes 3 Hits per round and fights -10%.  You weapon breaks.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>+20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Massive blow to neck crushes bone and breaks spine.  Foe dies in 1 round but drops instantly.  Add +25% to next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike foe in leg and sever vein.  +25 Hits.  Foe drops in 2 rounds and dies.  Foe can fight in the interim.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Light wound.  +13 Hits and foe must parry next round.  Foe takes 2 Hits per round.  Add +20% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Blow stuns foe for 1 round and  foe is unable to parry.  +25 Hits.  Foe is at -20% and is quite upset.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Knock foe dwon.  +20 Hits.  Foe is down for 2 rounds and unable to parry.  Add +25% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Heavy wound.  +35 Hits and foe is stunned for 3 rounds -- unable to parry.  Foe fights -40$ and takes 10 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Magic</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Strike through foe's eye.  You kill foe instantly.  Add +20% to your next swing.  20% chance your weapon is stuck in foe for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+10 Hits.  You fumble weapon for remainder of round.  You are stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blow gives foe light wound.  +15 Hits.  Foe takes 5 Hits per round fights -10% and yields initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Light wound.  +12 Hits.  Foe takes 4 Hits per round and you have the initiative next 2 rounds.  Add +10% next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Blow to lower skull area kills foe instantly.  Foe staggers for 1 round before dropping.  Add +20% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Crush bones in foe's neck.  50% chance foe is paralyzed from neck down.  50% chance that foe is killed.  You have 1/2 round left to act.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Hard blow.  +30 Hits.  Foe is stunned for 3 rounds and is unable to parry during next round.  Add +10% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Knock foe down.  +25 Hits.  Foe is down and unable to parry for next 2 rounds.  Add +10% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Heavy wound.  +28 Hits and foe is at -40%.  Foe is unable to parry and stunned for next 3 rounds.  Foe takes 10 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Viscious blow to foe's leg.  +30 Hits.  Foe takes 12 Hits a round and fights -50%.  Foe is stunned and unable to parry 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Mithril</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Awe inspiring strike drives bone through both lungs.  Foe takes 100 Hits falls into a coma and dies in 18 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+10 Hits.  You funble weapon for remainder of round.  You must parry next round ... at -5%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>+10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>+12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+18 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Heavy wound.  +20 Hits.  Foe is stunned and unable to parry next round.  Foe fights -15% and takes 10 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Light wound.  +13 Hits.  Foe takes 5 Hits per round fights -10% and yields the initiative.  Add +10% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Light wound.  +12 Hits.  Foe takes 4 Hits per round and must parry next round.  Add +20% to your next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Hard blow.  +25 Hits.  Foe is stunned for 2 rounds and is unable to parry next round.  Foe takes 3 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>You cut foe's skull in half.  Weapon is stuck in carnage for 6 rounds.  Add +10% to all friendly swings for 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike through heart kills foe.  +20 Hits.  25% Chance for falls on you out of spite. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Serieould compound fracture.  +30 Hits and foe is stunned unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Knock foe down with a vicious blow.  +40 Hits.  50% chance of coma -- 50% chance foe is down and unable to parry 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Strike severs vast number of blood vessels.  +25 Hits and foe is stunned unalbe to parry for 9 rounds.  Foe is at -25%.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Strike through foe's ear.  +15 Hits.  Foe dies of massive brain damage in 3 rounds.  Add +20% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Holy Arms</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Incredible strike severs an artery and vein and breaks foe's spine.  +50 Hits foe falls and dies after 2 rounds of agony.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>You warn foe of his doom with this tiny whisper of your power.  +10 Hits.  You must parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Foe evades much of the damage.  Maybe next time.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Your blast scrapes along foe's shoulder hissing as it touches his skin.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>30</Maximum>
+            </RollValues>
+            <Description>Your strike is solid and flat foe is &quot;burned&quot; by the enchantment.  +12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>31</Minimum>
+                <Maximum>40</Maximum>
+            </RollValues>
+            <Description>Heavy assault yields a measure of damage to foe's leg.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>41</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strike tears down foe's back.  He ducks down in pain.  +18 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Blast to foe's face.  Most of the damage misses him.  Some does not.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Collapse foe's chest with perfect placement.  Strike to foe's heart and kill sucker.  Add +20% to your next swing.  You are however covered with foe's blood.  +50 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Assault bounces off foe's primary arm and into upper body.  Heavy blow breaks bones in foe's upper body.  +30 Hits.  Foe is stunned and unable to parry for 2 rounds.  Flat strike.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Solid strike to the chest.  Hard blow.  +24 Hits and foe fights at -20%.  Foe is stunned for 3 rounds and unable to parry.  Foe takes 5 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Sparks fly and smoke rises off foe as your assault impacts.  Heavy wound.  +25 Hits.  Foe takes 20 Hits per round and fights at -25%.  Foe is stunned and unable to parry for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Your attack lands with a beautiful crash.  Strike to foe's neck severs a variety of blood vessels and knocks foe down.  Foe expires in 3 rounds due to shock.  +35 Hits.  Nice...</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>98</Maximum>
+            </RollValues>
+            <Description>Shot lands against foe's chest.  Strike drives bone through foe's heart.  Foe dies instantly but your weapon is stuck in foe for 12 rounds.  +40 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>99</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blast to foe's head.  Catch foe between the eyes and shatter the skull.  Foe dies instantly.  You have 1/2 round to act.  Add 25% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>101</Minimum>
+                <Maximum>150</Maximum>
+            </RollValues>
+            <Description>Strike foe through leg and sever vein.  Foe is stunned and unable to parry for 6 rounds.  Foe then dies.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>151</Minimum>
+                <Maximum>175</Maximum>
+            </RollValues>
+            <Description>Awesome blow knocks foe down.  Foe breaks back and neck and suffocates in 12 rounds.  +25 Hits.  Add 20% to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>176</Minimum>
+                <Maximum>200</Maximum>
+            </RollValues>
+            <Description>Strike through foe's eye hits home and rips through brain.  +24 Hits.  Foe drops immediately and dies.  Fine blast.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>201</Minimum>
+                <Maximum>250</Maximum>
+            </RollValues>
+            <Description>Magnificent abdomenal strike drops foe in a heap.  +35 Hits and foe dies of shock in 4 rounds.  You are stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Super Large Creature</Type>
+            <Severity>Slaying</Severity>
+            <RollValues>
+                <Minimum>251</Minimum>
+                <Maximum>999</Maximum>
+            </RollValues>
+            <Description>Epic assault to foe's side.  Strike through side kills foe after a chain reaction of broken bones splinter.  You are covered with foe's blood.  +100 Hits.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

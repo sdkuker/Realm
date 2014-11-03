@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Cool breeze delivers no hits. OK we admit it. This critical...sucks.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Chilly breeze delivers 1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Cold breeze delivers 2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Icy wind delivers 5 hits; target loses a round of initiative.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Staggering airburst gives target 3 hits and he loses 2 rounds of initiative.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Rushing winds deliver 3 hits; target unbalanced (and stunned 1 round).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Target loses 3 rounds of initiative in the rush of air. +2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Target unbalanced. +6 hits stun for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Cold and air loss takes target's breath away; he is stunned for 3 rounds and takes 15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Fog of rushing air stuns target for 2 rounds. +10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blast sends target spinning. +10 hits left arm is broken and useless; he is stunned for 5 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Flying debris strikes target in back; he is stunned for 1 round. +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blast of fleeing atmosphere disorients target; he is stunned and unable to parry for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Crystallizing atmosphere cloud stuns target for 2 rounds; +15 hits. Foe is unable to parry for one round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Swirling debris delivers 10 hits and breaks two of target's ribs; he is at -25.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Target feels his blood simmering. +10 hits and 5 per round while exposed.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Disconcertingly target bleeds through nose and ears. He is at -30 takes 10 hits; 3 hits per round and is stunned for 5 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Target is struck in the head; +20 hits. If foe has a helmet he is unconscious for 1 day; otherwise he is in a coma for 10 days.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Target is knocked down and is struck on the head. +25 hits. Helmet is crushed and useless; target stunned 5 rnds. If no helmet; skull is fractured &amp; target dies in 3 rounds</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Refreshing breeze ruffles hair. Boy-- does he look cool.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Target is unbalanced. +3 hits and he must parry one round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Blast of air unbalances target. +5 hits and he is forced to parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Escaping environment buffets target; delivering 8 hits and stunning him for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Howling winds force target to parry for 2 rounds. +6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Whirlwind stuns foe for 1 round. +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Deafening howl of escaping air; +10 hits; renders target stunned and unable to parry for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Target does a forced about-face; stunning him for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Target hears bells; eardrums burst and hearing permanetly damaged. Nose bleeds; 2 hits/rnd. +18 hits. -50 to activity for 5 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Winds stun target 1 round; deliver 2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Fog of escaping gas confuses target and stuns him 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Whirling oxygen crystals blind target; stunning him for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Blast sends target careening 2m; impact causing broken leg. Foe is is -50 &amp; stunned 3 rounds; +15 hits. (Strapped-in target only takes 5 hits.)</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Target's boiling blood delivers 15 hits and 7 per round while he is exposed to vacuum.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Unpleasantly; target bleeds through eyes- nose- and ears. He is at -50; takes 15 hits; 5 hits per round and is stunned for 7 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Target's lungs collapse. +20 hits; target is at -80 and dies in 12 agonizing rounds of asphyxiation.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Luckily target is lodged between conduits within 3 meters of a door to safety; avoiding an unpleasant space walk. Unluckily his spine is damaged and he is paralyzed from the waist down. +25 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Target's ears pop. +1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Target's ears pop audibly; +2 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Target's ears really pop. +3 hits &amp; permanent minor hearing loss.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Inner ears pop. Target unabalanced. +5 hits &amp; must parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Pressure change causes equilibrium problems. +6 hits; stunned 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Target is muddled and must parry for 2 rounds. +7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Target stunned for 1 round. +8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Debris strikes target in leg; he is stunned 1 round and takes 2 hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blast stuns target for 2 rounds; he cannot parry for the first round. Leg hit; +9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Target spun about. +5 hits. Stun 3 rounds; loses initiative for 3 more.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Flying debris strikes target in head; +12 hits and he is stunned 6 rounds by impact. If no helmet; skull is fractured &amp; target unconscious with concussion.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike. Target is stunned and cannot parry for 2 rounds. Target is at -10 . +11 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Airborne stuff blinds target; stunning him for 2 rounds and delivering 10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Now you know why it's called &quot;Hard&quot; vacuum: blast knocks the wind out of target; +15 hits &amp; breaks ribs; stuns him for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Brutal wind carries target 3 meters slamming him against a hard surface. Foe is stunned for 10 rounds; +25 hits. (Strapped-in target only takes 10 hits.)</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Target's blood starts to boil: +30 hits and 10 per round while exposed. He is stunned for six rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Grossly target begins to bleed through eyes; nose; ears and under fingernails. He is at -70 &amp; takes 20 hits; 7 hits per round and is stunned for 9 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Sudden pressure change causes multiple internal organ malfunctions. Foe is completely incapacitated for 10 rounds; then dies.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Explosive blast sends target's brain out through ears. He is quite dead.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Winds distract target; he loses initiative for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 hits; target forced to parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+4 hits and target must parry for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Escaping air stuns target for 1 round; he takes 6 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Fleeing oxygen gives target pause; he is stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Roaring winds confuse target. He is stunned 3 rounds and takes 8 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Target slashed by debris: +10 hits and 5 per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Target's hand is struck by debris: off-hand wrist is sprained and at -50. +12 hits and stunned for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Airburst staggers target; +10 hits &amp; he is stunned and unable to parry for 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Target spins like a top. +10 hits and foe is stunned no parry 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Target flung outward by winds; but gets a reflexive grip on the edge of the breach. 25 hits &amp; stunned w/no parry 5 rounds (but holding on until unconscious).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Target thrown 2 meters and slammed against a bulkhead. He is stunned 3 rounds and takes 10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Whirling debris strikes target in head; +15 hits; a minor concussion; stunned no parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Depressurization damages ears. Inner ear equilibrium upset; stun 3 rounds &amp; +10 hits. Maneuvers at -50 for 2 days. Permanent deafness.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Escaping atomosphere drags target 4m battering him on the way. Both of his arms are broken; stunned for 4 rounds; +25 hits. Strapped-in target: only +15 hits; stunned 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Target's blood is bubbling: +40 hits and 15 per round while exposed. He is stunned for eight rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Disgustinly target bleeds through all of his bodily orifices. He is at -80 takes 25 hits 9 hits per round and is stunned for 10 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Target is slammed by rushing air. +25 hits bone is driven into target's internal organs; killing him in three helpless &amp; painful rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Lack of air pressure disrupts lungs- eyes- and ears. Not a pretty sight. Target dies in 12 messy rounds- blind and deaf.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 hits target must parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+5 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Airburst stuns target and delivers 7 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Target stunned no parry 1 round; 9 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Target stunned 4 rounds by freezing air.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Target struck by debris: +20 hits; 2 per round and stunned 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Target struck in weapon-arm: 50% chance item in hand is dropped (and lost in vacuum). +10 hits and stunned 5 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>A flurry of sharp metal fragments slash target. +20 hits and 7 per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Target whirls like a gyroscope. +15 hits; foe is stunned no parry 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Wasting no time; target zips out through hull breach. Surrounded by a cloud of frozen oxygen he explores the final frontier. If he has a spacesuite fine; if not; he is dead after 6 rnds. Wave goodbye. Funny he had just mentioned this morning a really strange dream he had last night about being sucked into his moms old Dirt Devil...I guess we'll never get to figure out what that one meant. Oh well.....</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Lack of air takes target's breath away. He is at -50; stunned 3 rounds and takes 10 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Flying debris strikes target in head. He is stunned no parry 2 rounds; +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Decompression collapses one lung and destroys hearing. Target at -70; +20 hits and he is stunned 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Explosive decompression hurls target 5m pummeling his poor body. Internal organs are damaged; +50 hits; dies in 12 rnds. Strapped in target: only +25 hits; stunned 8 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Target's circulatory system becomes a balloon: +50 hits; 20 hits/rnd while exposed. Stunned for 3 rnds then (if exposure continues) unconscious as major organs are seriously damaged. Poor bloated fool dies in 12 rnds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>In a clear attempt to gross everyone out target bleeds through all of his pores. He is at -90; +30 hits and takes 12 hits/rnd and is stunned for 6 rnds before losing consciousness (if not before).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Target unwittingly attempts to turn inside out. Unsuccessful (sort of); he loses use of all sensory organs as well as lungs;  &amp; tumbles unconscious through deep space. +80 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vacuum</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Rather abrupt decompression. Target explodes into billions and billions of tiny bits of flesh quite severely dead.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

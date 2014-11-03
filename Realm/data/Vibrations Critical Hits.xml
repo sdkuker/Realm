@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Skin tingles.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+2 hits. Lose initiative next rnd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+3 hits. Lose initiative next round. Must parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+6 hits. Unbalanced loses initiative 2 rounds. Must parry 1 round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>+8 hits. Lower leg strike. Unbalanced loses initiative 2 rounds. Stunned 1 round. +1 hit/round. Moves at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+8 hits. Minor back strike. Unbalanced loses initiative 3 rounds. Stunned 1 round. +1 hit/round. Moves at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor chest strike. Unbalanced. Stunned 1 round. Must parry 1 round. +1 hits/round. Moves at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor thigh strike. Knocked down. Stunned 1 round. +1 hits/round. Moves at -10. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+12 hits. Minor forearm strike. Unbalanced. Stunned 1 round. -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major shoulder strike. Non-weapon shoulder broken arm is useless. Stunned no parry 1 round. +3 hits/round. -25 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+7 hits. Minor collar bone strike. Unbalanced. Stunned 3 rounds -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>+10 hits. Torn tendons in lower leg unbalanced knocked down to one knee. Stunned 1 round. -10 to all actions.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+11 hits. Torn tendons and muscles in biceps. Stunned 2 rounds no parry next round. +1 hits/round. -10 to all actions. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>+12 hits. Broken ribs and torn cartilage. Stunned 4 rounds. +3 hits/round. -10 to all actions. +10 to your next strike. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+13 hits. Minor back strike. Knocked down 2 rounds. Stunned 3 rounds. +2 hits/round. -10 to all actions. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major hip strike. Knocked down 2 rounds. Stunned 2 rounds. -25 to all actions. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major head strike. If foe not wearing helmet knocked out for 1 month (coma); otherwise out 1 day. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major head strike. If not wearing helmet neck snaps dies in 3 rounds; else out 1 day. -25 to all actions. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Strike tickles foe's sides. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+4 hits. Minor side strike. Lose initiative 1 round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+5 hits. Minor side strike. Unbalanced must parry 1 round at -30.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+7 hits. Unbalanced. Stunned 1 round. Must parry 1 round. +1 hit/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>+9 hits. Lower leg strike. Unbalanced. Stunned 1 round. Must parry 1 round. +4 hits/round. Moves at -10. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor back strike. Unbalanced. Stunned no parry 1 round. +1 hit/round. -10 to activity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>+12 hits. Minor chest strike. Unbalanced and knocked down. Stunned 2 rounds. +2 hits/round. Moves at -10. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor thigh strike. Spun around. Stunned 1 round. +2 hits/round. Moves at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor forearm strike. Forearm shattered hand is useless. Stunned no parry 1 round. +2 hits/round. -10 to activity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>+15 hits. Major arm strike. Weapon arm is shattered joints destroyed arm is useless. Stunned no parry 5 rounds. +4 hits/round. -25 to activity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor back strike. Stunned 3 rounds no parry 1 round. +1 hit/round. -10 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor calf strike. Stunned 4 rounds no parry 3 rounds. +2 hits/round. -25 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor arm strike. Non weapon arm has broken bones and torn tendons and muscles. Stunned 3 rounds. -20 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>+12 hits. Broken ribs and torn cartilage. Stunned 6 rounds. +4 hits/round. -20 to activity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major calf strike. Broken bones and torn tendons. Knocked down. Stunned no parry 5 rounds. -25 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>+25 hits. Major hip strike. Shattered hip. Stunned 5 rounds then out cold for 1 hour. +2 hits/round. -25 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>+25 hits. Major head strike. Side of foe's face is shattered dies in 3 inactive rounds. +2 hits/round. -25 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>+30 hits. Major head strike. Brain is turned into mush. Foe is dead. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 hits. +10 to your next strike.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+5 hits. Minor side strike. Unbalanced must parry 1 round. +1 hit/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+8 hits. Minor side strike. Unbalanced. Stunned 1 round. Must parry 1 round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+9 hits. Minor chest strike. Unbalanced. Stunned no parry 1 round. +1 hit/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>+10 hits. Lower leg strike. Unbalanced and knocked down to one knee. Stunned 2 rounds. +3 hits/round. Moves at -10. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+12 hits. Minor back strike. Stunned 2 rounds. Must parry 1 round. +1 hit/round. -10 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>+15 hits. Minor chest strike. Unbalanced and knocked back 5 feet down 2 rounds. Stunned 2 rounds. +2 hits/round. -15 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>+12 hits. Minor thigh strike. Knocked down 2 rounds. Stunned 3 rounds. +2 hits/round. -15 to activity.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+12 hits. Minor forearm strike. Forearm shattered arm is useless. Stunned no parry 1 round. +2 hits/round. -20 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>+25 hits. Major leg strike. Knee is shattered joints destroyed leg is useless. Out cold 5 rounds. +2 hits/round. -35 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+12 hits. Minor back strike. Stunned 4 rounds no parry 2 rounds. +3 hits/round. -15 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor leg strike. Knocked down 2 rounds. Stunned 5 rounds no parry 8 rounds. +2 hits/round. -25 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+15 hits. Minor chest strike. Collar bone is broken arm is useless. Stunned 3 rounds. +3 hits/round. -25 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>+15 hits. Broken leg and torn tendons muscles and cartilage. Stunned 6 rounds no parry to 7 rounds. +4 hits/round. -30 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+25 hits. Major groin strike. Broken bones and torn tendons and muscles. Stunned no parry 8 rounds. +4 hits/round. -30 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>+30 hits. Major head strike. Shattered skull bone fragements destroy brain. +6 hits/round. Dies in 4 inactive rounds. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>+30 hits. Major chest strike. Heart overheats and shuts down. Dies in 2 rounds. +2 hits/round. -35 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>+30 hits. Major head strike. Eyes turn to jelly ears quiver head is filled with a loud hum. brain ceases to function. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 hits. Lose initiative 1 round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+7 hits. Minor side strike. Unbalanced. Stunned 1 round. Must parry 1 round. +1 hits/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+8 hits. Minor side strike. Unbalanced. Stunned 1 round. Must parry 1 round. +1 hit/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor leg strike. Unbalanced. Stunned no parry 1 round. +1 hit/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>+12 hits. Minor groin strike. Unbalanced. Stunned 3 rounds no parry 2 rounds. +2 hits/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+16 hits. Minor back strike. Stunned 2 rounds. Must parry 1 round. +2 hits/round. -15 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major chest strike. A lung collapses. +2 hits/round. -20 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor leg strike. Stunned 1 round no parry 1 round. +3 hits/round. -30 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+10 hits. Minor forearm strike. Forearm shattered arm is useless. Stunned 2 rounds no parry 1 round. +3 hits/round. -40 to all actions. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>+30 hits. Major head strike. If foe is not wearing a helm dies; otherwise out cold 3 hours. +2 hits/round. -35 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+15 hits. Minor back strike. Out cold 2 rounds. Stunned 7 rounds. +4 hits/round. -25 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>+15 hits. Minor leg strike. Knocked out 3 rounds. Stunned no parry 5 rounds. +5 hits/rounds. -30 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major chest strike. Knocked out 5 rounds. Stunned no parry 12 rounds. +6 hits/round. -35 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>+20 hits. Broken spine and torn tendons muscles and cartilage. Paralyzed from the neck down. +4 hits/round. Foe is very unhappy. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+30 hits. Major abdomen strike. Internal organs are turned to pulp. -40 to activity for 4 rounds then dies. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>+35 hits. Limbs are shattered. Arms and legs flail about for 3 rounds. Treat as if paralyzed from neck down. +6 hits/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>+40 hits. Chest and back muscles are liquified chest cavity plunges down to hips destroyed all internal organs dies in 1 round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>+50 hits. Major head strike. Brain oozes out facial openings body takes two involuntary steps back and then drops very dead. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+5 hits. Lose initiative 1 round. Stunned 1 round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+8 hits. Minor side strike. Unbalanced. Stunned 1 round. Must parry 1 round. +1 hit/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>+15 hits. Minor side strike. Unbalanced. Stunned 1 round. Must parry 1 round. +1 hit/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>+15 hits. Minor side strike. Unbalanced. Stunned no parry 2 rounds. +1 hit/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>+12 hits. Minor leg strike. Leg is shattered destroying leg muscles tendons cartilage. Knocked down and back 10'. -35 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major back strike. Knocked down 3 rounds. Stunned 2 rounds. Must parry 2 rounds. +2 hits/round and at -50. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major back strike. Out cold for 2 rounds. Stunned no parry 5 rounds. +5 hits/round. -25 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major chest strike. Out cold 3 rounds. Stunned no parry 6 rounds. +6 hits/round. -35 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major forearm strike. Forearm joint is destroyed. Knocked down out 3 rounds arm is useless. Stunned 4 rounds. -25 to all actions. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>+40 hits. Major chest strike. Drops and dies in 6 agonizing rounds. Massive damage to torso and internal organs. +7 hits/round. -45 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>+25 hits. Major chest strike. Knocked out for 1 day. +7 hits/round. -45 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>+20 hits. Major chest strike. blood vessels pop. Bleed to death in 8 inactive rounds. +7 hits/round. -45 to activity. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>+25 hits. Major groin strike. Pain staggers and drops foe blood fills torso cavity. Death comes in 6 very painful rounds. +10 hits/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>+30 hits. Shattered collar bone and shoulder. Neck snaps death occurs in 10+1D10 rounds from suffocation. +4 hits/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>+35 hits. Major head strike. brain functions cease except breathing and heart beat (treat as a coma). Foe would be better off dead. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>+40 hits. Major body strike. Body split into four equal parts each going its own separate way. Foe is dead (all four parts). +25 hits/round. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>+50 hits. Major head strike. Brain flames out of existence flames sprout out of facial openings. Foe is gone forever. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Vibrations</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>+60 hits. Major body strike. Body is literally ripped into thousands of parts. Foe is made into pool of bloody jelly. Very dead. </Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

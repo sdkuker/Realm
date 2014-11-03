@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>ZIP.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>You receive initiative next round.  +1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe must parry next round.  +1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe must parry next round.  +2 Hits.  Add +10 to next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Minor calf wound.  Foe receives 1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blow to foe's back.  +2 Hits.  Foe must parry next round -30.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blow to foe's chest.  +2 Hits.  Foe must parry next round -25.  Foe's wound gives 1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Minor Thigh wound.  Foe takes 2 Hits per round and must parry next round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Minor forearm wound.  +3 Hits.  Foe takes 2 Hits per round and is at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>You shatter shoulder in foe's non-weapon arm.  Arm is useless.  +10 next swing.  Foe is stunned 3 rounds.  +9 Hits.  Your initiative.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Slash foe's nexk.  +6 Hits.  Foe is stunned for 3 rounds and cannot parry during next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Slash tendons in foe's lower leg.  Foe at -30 and takes 2 Hits per round.  +4 Hits.  Stun foe 2 rounds.  Poor sucker.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Slash foe's upper arm.  +5 Hits.  Foe takes 3 Hits per round and is at -25.  Foe is stunned and unable to parry 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Slash foe in side.  +6 Hits and a major wound.  Foe takes 6 Hits a round and is stunned 5 rounds.  Add +20 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Slash foe in back.  +8 Hits.  Foe is stunned and cannot parry for 2 rounds.  Wound yields 2 Hits a round.  Foe at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Cut off foe's ear.  +3 Hits.  Foe takes 3 Hits per round and hears at -50.  Foe is stunned 3 rounds and unable to parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Slash foe's nose.  Minor wound.  +2 Hits and a permanent scar.  Foe takes 2 Hits a round and is at -30.  Foe stunned 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Neck stike severs carotid artery and jugular vein.  Foe's neck is broken.  Foe dies in 1 round of intense agony.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Weak strike yields no extra damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Glancing blow to foe's side.  +3 Hits.  You receive initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Blow to side.  +2 Hits.  Foe must parry next round at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe must parry next round at -20.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Minor calf wound.  Foe takes 1 Hit per round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blow to foe's back.  Foe must parry next round at -30.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Minor chest wound.  Foe takes 1 Hit per round and must parry next 2 rounds.  +3 Hits.  Foe fights -5.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Minor thigh wound.  Foe takes 2 Hits per round.  +4 Hits.  Foe must parry next 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Minor forearm wound.  Foe is stunned next round.  Takes 2 hits per round and is at -10. +4 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Shatter elbow in foe's weapon arm.  +8 Hits.  Foe is stunned 4 rounds and cannot parry during first 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Blow to  foe's neck area.  Foe takes 3 Hits per round and fights at -5.  Stun foe 2 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Slash muscle in foe's calf.  Foe is stunned for 3 rounds and cannot parry during next round.  +6 Hits.  Foe at -40.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Slash muscle in foe's non-weapon arm.  Foe is at -30 and takes 3 Hits per round.  Foe is stunned and unable to parry for 2 rounds.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Slash foe in side.  +7 Hits and a major wound.  Foe takes 6 hits per round.  Foe is stunned and cannot parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Strike to back knocks foe down.  Foe is stunned and unable to parry for 3 rounds.  +10 Hits.  Foe takes 3 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Strike to foe's hip.  +7 Hits and foe is stunned 3 rounds.  Foe cannot parry next round and fights -20.  Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Strike to foe's head and neck breaks skull and causes massive brain damage.  Foe drops and dies in 6 rounds.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Disembowel foe killing him instantly.  </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Blow to foe's side yields +6 Hits.  You receive initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Blow to side.  +4 Hits.  Foe must parry next round -20.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>You break foe's rib.  3 extra Hits.  Foe is stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>You slash foe's leg.  Foe takes 2 Hits per round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blow to foe's back stuns foe 1 round.  Foe may not parry.  +3 Hits and foe takes 1 Hit per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Minor chest wound.  +4 Hits.  Foe takes 2 Hits per round and fights at -10  Foe must parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Minor thigh wound.  Foe takes 2 Hits per round.  +5 Hits.  Foe is stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Medium forearm wound.  +4 Hits.  Foe takes 3 Hits per round is at -10 and is stunned next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>You shatter foe's knee.  Foe is knocked down.  +6 Hits.  Foe at -90 and is down for 3 rounds (and cannot parry).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Slash foe's neck.  Foe is stunned 4 rounds and cannot parry during next 2 rounds.  +8 Hits.  Add +10  next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Slash muscle and tendons in foe's lower leg.  Foe is stunned for 2 rounds and cannot parry.  +7 Hits.  Foe at -45.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Slash muscle and tendons in foe's non-weapon arm.  +9 Hits.  Foe takes 4 Hits per round and arm is useless.  Foe is stunned 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Stike to foe's side.  +8 Hits.  Foe takes 4 Hits per round and is at -20.  Foe is stunned and cannot parry for next 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blast to back breaks bone and knocks foe down.  +9 Hits and foe at -10.  Foe is stunned and unable to parry for 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Sever foe's leg.  Foe drops immediatiely and dies in 6 rounds due to shock and blood loss.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Sever foe's non-weapon arm.  Foe is stunned unable to parry for next 12 rounds.  Foe then dies.  +18 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Destroy foe's eyes.  +5 hits and foe is stunned and unable to parry for next 30 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+3 Hits.  Foe must parry for next round of action.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Minor side wound.  Foe fights at -10.  +2 Hits.  You receive initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Strike to side.  Foe is stunned for next round and cannot parry.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>You slash foe's upper leg and deliver 3 extra hits.  Foe takes 2 Hits a round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strike to foe's lower back.  Foe may not parry and is out next round.  +3 Hits.  Foe takes 2 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Medium chest wound.  +5 Hits.  Foe takes 3 Hits per round fights -15 and must parry next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Medium thigh wound.  +6 Hits.  Foe takes 2 Hits per round and is stunned 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Medium forearm wound.  +4 Hits.  Foe takes 3 Hits per round is at -10 and is stunned next 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>You knock foe out for 6 hours with a strike to side of head.  +15 Hits.  If foe has no helmet you kill him instantly.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Slash muscle in foe's shoulder area.  +5 Hits.  Foe is stunned 3 rounds and is at -20.  Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Slash muscle and sever tendons in foe's lower leg.  Foe is stunned for 3 rounds and cannot parry for next 2.  Foe at -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Slash muscle and tendons in foe's weapon arm.  Arm is useless and foe is stunned 4 rounds.  Foe cannot parry next 2 rounds.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Major abdomenal wound.  +10 Hits.  Foe takes 8 Hits per round is stunned for 4 rounds and is unable to parry next 2 rounds.  Foe at -10.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Sever opponent's hand.  +6 Hits.  Foe is stunned for 6 rounds unable to parry.  Foe then drops and dies 6 rounds later.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Sever foe's weapon arm.  Foe is stunned and unable to parry for next 9 rounds.  Foe then dies.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Slash foe's side.  +20 Hits.  Foe dies in 3 rounds due to massive internal organ damage.  Foe is down and unconscious immediately.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Impale adversary in heart.  +12 Hits.  Foe dies instantly.  Heart is destroyed.  </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Unbalance foe.  +5 Hits.  You receive initiative next round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>+4 Hits.  Foe must parry next round of action.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Stun foe for 1 round.  Foe may not parry.  Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe receives minor side wound fights at -10 and takes 1 Hit per round.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blow to foe's upper leg.  If foe has leg armor +5 Hits.  If foe has no armor +3 Hits and +3 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Strike to foe's lower back.  Foe may not parry and is out next round.  +4 Hits.  Foe takes 3 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Chest wound.  Foe takes 4 Hits per round is at -10 and is stunned 2 rounds.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Thigh wound.  Foe is stunned for 2 rounds.  +8 Hits.  Foe takes 5 Hits a round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Forearm wound.  Foe is stunned for 2 rounds.  +6 Hits.  Foe takes 3 Hits per round and is at -15.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Sever foe's weapon arm.  +12 Hits.  Foe expires in 12 rounds drops immediately.  Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Slash tendons and crush the bone in foe's non-weapon shoulder.  Arm useless and foe takes 2 Hits per round.  Stun foe 4 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Slash foe's lower leg and sever muscle and tendons.  Foe at -70 and takes 3 Hits per round.  +8 Hits. Stun foe 6 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Slash tendons and break bone in foe's non-weapon arm.  Arm is useless.  +12 Hits.  Foe is stunned and cannot parry for next 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Sever opponent's hand.  +5 Hits.  Foe is stunned and unable to parry for next 12 rounds.  Foe then dies.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Sever foe's leg.  +15 Hits.  Foe drops aand lapses into unconsciousness.  Foe dies in 9 rounds.  Add +10 to your next swing.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Sever foe's spine.  +20 Hits.  Foe collapses in a second and is paralyzed from the neck down permanently.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Strike to foe's head destroys brain and makes life difficult for the poor fool.  Foe expires in a heap -- immediatiely.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Slash</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Strike to foe's groin area.  +10 Hits.  All vitals are destroyed immediately.  Foe is stunned and unable to parry for 12 rounds.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>

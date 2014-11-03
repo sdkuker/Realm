@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<criticalHitsLibraryType xmlns="http://com.sdk.realm/RealmCriticalHitsDefinitionV0.0.0.1">
+    <CriticalHitCollection>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>A lot of static.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is spun about and loses 1 round of initiative.  +3 Hits. </Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Blast unbalances foe and he loses 2 rounds of initiative.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Light distracts foe and he must parry for 1 round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Minor burns.  Foe must parry for 1 round and takes 1 Hit per round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Sizzling but weak blast stuns foe for 1 round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced and is forced to parry next 3 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Chest strike.  If foe has metal armor he is stunned for 2 rounds.  If foe has no armor he is stunned 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Blast of light and smoke stun all within 5 feet of foe for 1 round.  Foe is knocked down and stunned for 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike.  Foe is stunned and unable to parry for 1 round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 3 rounds.  Foe fights -5 for 6 rounds.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Strike to foe's upper chest stuns foe for 2 rounds.  Foe cannot parry for 1 round.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Back blast.  Foe is stunned and unable to parry for 2 rounds.  +12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blast knocks foe down.  If foe has metal leg armor he loses use of leg due to nerve damage.  If not +15 Hits and foe is stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Hip strike.  If foe has hip armor +10 Hits and foe is stunned 6 rounds.  If not foe is stunned 3 rounds and acts at -50 due to shock and nerve damage.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Neck and shoulder strike.  If foe has neck armor he is stunned and unable to parry for 6 rounds.  If not foe is knocked out and loses ability to speak.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>A</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Head strike.  Foe's brain falls victim to massive shock and surface burns.  Foe drops into unconsciousness and dies in 6 round.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>Foe's hair stands up.  +0 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 round; the metal he bears begins to buzz.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Explosion of light causes foe to lose 1 round of initiative.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Crackling blast forces foe to lose 2 rounds of initiative.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Minor burns.  Foe must parry for 1 round and takes 1 Hit/round.  +2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Blast forces foe to parry for 2 rounds.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Foe is spun about and is stunned for 1 round.  A minor burn on foe's leg causes 2 Hits per round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Foe is stunned for 2 rounds.  If foe has metal armor he cannot parry for 1 round.  +8 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Upper leg strike.  Foe is stunned and unable to parry for 1 round.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Foe is stunned and unable to parry for 3 rounds takes 3 Hits per round and fights at -20.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike.  Foe is stunned for 2 rounds and cannot parry for 1 round.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to foe's non-weapon  arm.  If foe has armor he is stunned for 4 rounds.  If not foe's arm is useless and foe is stunned and not able to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Foe is knocked down and takes 2 Hits per round due to bleeding.  +11 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Back blast.  Foe is stunned and unable to parry for 3 rounds.  Muscle is torn and foe fights at -10.  +13 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Leg strike.  If foe has leg armor he is stunned and unable to parry for 6 rounds.  If not foe's leg is broken and has damaged nerves and foe is stunned 6 rounds and fights -50.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Head strike.  Foe loses nose is stunned for 9 rounds and is temporarily blinded for 2 weeks.  Foe fights at -95 while blind.  If no helm he is knocked down.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Head strike.  Blast cracks skull and causes massive shock and brain damage.  Foe drops and dies in 9 rounds.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>B</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Blast through foe's neck severs head and kills foe instantly.  Add 10% to your next attack roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+1 Hit.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe hears crackling sound and loses 1 round of precious initiative.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Eruption of smoke forces foe to lose 2 rounds of initiative.  +3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Stong but glancing glast forces foe to parry next round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Foe feels the heat and must parry for 2 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>If foe has metal armor he is stunned 2 rounds.  If not foe is stunned for 1 round.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Strike to foe's leg.  If foe has leg armor he is stunned for one round.  If not foe stunned and unable to parry 1 round and takes +3 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 2 rounds.  Foe cannot parry for 1 round.  Leg hit.  +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Foe is stunned and unable to parry for 2 rounds.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Chest strike.  If foe has metal armor on arms and over chest it becomes fused and he cannot use arms.  If not foe is knoced out for 6 hours and takes +9 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike.  Foe is stunned and unable to parry for 2 rounds.  Burns force foe fight at -10.  +11 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to foe's non-weapon arm. If foe has metal arm armor he is stunned for 6 rnds and takes +12 hits. If not foe is knocked down arm is useless +13 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike.  If foe has chest armor he is stunned for 6 rounds takes 2 Hits per round and fights -5.  If not foe is knocked out for 3 days due to shock.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Thigh strike.  Foe takes 2 Hits per round.  Bones break and torn cartilage.  Foe is stunned for 4 rounds and fights at -40.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blast shatters foe's knee and destroys a variety of nerves.  Foe fights at -60 and is stunned and unable to parry for 2 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Strike through foe's lower abdomen.  Massive shock and bleeding.  If abdomen armored foe fights at -75 and takes 5 Hits per ournd.  If not foe dies in 6 inactive rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Chest strike destroys foe's heart and lungs.  If foe has metal chest armor it is a fused lump and foe dies in 6 rounds.  If not foe dies instantly.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>C</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's head is no longer available.  Smoke and ozone surround the lifeless body.  Add  to friendly witnesses' rolls foe 3 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+2 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>+4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 rounds.  The smell of danger is in the air.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Foe is unbalanced but the strike is weak.  Foe must parry next round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Light burns.  Foe must parry for 2 rounds.  Foe takes 1 hit per round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Blast stuns for 1 round.  Foe fights at -10 for 2 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>Explosion of light and fire stuns foe for 2 rounds.  Foe fights at -10 for 2 rounds.  +7 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Blast stuns foe for 2 rounds and foe is unable to parry for 1 rounds.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strike to foe's non-weapon arm. If foe has metal armor he is knocked out for 1 day. +15 hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>If foe has amor over abdomen he takes 2 hits/rnd and is stunned 2 rounds due to minor burns.  If not burns stun foe 6 rounds and give him 3  hits/rnd.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Neck blast knocks foe out.  Foe cannot speak for 2 months and takes +4 Hits per round.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike.  Foe is knocked down and out of action for 1 round.  Minor shock.  Foe fights at -20.  +12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Strike to foe's weapon arm.  Arm is useless and foe is stunned for 2 rounds.  +13 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike.  If foe has metal chest armor he is knocked out and takes +25 Hits.  If not foe is stunned and unable to parry for 6 rounds ant takes +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Lower back strike.  Nerve damage and shock.  Foe is stunned for 30 rounds and takes +3 Hits per round.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Abdomen strike.  If foe has armor over abdomen he is stunned for 9 rounds and takes +6 Hits per round.  If not foe dies of shock and bleeding in 12 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Side strike devastates foe's nervous system.  Foe falls into a coma and goes into severe shock.  Foe is a living vegetable.  +30 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Chest strike knocks foe back 10 feet.  Massive nerve damage.  Foe dies of fatal shock in 3 rounds.  +20 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>D</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe's nervous system acts as a superconductor.  Foe's sad instant death provides all the witnesses with a fine light show.  Add  +15 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>1</Minimum>
+                <Maximum>5</Maximum>
+            </RollValues>
+            <Description>+3 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>6</Minimum>
+                <Maximum>10</Maximum>
+            </RollValues>
+            <Description>Foe loses initiative for 1 round.  +4 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>11</Minimum>
+                <Maximum>15</Maximum>
+            </RollValues>
+            <Description>If foe has metal armor he loses 2 round of initiative.  If not foe is stunned but 1 round.  +5 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>16</Minimum>
+                <Maximum>20</Maximum>
+            </RollValues>
+            <Description>Glancing strike stuns foe for 1 round.  +6 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>21</Minimum>
+                <Maximum>35</Maximum>
+            </RollValues>
+            <Description>Foe gets a minor scorching and is stunned for 2 rounds.  +10 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>36</Minimum>
+                <Maximum>45</Maximum>
+            </RollValues>
+            <Description>Smoke and light stun foe for 2 rounds.  Foe fights at -10 for 2 rounds.  +12 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>46</Minimum>
+                <Maximum>50</Maximum>
+            </RollValues>
+            <Description>If foe has metal armor he is stunned and unable to parry for 2 rounds.  If not foe is stunned for 2 rounds.  +13 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>51</Minimum>
+                <Maximum>55</Maximum>
+            </RollValues>
+            <Description>Hot smoke and light stuns foe for 4 rounds.  Foe loses initiative for 6 rounds.  +13 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>56</Minimum>
+                <Maximum>60</Maximum>
+            </RollValues>
+            <Description>Strike to foe's weapon arm.  Foe drops all that is in his weapon hand and is stunned for 2 rounds.  Foe takes 2 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>61</Minimum>
+                <Maximum>65</Maximum>
+            </RollValues>
+            <Description>Leg strike.  Foe is knocked down and stunned for 2 rounds.  Foe cannot parry for 1 round.  +14 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>66</Minimum>
+                <Maximum>66</Maximum>
+            </RollValues>
+            <Description>Head strike.  If foe has a leather helm it is destroyed and foe is in a coma for 2 months.  If not foe's brain is fried and he dies instantly.  Add +10 to your next roll.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>67</Minimum>
+                <Maximum>70</Maximum>
+            </RollValues>
+            <Description>Back strike.  Foe is stunned and unable to parry for 4 rounds.  Minor shock.  Foe fights at -25.  +15 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>71</Minimum>
+                <Maximum>75</Maximum>
+            </RollValues>
+            <Description>Shoulder strike shatters bone in foe's weapon arm.  Muscle and cartilage damage.  Arm is useless foe is stunned for 6 rounds and takes +3 Hits per round.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>76</Minimum>
+                <Maximum>80</Maximum>
+            </RollValues>
+            <Description>Chest strike.  Foe is knocked out due to shock.  Blood loss and nerve damage cost foe +3 Hits per round.  +18 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>81</Minimum>
+                <Maximum>85</Maximum>
+            </RollValues>
+            <Description>Foe become a conductor and strike rearranges his entire nervous system.  Foe drops and lies in shock for 12 rounds before dying.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>86</Minimum>
+                <Maximum>90</Maximum>
+            </RollValues>
+            <Description>Blast crushes pelvis and shatter lower backbone.  Foe's spine in burned into a multitude of small parts.  Foe is knocked out and dies in 12 rounds.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>91</Minimum>
+                <Maximum>95</Maximum>
+            </RollValues>
+            <Description>Side strike melts foe's lower skeleton and destroys a variety of organs.  Foe dies in 9 inactive rounds.  +25 Hits.</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>96</Minimum>
+                <Maximum>99</Maximum>
+            </RollValues>
+            <Description>Chest strike destroys both of foe's lungs and cuts foe in half.  Blast continued to a point 10 feet beyound foe (subtract 20 if it strikes second target).</Description>
+        </CriticalHit>
+        <CriticalHit>
+            <Type>Electricity</Type>
+            <Severity>E</Severity>
+            <RollValues>
+                <Minimum>100</Minimum>
+                <Maximum>100</Maximum>
+            </RollValues>
+            <Description>Foe returns to the dust from which he came.  Add 20 to your next roll.</Description>
+        </CriticalHit>
+    </CriticalHitCollection>
+</criticalHitsLibraryType>
